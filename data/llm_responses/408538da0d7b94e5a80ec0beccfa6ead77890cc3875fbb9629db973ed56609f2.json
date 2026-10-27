@@ -1,0 +1,31 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "AMD Instinct MI300X",
+      "AMD Instinct MI300A APU",
+      "AMD Ryzen 8040 Series mobile processors",
+      "AMD Ryzen 8000G Series desktop processors",
+      "AMD Radeon RX 7600 XT GPU",
+      "AMD VersalTM AI Edge XA Series",
+      "AMD Ryzen Embedded V2000A devices",
+      "AMD Ryzen Embedded 7000 Series processors"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"AMD Instinct MI300X\",\"AMD Instinct MI300A APU\",\"AMD Ryzen 8040 Series mobile processors\",\"AMD Ryzen 8000G Series desktop processors\",\"AMD Radeon RX 7600 XT GPU\",\"AMD VersalTM AI Edge XA Series\",\"AMD Ryzen Embedded V2000A devices\",\"AMD Ryzen Embedded 7000 Series processors\"]}",
+  "usage": {
+    "prompt_tokens": 1524,
+    "completion_tokens": 93,
+    "total_tokens": 1617
+  },
+  "elapsed_seconds": 41.28,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q42023991final.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Mitch Haws AMD Investor Relations 408-749-3124 mitch.haws@amd.com AMD Reports Fourth Quarter and Full Year 2023 Financial Results SANTA\nLisa Su. “Demand for our high-performance data center product portfolio continues to accelerate, positioning us well to deliver strong annual growth in what is an incredibly exciting time as AI re-shapes virtually every part of the computing market.” “AMD executed well in 2023 despite a mixed demand environment,” said AMD EVP, CFO and Treasurer Jean Hu. “We drove year-over-year revenue growth in our Data Center and Embedded segments and successfully launched our AMD Instinct MI300 GPUs positioning us for a strong product ramp in 2024.” 1 GAAP Quarterly Financial Results Q4 2023 Q4 2022 Y/Y Q3 2023 Q/Q Revenue ($M) $6,168 $5,599 Up 10% $5,800 Up 6% Gross profit ($M) $2,911 $2,403 Up 21% $2,747 Up 6% Gross margin 47% 43% Up 4 ppts 47% Flat Operating expenses ($M) $2,575 $2,557 Flat $2,533 Up 2% Operating income (loss) ($M) $342 $(149) Up 330% $224 Up 53% Operating margin 6% (3%) Up 9 ppts 4% Up 2 ppts Net income ($M) $667 $21 Up 3,076% $299 Up 123% Diluted earnings per share $0.41 $0.01 Up 4,000% $0.18 Up 128% Non-GAAP(*) Quarterly Financial Results Q4 2023 Q4 2022 Y/Y Q3 2023 Q/Q Revenue ($M) $6,168 $5,599 Up 10% $5,800 Up 6% Gross profit ($M) $3,133 $2,859 Up 10% $2,963 Up 6% Gross margin 51% 51% Flat 51% Flat Operating expenses ($M) $1,727 $1,602 Up 8% $1,697 Up 2% Operating income ($M) $1,412 $1,262 Up 12% $1,276 Up 11% Operating margin 23% 23% Flat 22% Up 1 ppt Net income ($M) $1,249 $1,113 Up 12% $1,135 Up 10% Diluted earnings per share $0.77 $0.69 Up 12% $0.70 Up 10% Annual Financial Results GAAP Non-GAAP (*) 2023 2022 Y/Y 2023 2022 Y/Y Revenue ($M) $22,680 $23,601 Down 4% $22,680 $23,601 Down 4% Gross profit ($M) $10,460 $10,603 Down 1% $11,436 $12,273 Down 7% Gross margin % 46% 45% Up 1 ppt 50% 52% Down 2 ppts Operating expenses ($M) $10,093 $9,441 Up 7% $6,616 $6,030 Up 10% Operating income ($M) $401 $1,264 Down 68% $4,854 $6,345 Down 23% Operating margin % 2% 5% Down 3 ppts 21% 27% Down 6 ppts Net income ($M) $854 $1,320 Down 35% $4,302 $5,504 Down 22% Diluted earnings per share $0.53 $0.84 Down 37% $2.65 $3.50 Down 24% Segment Summary\nAMD announced the general availability of AMD Instinct MI300X accelerators – with industry leading memory bandwidth performance for generative AI – as well as the AMD Instinct MI300A APU that combines AMD CDNATM 3 and “Zen 4” chiplets to deliver breakthrough performance for HPC and AI workloads.\nAMD made significant progress expanding its AI software ecosystem, including unveiling the latest version of its open-source ROCmTM 6, software stack optimized for generative AI.\nAMD announced AMD Ryzen 8040 Series mobile processors with an integrated neural processing unit (NPU) on select models for AI.\nAcer, ASUS, Lenovo, Razer and other PC OEMs introduced new laptops featuring AMD Ryzen 8040 Series processors, with the first systems on-track to go on sale this quarter. 3\nAt CES 2024, AMD announced the AMD Ryzen 8000G Series desktop processors that are the first desktop PC processors in the industry to include a dedicated AI NPU to power AI capabilities on the PC.\nEni announced a new supercomputer, HPC6, powered by AMD EPYC CPUs and AMD Instinct GPUs.\nAMD introduced the AMD Radeon RX 7600 XT GPU, a high-performance graphics card designed to deliver immersive 1080P gaming experiences.\nAMD introduced the AMD VersalTM AI Edge XA Series and AMD Ryzen Embedded V2000A devices designed for automotive focus segments including infotainment, advanced driver safety and autonomous driving.\nAMD announced the AMD Ryzen Embedded 7000 Series processors, delivering leadership performance and advanced features for industrial and edge solutions.",
+  "full_text_characters": 31475,
+  "passage_characters": 3920,
+  "inference_timestamp": "2026-10-24T04:31:10.151285-04:00"
+}

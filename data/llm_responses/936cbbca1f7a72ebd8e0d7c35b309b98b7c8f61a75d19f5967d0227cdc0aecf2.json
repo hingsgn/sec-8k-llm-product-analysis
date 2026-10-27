@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Adobe",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Adobe\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 219,
+    "completion_tokens": 9,
+    "total_tokens": 228
+  },
+  "elapsed_seconds": 4.383,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 adbeex991q425.htm EX-99.1 Document Exhibit 99.1 Investor Relations Contact Doug Clark Adobe ir@adobe.com Public Relations Contact Ashley Levine Adobe adobepr@adobe.com FOR IMMEDIATE RELEASE Adobe Reports Record Q4 and FY2025 Revenue • Exceeds target for FY2025 Digital Media ending ARR and\n",
+  "full_text_characters": 23188,
+  "passage_characters": 300,
+  "inference_timestamp": "2026-10-24T04:47:22.890984-04:00"
+}

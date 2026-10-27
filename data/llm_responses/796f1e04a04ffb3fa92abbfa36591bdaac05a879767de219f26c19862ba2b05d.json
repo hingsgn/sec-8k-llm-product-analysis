@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "organization": "",
+    "products": [
+      "AMD Instinct GPUs",
+      "AMD EPYC CPUs",
+      "Dell PowerEdge XE9785 and XE9785L servers",
+      "AMD EPYC 4005 Series processors",
+      "Radeon RX 9060 XT",
+      "AMD Radeon AI PRO R9700 GPU"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"\", \"products\": [\"AMD Instinct GPUs\", \"AMD EPYC CPUs\", \"Dell PowerEdge XE9785 and XE9785L servers\", \"AMD EPYC 4005 Series processors\", \"Radeon RX 9060 XT\", \"AMD Radeon AI PRO R9700 GPU\"]}",
+  "usage": {
+    "prompt_tokens": 602,
+    "completion_tokens": 76,
+    "total_tokens": 678
+  },
+  "elapsed_seconds": 19.563,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000106/q22025991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q22025991.htm EX-99.1 Document NEWS RELEASE Media Contact: Phil Hughes AMD Communications 512-865-9697 phil.hughes@amd.com Investor Contact: Liz Stine AMD Investor Relations 720-652-3965 liz.stine@amd.com AMD Reports Second Quarter 2025 Financial Results SANTA CLARA, Calif. ― August 5,\nAs previously announced, our second quarter results were impacted by the U.S.\nAt Advancing AI 2025, AMD announced its latest AI solutions, roadmap and vision for an open AI ecosystem alongside partners including Meta, OpenAI, xAI, Oracle and Microsoft.\nStrategic AMD partners announced data center and AI infrastructure and services powered by AMD Instinct GPUs and EPYC CPUs:\nHUMAIN and AMD announced a strategic collaboration to advance global AI infrastructure by deploying 500 megawatts of AI compute capacity over the next five years.\nAMD and KDDI announced an agreement to leverage 4th Gen AMD EPYC CPUs for its advanced 5G virtualized network.\nDell announced the new Dell AI platform including the Dell PowerEdge XE9785 and XE9785L servers that maximize performance and efficiency with AMD Instinct MI350 Series GPUs and AMD EPYC CPUs.\nAMD announced the availability of the AMD EPYC 4005 Series processors designed to deliver enterprise-class features and leadership performance for growing businesses and hosted IT service providers.\nAMD announced the AMD Ryzen ThreadripperTM 9000WX and Ryzen Threadripper PRO 9000X Series processors enabling leadership workstation compute for the most demanding workloads.\nAMD launched the Radeon RX 9060 XT with leadership gaming performance-per-dollar. 3\nAMD announced the AMD Radeon AI PRO R9700 GPU, designed for local AI inference, model finetuning and complex creative workloads, with scalability for multi-GPU systems.\nAMD announced that it has entered into a definitive agreement to sell ZT Systems’ data center infrastructure manufacturing business to Sanmina for $3 billion in cash and stock, inclusive of a contingent payment of up to $450 million.",
+  "full_text_characters": 32782,
+  "passage_characters": 2000,
+  "inference_timestamp": "2026-10-24T04:32:52.614626-04:00"
+}

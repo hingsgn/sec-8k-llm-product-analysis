@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Adobe",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Adobe\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 212,
+    "completion_tokens": 9,
+    "total_tokens": 221
+  },
+  "elapsed_seconds": 5.768,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000252/adbeex991q423.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 3 adbeex991q423.htm EX-99.1 Document Exhibit 99.1 Investor Relations Contact Jonathan Vaas Adobe ir@adobe.com Public Relations Contact Ashley Levine Adobe adobepr@adobe.com FOR IMMEDIATE RELEASE Adobe Reports Record Q4 and Fiscal 2023 Revenue Company achieves first $5 billion revenue\n",
+  "full_text_characters": 20956,
+  "passage_characters": 293,
+  "inference_timestamp": "2026-10-24T04:35:54.303491-04:00"
+}

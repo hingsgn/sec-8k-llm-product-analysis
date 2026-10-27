@@ -1,0 +1,25 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "watsonx AI and data platform",
+      "hybrid cloud solutions"
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"watsonx AI and data platform\", \"hybrid cloud solutions\"]}",
+  "usage": {
+    "prompt_tokens": 385,
+    "completion_tokens": 21,
+    "total_tokens": 406
+  },
+  "elapsed_seconds": 18.9,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000026/ibm-20231025xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20231025xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES THIRD-QUARTER RESULTS Revenue growth led by Software and Consulting; Strong profit and cash generation ARMONK, N.Y., October 25, 2023 . . . IBM (NYSE: IBM) today announced third-quarter 2023 earnings results. “Technology\nEX-99.1 2 ibm-20231025xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES THIRD-QUARTER RESULTS Revenue growth led by Software and Consulting; Strong profit and cash generation ARMONK, N.Y., October 25, 2023 . . .\nIBM (NYSE: IBM) today announced third-quarter 2023 earnings results. “Technology remains a critical source of competitive differentiation and progress for organizations around the world,\" said Arvind Krishna, IBM chairman and chief executive officer. \"Clients are increasingly adopting our watsonx AI and data platform along with our hybrid cloud solutions to unlock productivity and operational efficiency.",
+  "full_text_characters": 24136,
+  "passage_characters": 920,
+  "inference_timestamp": "2026-10-24T04:35:00.501735-04:00"
+}

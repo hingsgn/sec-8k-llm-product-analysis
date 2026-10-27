@@ -1,0 +1,26 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "GeForce RTX TM 40 Series",
+      "GeForce RTX 4070 Ti",
+      "DLSS 3"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"GeForce RTX TM 40 Series\",\"GeForce RTX 4070 Ti\",\"DLSS 3\"]}",
+  "usage": {
+    "prompt_tokens": 536,
+    "completion_tokens": 34,
+    "total_tokens": 570
+  },
+  "elapsed_seconds": 15.568,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000014/q4fy23pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q4fy23pr.htm Q4FY23 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2023 • Quarterly revenue of $6.05 billion, down 21% from a year ago • Fiscal-year revenue of $27.0 billion, flat from a year ago • Quarterly and annual return\nAnnounced a partnership with Deutsche Bank to extend the use of AI in the financial-services sector.\nLaunched, together with Dell Technologies, 15 next-generation Dell PowerEdge systems available with NVIDIA ® acceleration, enabling enterprises to use AI to efficiently transform their business.\nAnnounced that NVIDIA A100 Tensor Core GPUs showed unrivaled throughput and top latency in the latest STAC-ML benchmarks for financial services.\nUnveiled the GeForce RTX TM 40 Series for laptops, providing the company’s largest-ever generational leap in performance and power efficiency.\nLaunched the GeForce RTX 4070 Ti, which is faster than the GeForce RTX 3090 Ti, featuring NVIDIA Ada Lovelace architecture and NVIDIA DLSS 3 technology.\nAnnounced that DLSS 3 is available on, or coming soon to, more than 50 games and apps — including Cyberpunk 2077 , Portal with RTX and Marvel’s Spider-Man: Miles Morales .\nLaunched the GeForce NOW TM Ultimate membership tier, delivering GeForce RTX 4080-class performance with NVIDIA Reflex, full ray tracing and DLSS 3.\nAnnounced a collaboration with Lockheed Martin to build a digital twin of global weather conditions, enabling the U.S.\nAnnounced a strategic partnership with Foxconn to develop automated and autonomous vehicle platforms based on NVIDIA DRIVE Orin TM and DRIVE Hyperion TM .\nReleased major updates to the NVIDIA Isaac Sim TM robotics simulation tool, including AI capabilities and cloud access, enabling the building and testing of virtual robots in realistic environments.",
+  "full_text_characters": 23366,
+  "passage_characters": 1830,
+  "inference_timestamp": "2026-10-24T04:48:13.398962-04:00"
+}

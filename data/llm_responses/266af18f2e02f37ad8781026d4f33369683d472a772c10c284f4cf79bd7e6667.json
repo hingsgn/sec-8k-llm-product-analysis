@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\", \"products\":[]}",
+  "usage": {
+    "prompt_tokens": 282,
+    "completion_tokens": 11,
+    "total_tokens": 293
+  },
+  "elapsed_seconds": 6.096,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000091/hp103123exhibit991q423.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp103123exhibit991q423.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2023 Full Year and Fourth\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2023 net revenue of $53.7 billion, down 15% (down 12% in constant currency) from the prior-year period.",
+  "full_text_characters": 49118,
+  "passage_characters": 477,
+  "inference_timestamp": "2026-10-24T04:35:29.081344-04:00"
+}

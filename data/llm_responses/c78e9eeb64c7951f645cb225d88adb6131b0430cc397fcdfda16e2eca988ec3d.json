@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "Red Hat"
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"Red Hat\"]}",
+  "usage": {
+    "prompt_tokens": 718,
+    "completion_tokens": 10,
+    "total_tokens": 728
+  },
+  "elapsed_seconds": 13.333,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000043/ibm-20241023xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20241023xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES THIRD-QUARTER RESULTS Accelerated Software revenue growth, expanded gross profit margin, and strong free cash flow ARMONK, N.Y., October 23, 2024 . . . IBM (NYSE: IBM) today announced third-quarter 2024 earnings results.\nEX-99.1 2 ibm-20241023xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES THIRD-QUARTER RESULTS Accelerated Software revenue growth, expanded gross profit margin, and strong free cash flow ARMONK, N.Y., October 23, 2024 . . .\nIBM (NYSE: IBM) today announced third-quarter 2024 earnings results. “Our third-quarter performance was led by double-digit growth in Software, including a re-acceleration in Red Hat.\nCash Flow – Year to date, net cash from operating activities of $9.1 billion; free cash flow of $6.6 billion THIRD - QUARTER 2024 INCOME STATEMENT SUMMARY GAAP results include impact of one-time, non-cash pension settlement charge (1) Revenue Gross Profit Gross Profit Margin Pre-tax Income/ (Loss) (1) Pre-tax Income Margin (1) Net Income/ (Loss) (1) Diluted Earnings/ (Loss) Per Share (1) GAAP from Continuing Operations $ 15.0B $ 8.4B 56.3 % $ (0.8)B (5.4) % $ (0.3)B $ (0.34) Year/Year 1 % (2) 5 % 1.9 Pts NM -18.1 Pts NM NM Operating (Non-GAAP) $ 8.6B 57.5 % $ 2.5B 16.6 % $ 2.2B $ 2.30 Year/Year 5 % 2.1 Pts 8 % 1.0 Pts 6 % 5 % (1) 2024 GAAP results include the impact of a one-time, non-cash, pension settlement charge of $2.7 billion ($2.0 billion net of tax) related to the transfer of a portion of the company's U.S. defined benefit pension obligations and related plan assets to a third-party insurer, announced in September 2024. (2) 2% at constant currency. “Our investments are paying off in Software as we've repositioned our portfolio in recent years.",
+  "full_text_characters": 26272,
+  "passage_characters": 1776,
+  "inference_timestamp": "2026-10-24T04:40:50.168818-04:00"
+}

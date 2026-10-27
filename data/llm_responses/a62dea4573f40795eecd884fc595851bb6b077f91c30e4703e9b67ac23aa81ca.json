@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "Core42",
+      "G42",
+      "Instinct GPU",
+      "UALink 1.0",
+      "Open Telecom AI Platform",
+      "AI Edge XQRVE2302 adaptive SoCs"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"AMD\", \"products\": [\"Core42\", \"G42\", \"Instinct GPU\", \"UALink 1.0\", \"Open Telecom AI Platform\", \"AI Edge XQRVE2302 adaptive SoCs\"]}",
+  "usage": {
+    "prompt_tokens": 528,
+    "completion_tokens": 53,
+    "total_tokens": 581
+  },
+  "elapsed_seconds": 18.379,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000045/q12025991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q12025991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Liz Stine AMD Investor Relations 720-652-3965 liz.stine@amd.com AMD Reports First Quarter 2025 Financial Results SANTA CLARA, Calif. ― May 6, 2025\nCore42, G42’s digital infrastructure company, announced it is broadly deploying AMD Instinct GPU technology to establish one of France's most powerful AI compute facilities.\nDell Technologies announced the expansion of its AI for Telecom offering powered by AMD.\nThe Commissariat à l'énergie atomique et aux énergies alternatives (CEA) of France and AMD announced a collaboration to advance technologies, component and system architectures to shape the future of AI computing.\nAMD, Jio Platforms Limited, Cisco and Nokia announced the formation of a new Open Telecom AI Platform that will offer AI-driven solutions to enhance efficiency, security and capabilities.\nAMD announced support of the latest UALink 1.0 specification, an open, industry-standard, low-latency, high-bandwidth interconnect for scale-up AI.\nOracle Cloud Infrastructure announced the OCI Compute E6 shapes, enabling impressive cost to performance improvements over its previous generation.\nGoogle Cloud announced C4D and H4D virtual machines delivering leadership performance, scalability, and efficiency for demanding general purpose and HPC cloud workloads.\nAMD VersalTM AI Edge XQRVE2302 adaptive SoCs are now available, bringing AI inferencing to space in a small form factor.\nNapatech and Druid Software announced the availability of a high-performance, energy-efficient 5G core powered by the AMD VirtexTM UltraScale+TM XCVU5P FPGA.",
+  "full_text_characters": 28431,
+  "passage_characters": 1709,
+  "inference_timestamp": "2026-10-24T04:32:33.042726-04:00"
+}

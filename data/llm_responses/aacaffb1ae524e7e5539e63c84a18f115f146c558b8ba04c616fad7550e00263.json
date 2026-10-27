@@ -1,0 +1,31 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "H200 Tensor Core",
+      "B200 Tensor Core",
+      "Blackwell systems",
+      "GraceTM CPUs",
+      "Quantum-2 InfiniBand networking",
+      "DGXTM Cloud",
+      "RTX AI PCs",
+      "Nemotron-4 4B"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"H200 Tensor Core\",\"B200 Tensor Core\",\"Blackwell systems\",\"GraceTM CPUs\",\"Quantum-2 InfiniBand networking\",\"DGXTM Cloud\",\"RTX AI PCs\",\"Nemotron-4 4B\"]}",
+  "usage": {
+    "prompt_tokens": 745,
+    "completion_tokens": 59,
+    "total_tokens": 804
+  },
+  "elapsed_seconds": 17.27,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000262/q2fy25pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q2fy25pr.htm Q2FY25 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Second Quarter Fiscal 2025 • Record quarterly revenue of $30.0 billion, up 15% from Q1 and up 122% from a year ago • Record quarterly Data Center revenue of $26.3 billion, up 16% from\nAnnounced that the combination of NVIDIA H200 Tensor Core and NVIDIA Blackwell architecture B200 Tensor Core processors swept the latest industry-standard MLPerf benchmark results for inference.\nRevealed that H200 GPU-powered systems are now available on CoreWeave, the first cloud service provider to announce general availability.\nUnveiled an array of Blackwell systems featuring NVIDIA GraceTM CPUs, networking and infrastructure from top manufacturers such as GIGABYTE, QCT and Wiwynn.\nReleased NVIDIA NIMTM for broad availability to developers globally and announced more than 150 companies are integrating microservices into their platforms to speed generative AI application development.\nUnveiled an inference service with Hugging Face powered by NIM microservices on NVIDIA DGXTM Cloud to enable developers to deploy popular large language models.\nIntroduced an NVIDIA AI Foundry service and NIM inference microservices to accelerate generative AI for the world’s enterprises with the Llama 3.1 collection of models.\nAnnounced Japan advanced its sovereign AI capabilities with its ABCI 3.0 supercomputer, integrating H200 GPUs and NVIDIA Quantum-2 InfiniBand networking.\nAnnounced NVIDIA ACE, a suite of generative AI technologies that bring digital humans to life, now includes NVIDIA Nemotron-4 4B, a small language model for on-device inference, and is available in early access for RTX AI PCs.\nIntroduced Project G-Assist, a technology preview demonstrating the power of AI agents to assist gamers and creators in real time.\nAnnounced new NVIDIA GeForce RTX and DLSS titles, including Indiana Jones and the Great Circle , Dune: Awakening and Dragon Age: The Veilguard , bringing the total number of RTX games and apps to over 600.\nSurpassed 2,000 games on GeForce NOW, expanded the service into Japan and announced launches of Black Myth: Wukong and Star Wars Outlaws .\nIntroduced generative AI models and NIM microservices for OpenUSD to accelerate workflows and the development of industrial digital twins and robotics.\nAnnounced major Taiwanese electronics makers are creating more autonomous factories with a new reference workflow that combines NVIDIA Metropolis vision AI, NVIDIA OmniverseTM simulation and NVIDIA IsaacTM AI robot development.\nUnveiled the world’s leaders in robot development, including BYD Electronics, Siemens and Teradyne Robotics, are adopting the Isaac robotics platform for R&D and production.\nAnnounced Omniverse Cloud Sensor RTXTM microservices to enable physically accurate sensor simulation to speed development of autonomous machines.",
+  "full_text_characters": 22304,
+  "passage_characters": 2880,
+  "inference_timestamp": "2026-10-24T04:27:06.255992-04:00"
+}

@@ -1,0 +1,28 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "GeForce RTXTM 40 SUPER Series GPUs",
+      "NVIDIA NeMoTM Retriever",
+      "NVIDIA MONAITM cloud APIs",
+      "Geographic AI services",
+      "RTX 2000 Ada Generation GPU"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"GeForce RTXTM 40 SUPER Series GPUs\", \"NVIDIA NeMoTM Retriever\", \"NVIDIA MONAITM cloud APIs\", \"Geographic AI services\", \"RTX 2000 Ada Generation GPU\"]}",
+  "usage": {
+    "prompt_tokens": 666,
+    "completion_tokens": 57,
+    "total_tokens": 723
+  },
+  "elapsed_seconds": 34.472,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q4fy24pr.htm Q4FY24 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2024 • Record quarterly revenue of $22.1 billion, up 22% from Q3, up 265% from year ago • Record quarterly Data Center revenue of $18.4 billion, up 27% from\nVertical industries — led by auto, financial services and healthcare — are now at a multibillion-dollar level. “NVIDIA RTX, introduced less than six years ago, is now a massive PC platform for generative AI, enjoyed by 100 million gamers and creators.\nLaunched, in collaboration with Google, optimizations across NVIDIA’s data center and PC AI platforms for Gemma, Google’s groundbreaking open language models.\nAnnounced that Amgen will use the NVIDIA DGX SuperPODTM to power insights into drug discovery, diagnostics and precision medicine.\nAnnounced NVIDIA NeMoTM Retriever, a generative AI microservice that lets enterprises connect custom large language models with enterprise data to deliver highly accurate responses for AI applications.\nIntroduced NVIDIA MONAITM cloud APIs to help developers and platform providers integrate AI into their medical-imaging offerings.\nAnnounced that Singtel will bring generative AI services to Singapore through energy-efficient data centers that the telco is building with NVIDIA HopperTM architecture GPUs.\nIntroduced plans with Cisco to help enterprises quickly and easily deploy and manage secure AI infrastructure.\nLaunched GeForce RTXTM 40 SUPER Series GPUs, starting at $599, which support the latest NVIDIA RTXTM technologies, including DLSS 3.5 Ray Reconstruction and NVIDIA Reflex.\nAnnounced generative AI capabilities for its installed base of over 100 million RTX AI PCs, including Tensor-RTTM LLM to accelerate inference on large language models, and Chat with RTX, a tech demo that lets users personalize a chatbot with their own content.\nIntroduced microservices for the NVIDIA Avatar Cloud Engine, allowing game and application developers to integrate state-of-the-art generative AI models into non-playable characters.\nAnnounced adoption of NVIDIA OmniverseTM by the global automotive-configurator ecosystem.\nAnnounced the NVIDIA RTX 2000 Ada Generation GPU, bringing the latest AI, graphics and compute technology to compact workstations.\nAnnounced further adoption of its NVIDIA DRIVE® platform, with Great Wall Motors, ZEEKR and Xiaomi using DRIVE OrinTM to power intelligent automated-driving systems and Li Auto selecting DRIVE ThorTM as its centralized car computer.",
+  "full_text_characters": 22635,
+  "passage_characters": 2527,
+  "inference_timestamp": "2026-10-24T04:25:54.897482-04:00"
+}

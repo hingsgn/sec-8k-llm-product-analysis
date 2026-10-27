@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 360,
+    "completion_tokens": 9,
+    "total_tokens": 369
+  },
+  "elapsed_seconds": 7.441,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000061/ibm-20251022xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20251022xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES THIRD-QUARTER RESULTS Acceleration in revenue growth and profit across all segments; Raises outlook for full-year revenue growth and free cash flow ARMONK, N.Y., October 22, 2025 . . . IBM (NYSE: IBM) today announced\nEX-99.1 2 ibm-20251022xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES THIRD-QUARTER RESULTS Acceleration in revenue growth and profit across all segments; Raises outlook for full-year revenue growth and free cash flow ARMONK, N.Y., October 22, 2025 . . .\nIBM (NYSE: IBM) today announced third-quarter 2025 earnings results. “This quarter we accelerated performance across all of our segments, and again exceeded expectations for revenue, profit and free cash flow.",
+  "full_text_characters": 25711,
+  "passage_characters": 763,
+  "inference_timestamp": "2026-10-24T04:46:21.306391-04:00"
+}

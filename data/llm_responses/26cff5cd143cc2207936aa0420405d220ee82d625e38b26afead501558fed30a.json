@@ -1,0 +1,27 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "NVIDIA GH200 Grace TM Hopper TM Superchip",
+      "NVIDIA L40S GPU",
+      "NVIDIA MGX TM ",
+      "NVIDIA Spectrum-X TM "
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"NVIDIA GH200 Grace TM Hopper TM Superchip\",\"NVIDIA L40S GPU\",\"NVIDIA MGX TM \",\"NVIDIA Spectrum-X TM \"]}",
+  "usage": {
+    "prompt_tokens": 765,
+    "completion_tokens": 43,
+    "total_tokens": 808
+  },
+  "elapsed_seconds": 38.741,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q2fy24pr.htm Q2FY24 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Second Quarter Fiscal 2024 • Record revenue of $13.51 billion, up 88% from Q1, up 101% from year ago • Record Data Center revenue of $10.32 billion, up 141% from Q1, up 171% from year\nCompanies worldwide are transitioning from general-purpose to accelerated computing and generative AI,” said Jensen Huang, founder and CEO of NVIDIA. “NVIDIA GPUs connected by our Mellanox networking and switch technologies and running our CUDA AI software stack make up the computing infrastructure of generative AI. “During the quarter, major cloud service providers announced massive NVIDIA H100 AI infrastructures.\nLeading enterprise IT system and software providers announced partnerships to bring NVIDIA AI to every industry.\nAnnounced that the NVIDIA ® GH200 Grace TM Hopper TM Superchip for complex AI and HPC workloads is shipping this quarter, with a second-generation version with HBM3e memory expected to ship in Q2 of calendar 2024.\nAnnounced the NVIDIA L40S GPU — a universal data center processor designed to accelerate the most compute-intensive applications — available from leading server makers in a broad range of platforms, including NVIDIA OVX TM and NVIDIA AI-ready servers with NVIDIA BlueField ® DPUs, beginning this quarter.\nUnveiled NVIDIA MGX TM , a server reference design available this quarter that lets system makers quickly and cost-effectively build more than 100 server variations for AI, HPC and NVIDIA Omniverse TM applications.\nAnnounced NVIDIA Spectrum-X TM , an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds, which is shipping this quarter.\nLaunched general availability of cloud instances based on NVIDIA H100 Tensor Core GPUs with Amazon Web Services, Microsoft Azure and regional cloud service providers.\nAnnounced NVIDIA AI Workbench, an easy-to-use toolkit allowing developers to quickly create, test and customize pretrained generative AI models on a PC or workstation and then scale them, as well as NVIDIA AI Enterprise 4.0, the latest version of its enterprise software.\nAnnounced NVIDIA Avatar Cloud Engine, or ACE, for Games, a custom AI model foundry service using AI-powered natural language interactions to transform games by bringing intelligence to non-playable characters.\nAnnounced three new desktop workstation RTX GPUs based on the Ada Lovelace architecture — NVIDIA RTX 5000, RTX 4500 and RTX 4000 — to deliver the latest AI, graphics and real-time rendering, which are shipping this quarter.\nAnnounced a major release of the NVIDIA Omniverse platform, with new foundation applications and services for developers and industrial enterprises to optimize and enhance their 3D pipelines with OpenUSD and generative AI.\nAnnounced that NVIDIA DRIVE Orin TM is powering the new XPENG G6 Coupe SUV’s intelligent advanced driver assistance system.",
+  "full_text_characters": 23484,
+  "passage_characters": 2964,
+  "inference_timestamp": "2026-10-24T04:24:50.707580-04:00"
+}

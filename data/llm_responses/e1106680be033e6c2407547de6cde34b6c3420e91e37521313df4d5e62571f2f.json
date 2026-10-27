@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "Intel® Xeon® 6 series of central processing units (CPUs)"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel\",\"products\":[\"Intel® Xeon® 6 series of central processing units (CPUs)\"]}",
+  "usage": {
+    "prompt_tokens": 327,
+    "completion_tokens": 24,
+    "total_tokens": 351
+  },
+  "elapsed_seconds": 9.554,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000107/q225_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q225_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Second-Quarter 2025 Financial Results News Summary ▪ Second-quarter revenue was $12.9 billion, flat year-over-year (YoY). ▪\nOn track to achieve $17 billion non-GAAP operating expense 1 target for 2025: Intel has completed the majority of the planned headcount actions it announced last quarter to reduce its core workforce by approximately 15%.\nIntel/Page 3 Business Highlights ▪ Intel launched three new additions to its Intel® Xeon® 6 series of central processing units (CPUs), delivering customizable CPU core frequencies to boost graphics processing unit (GPU) performance across demanding AI workloads.",
+  "full_text_characters": 37481,
+  "passage_characters": 771,
+  "inference_timestamp": "2026-10-24T04:45:12.134400-04:00"
+}

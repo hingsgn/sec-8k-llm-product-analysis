@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "rows": 102,
+  "columns": [
+    "company_name",
+    "stock_name",
+    "filing_time",
+    "new_product",
+    "product_description"
+  ],
+  "max_description_length": 129,
+  "all_rows_have_exact_source_evidence": true
+}

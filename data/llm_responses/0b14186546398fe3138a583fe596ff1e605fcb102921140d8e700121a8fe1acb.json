@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "AMD EPYC 97X4 CPUs",
+      "4th Gen AMD EPYC processors with AMD 3D V-CacheTM technology",
+      "AMD ROCmTM 5.6 open software platform",
+      "RyzenTM PRO 7040 Series Mobile processors",
+      "Ryzen PRO 7000 Series processors",
+      "RadeonTM RX 7600 graphics card"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"AMD EPYC 97X4 CPUs\", \"4th Gen AMD EPYC processors with AMD 3D V-CacheTM technology\", \"AMD ROCmTM 5.6 open software platform\", \"RyzenTM PRO 7040 Series Mobile processors\", \"Ryzen PRO 7000 Series processors\", \"RadeonTM RX 7600 graphics card\"]}",
+  "usage": {
+    "prompt_tokens": 748,
+    "completion_tokens": 90,
+    "total_tokens": 838
+  },
+  "elapsed_seconds": 25.37,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q22023991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Mitch Haws AMD Investor Relations 408-749-3124 mitch.haws@amd.com AMD Reports Second Quarter 2023 Financial Results SANTA CLARA, Calif. ― Aug. 1,\nAt the Data Center and AI Technology Premier event , AMD announced the expansion of its leadership data center portfolio and shared details on its next generation AMD Instinct accelerator and software enablement for generative AI:\nAMD unveiled two new, workload optimized 4 th Gen AMD EPYC processors: AMD EPYC 97X4 CPUs, codenamed “Bergamo,” deliver leadership cloud native computing, while 4 th Gen AMD EPYC processors with AMD 3D V-CacheTM technology, codenamed “Genoa-X,” provide leadership performance for highly demanding technical computing workloads.\nAWS , Alibaba , Microsoft Azure and OCI announced new instances powered by 4 th Gen AMD EPYC processors.\nOCI also announced MySQL Heatwave based on 4 th Gen AMD EPYC processors , enabling one service for transaction processing, real-time data analytics and machine learning across cloud services.\nCerebras unveiled the Condor Galaxy 1 cloud-based AI supercomputer, enabled by more than 70,000 AMD EPYC CPU cores.\nAMD announced the release of the new AMD ROCmTM 5.6 open software platform, featuring enhanced capabilities for AI and HPC workloads, including new AI software add-ons for large language and other models, performance optimizations across the ROCm portfolio of libraries and additional support for the AI community.\nAdoption of AMD embedded products is expanding in enterprise storage, as Hewlett Packard Enterprise announced that AMD EPYC Embedded Series processors are powering its new modular storage solution, HPE Alletra Storage MP.\nAMD introduced two additions to the automotive-grade XA ArtixTM UltraScale+ family: XA AU10P and XA AU15P FPGAs, which are optimized for use in ADAS sensor applications.\nAMD announced new RyzenTM PRO 7040 Series Mobile processors, the most advanced x86 processors for premium Windows 11 business laptops and mobile workstations.\nAMD also announced the Ryzen PRO 7000 Series processors for desktop, bringing the power of “Zen 4” and AMD RDNATM 2 integrated graphics to professional desktop users.\nAMD launched the RadeonTM RX 7600 graphics card for next-generation, high-performance 1080p gaming, streaming and content creation with stunning visual fidelity.\nAMD announced plans to invest $135 million to expand adaptive computing research, development and engineering operations in Ireland to fund strategic R&D projects for next generation AI, data center, networking and 6G communications infrastructure.",
+  "full_text_characters": 30884,
+  "passage_characters": 2714,
+  "inference_timestamp": "2026-10-24T04:29:52.772190-04:00"
+}

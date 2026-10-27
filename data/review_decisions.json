@@ -1,0 +1,677 @@
+{
+  "exclude": [
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA Spectrum-XTM Ethernet networking platform",
+      "reason": "Existing Spectrum-X platform in a server-integration announcement; duplicates the prior launch."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA GH200 Grace Hopper Superchips",
+      "reason": "Existing GH200 product in a supercomputer deployment announcement."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA Quantum",
+      "reason": "Underspecified existing Quantum family; source announces X800 switches but model omits the new version."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Grace Hopper Superchips",
+      "reason": "Existing chips in customer supercomputer deployments."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA ACE",
+      "reason": "Existing ACE platform; no specifically named new feature or version."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "H200 Tensor Core",
+      "reason": "Benchmark result for an existing processor, not a product introduction."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "B200 Tensor Core",
+      "reason": "Benchmark result does not establish a new product introduction."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Blackwell systems",
+      "reason": "Generic manufacturer systems, not a specifically named NVIDIA product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "GraceTM CPUs",
+      "reason": "Existing Grace CPUs are components in other manufacturers systems."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Quantum-2 InfiniBand networking",
+      "reason": "Existing networking technology in a customer supercomputer."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "DGXTM Cloud",
+      "reason": "Existing DGX Cloud infrastructure powers an unnamed new service."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "RTX AI PCs",
+      "reason": "Target device category, not the newly introduced Nemotron model."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA Hopper H200-powered instances",
+      "reason": "Cloud providers instances, not a specifically named new product released by the filer."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Denmark’s largest sovereign AI supercomputer",
+      "reason": "Unnamed supercomputer deployment; not a product name."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA® DGX SuperPOD",
+      "reason": "Deployment of existing DGX SuperPOD, not a newly named product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Japan’s most powerful AI supercomputer with the NVIDIA Blackwell platform",
+      "reason": "Unnamed SoftBank customer project, not a NVIDIA product release."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Taiwan’s fastest AI supercomputer with NVIDIA Blackwell",
+      "reason": "Partnership and unnamed Foxconn project."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Foxconn to build Taiwan’s fastest AI supercomputer",
+      "reason": "Corporate partnership text, not a product name."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Blackwell",
+      "reason": "Existing Blackwell platform in a customer deployment announcement."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA IsaacTM and Omniverse",
+      "reason": "Existing platforms used by Toyota and Ola."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA NIM microservices",
+      "reason": "Existing NIM platform with unnamed new safety microservices; no new named version."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Media2",
+      "reason": "Media2 is described as an initiative, not a specific released product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA DGX Cloud LeptonTM",
+      "reason": "Regional expansion of an existing service."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVFP4",
+      "reason": "A numerical format rather than a named product or service."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA OmniverseTM libraries and software development kits",
+      "reason": "No individual new library or SDK is named."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA Halos full-stack safety platform for robotic development",
+      "reason": "Existing Halos brand without a new named version; avoid counting a domain extension as a separate product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "NVIDIA CosmosTM world foundation models",
+      "reason": "Existing Cosmos family; new models are not individually named."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Anthropic",
+      "reason": "A company adopting the filers infrastructure, not a product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "Borderlands 4",
+      "reason": "Third-party game, not a NVIDIA-developed product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "AMD Software: Adrenalin Edition application",
+      "reason": "Existing application with an unnamed latest version rather than a new named product version."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "VersalTM Series Gen 2 devices",
+      "reason": "Broad family overlaps the specifically named Versal AI Edge Series Gen 2 SoCs retained from this release."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Instinct MI300X",
+      "reason": "Existing AMD GPU in a Lenovo server announcement."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "AMD Instinct MI300X accelerators",
+      "reason": "Existing product in new cloud-provider offerings; the MI300X launch is already retained."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "AMD EPYC CPUs",
+      "reason": "Existing CPU family powering an Oracle product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Ryzen AI 300 Series mobile processors",
+      "reason": "Existing AMD processor family in other manufacturers system announcements."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Instinct MI300 Series",
+      "reason": "Existing accelerator family in a customer adoption announcement."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Ryzen AI PRO processors",
+      "reason": "Existing processors selected for Dell products, without a new named AMD version."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Core42",
+      "reason": "Company name rather than a product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "G42",
+      "reason": "Company name rather than a product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Instinct GPU",
+      "reason": "Generic existing GPU family in customer deployment news."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "UALink 1.0",
+      "reason": "An industry specification that AMD supports, not a new AMD product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Open Telecom AI Platform",
+      "reason": "Formation of a joint initiative rather than a released named product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "AMD Instinct GPUs",
+      "reason": "Generic existing accelerators in partner infrastructure news."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Dell PowerEdge XE9785 and XE9785L servers",
+      "reason": "Dell products, not AMD products."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Instinct MI450",
+      "reason": "Future deployment in a partnership announcement without a direct new product launch."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Helios",
+      "reason": "Rack design used in an Oracle deployment announcement; no direct product release in this passage."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Venice",
+      "reason": "CPU code name in an Oracle deployment announcement."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Vulcano",
+      "reason": "Networking code name in an Oracle deployment announcement."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Zyphra",
+      "reason": "Customer company, not a product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "MI355X",
+      "reason": "Existing GPU in a customer cluster deployment."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "MI350X",
+      "reason": "Existing GPU in a customer collaboration."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel PowerVia",
+      "reason": "Test-chip implementation of a fabrication technology rather than a released product."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel 20A",
+      "reason": "Existing process roadmap and expected future timing, not a new product introduction."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "4th Gen Intel® Xeon® Scalable processors",
+      "reason": "Existing CPU in Google Cloud instances."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "glass substrates for next-generation advanced packaging",
+      "reason": "Unnamed packaging research technology planned for a later decade."
+    },
+    {
+      "stock_name": "CRM",
+      "new_product": "Summer 2023 Product Release",
+      "reason": "Generic seasonal release heading without a named individual product."
+    },
+    {
+      "stock_name": "CRM",
+      "new_product": "Winter 2024 Product Release",
+      "reason": "Generic seasonal release heading without a named individual product."
+    },
+    {
+      "stock_name": "ORCL",
+      "new_product": "NetSuite Cloud ERP (SaaS)",
+      "reason": "Revenue for an existing product, not a new release."
+    },
+    {
+      "stock_name": "IBM",
+      "new_product": "watsonx AI and data platform",
+      "reason": "Existing watsonx platform in a customer adoption statement; first launch is retained elsewhere."
+    },
+    {
+      "stock_name": "IBM",
+      "new_product": "hybrid cloud solutions",
+      "reason": "Generic existing solution category."
+    },
+    {
+      "stock_name": "IBM",
+      "new_product": "hybrid cloud",
+      "reason": "Generic technology category, not a new product."
+    },
+    {
+      "stock_name": "IBM",
+      "new_product": "AI offerings",
+      "reason": "Generic existing offering category."
+    },
+    {
+      "stock_name": "ADBE",
+      "new_product": "Creative Cloud",
+      "reason": "Existing product family without an identified new named version."
+    },
+    {
+      "stock_name": "IBM",
+      "new_product": "HashiCorp, Inc.",
+      "reason": "Acquisition target, not a new product."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Granite Rapids",
+      "reason": "Expected roadmap release timing without a new product introduction in the cited sentence."
+    },
+    {
+      "stock_name": "CRM",
+      "new_product": "Summer 2024 Product Release",
+      "reason": "Generic seasonal release heading, without a named individual product."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Panther Lake",
+      "accession_number": "0000050863-24-000122",
+      "reason": "Power-on development milestone rather than a product launch in this filing."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Clearwater Forest",
+      "accession_number": "0000050863-24-000122",
+      "reason": "Power-on development milestone rather than a product launch in this filing."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel 18A",
+      "reason": "Process design kit and fabrication milestones, not a named released product."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel® CoreTM Ultra 200V series mobile processors",
+      "reason": "Same 200V family already retained from its first launch; adding existing vPro support is not a new named processor."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel vPro®",
+      "reason": "Existing platform capability included with new processors."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel® CoreTM Ultra 200HX and H series mobile processors",
+      "reason": "Duplicate of the earlier H and HX announcement, with reversed naming order."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel® CoreTM Ultra 200S series desktop processor portfolio",
+      "reason": "Expansion of an existing family without a specifically named new model."
+    },
+    {
+      "stock_name": "CRM",
+      "new_product": "Winter 2025 Product Release",
+      "reason": "Generic seasonal release heading."
+    },
+    {
+      "stock_name": "CRM",
+      "new_product": "Agentforce",
+      "reason": "Existing product in a cumulative customer-deals statement rather than a new launch announcement."
+    },
+    {
+      "stock_name": "IBM",
+      "new_product": "Software",
+      "reason": "Financial reporting category, not a product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "ESnet6",
+      "reason": "External research network launched in a collaboration, not an AMD product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "DLSS 3",
+      "reason": "Existing technology included with a newly launched graphics card."
+    },
+    {
+      "stock_name": "INTC",
+      "new_product": "Intel® Xeon® 6 series of central processing units (CPUs)",
+      "reason": "Existing family with unnamed new additions; no individual new model name."
+    },
+    {
+      "stock_name": "CSCO",
+      "new_product": "smart switches",
+      "reason": "Generic product category without a named new model."
+    },
+    {
+      "stock_name": "CSCO",
+      "new_product": "secure routers",
+      "reason": "Generic product category without a named new model."
+    },
+    {
+      "stock_name": "CSCO",
+      "new_product": "WiFi 7 products",
+      "reason": "Generic product category without a named new model."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "AMD Ryzen 9 7940HS processor",
+      "reason": "Existing processor as a component in an HP laptop announcement."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "ZynqTM UltraScale+TM RFSoC products",
+      "reason": "Existing broad family with no individually named new version in this passage."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Nokia Cloud RAN solutions",
+      "reason": "Nokia solutions in a collaboration announcement, not an AMD product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "OMEN 16 and Victus 16 laptops",
+      "reason": "HP products rather than AMD products."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Framework Laptop 13",
+      "reason": "Framework product rather than an AMD product."
+    },
+    {
+      "stock_name": "AMD",
+      "new_product": "Legion Slim 7",
+      "reason": "Lenovo product rather than an AMD product."
+    },
+    {
+      "stock_name": "NVDA",
+      "new_product": "GeForce RTXTM 50 Series graphics cards",
+      "reason": "Overlapping family announcement; the specific RTX 5090 and 5080 model group from the same filing is retained."
+    },
+    {
+      "stock_name": "ADBE",
+      "new_product": "Express",
+      "reason": "Existing brand cited without a specific new named version; conservative exclusion."
+    }
+  ],
+  "descriptions": {
+    "NVDA|NVIDIA ® GH200 Grace TM Hopper TM Superchip": "Grace Hopper superchip for complex AI and high-performance computing, with an announced second-generation HBM3e version.",
+    "NVDA|NVIDIA L40S GPU": "Data center GPU designed to accelerate demanding computing applications.",
+    "NVDA|NVIDIA MGX TM": "Server reference design supporting more than 100 configurations for AI, HPC and Omniverse applications.",
+    "NVDA|NVIDIA Spectrum-X TM": "Ethernet networking platform designed to improve the performance and efficiency of AI clouds.",
+    "NVDA|NVIDIA HGXTM H200": "AI computing platform using the H200 Tensor Core GPU with HBM3e memory.",
+    "NVDA|DLSS 3.5 Ray Reconstruction": "Ray reconstruction technology that improves ray-traced images in demanding games and applications.",
+    "NVDA|TensorRT-LLMTM for Windows": "Windows release of TensorRT-LLM that accelerates on-device large language model inference.",
+    "NVDA|GeForce RTXTM 40 SUPER Series GPUs": "SUPER-series GeForce GPUs supporting DLSS 3.5 Ray Reconstruction and NVIDIA Reflex.",
+    "NVDA|NVIDIA NeMoTM Retriever": "Generative AI microservice that connects custom large language models with enterprise data.",
+    "NVDA|NVIDIA MONAITM cloud APIs": "Cloud APIs that help developers integrate AI into medical imaging offerings.",
+    "NVDA|RTX 2000 Ada Generation GPU": "Ada Generation GPU bringing AI, graphics and compute capabilities to compact workstations.",
+    "NVDA|NVIDIA NIM": "Software offering delivering optimized enterprise generative AI across cloud, data centers and RTX AI PCs.",
+    "NVDA|NVIDIA Blackwell platform": "AI computing platform designed for models operating at trillion-parameter scale.",
+    "NVDA|DGX SuperPOD": "Blackwell-powered AI supercomputing system for generative AI workloads.",
+    "NVDA|NVIDIA SpectrumTM X800 series switches": "X800-series Ethernet switches optimized for trillion-parameter GPU computing and AI infrastructure.",
+    "NVDA|NVIDIA AI Enterprise 5.0": "Enterprise AI software release with NIM inference microservices for faster application development.",
+    "NVDA|NVIDIA RTXTM 500 and 1000 professional Ada generation laptop GPUs": "Ada-generation professional laptop GPUs for AI-enhanced workflows.",
+    "NVDA|NVIDIA OmniverseTM Cloud APIs": "Cloud APIs for industrial digital twins, with integrations for software tools and an Apple Vision Pro framework.",
+    "NVDA|Nemotron-4 4B": "Small language model for on-device inference, available in early access for RTX AI PCs.",
+    "NVDA|NVIDIA AI Aerial platform": "Platform for telecommunications providers developing AI-based radio access networks.",
+    "NVDA|Project GR00T AI and simulation tools for robot learning and humanoid development": "AI and simulation tools for robot learning and humanoid development.",
+    "NVDA|GeForce RTXTM 50 Series graphics cards": "Blackwell-based graphics cards and laptops with AI-driven rendering for gaming and content creation.",
+    "NVDA|GeForce RTX 5090 and 5080 graphics cards": "GeForce graphics cards announced with up to twice the performance of the prior generation.",
+    "NVDA|Llama Nemotron model families": "Model families for building AI agents.",
+    "NVDA|Project DIGITS": "Personal AI supercomputer giving researchers, data scientists and students access to Grace Blackwell computing.",
+    "NVDA|CosmosTM": "Platform of generative world foundation models for developing physical AI.",
+    "AMD|AMD EPYC 97X4 CPUs": "Bergamo data center CPUs optimized for cloud-native computing workloads.",
+    "AMD|4 th Gen AMD EPYC processors with AMD 3D V-CacheTM technology": "Genoa-X processors using 3D V-Cache to accelerate demanding technical computing workloads.",
+    "AMD|AMD ROCmTM 5.6 open software platform": "Open software release with enhanced AI and HPC capabilities, including large language model support.",
+    "AMD|RyzenTM PRO 7040 Series Mobile processors": "Processors for premium Windows 11 business laptops and mobile workstations.",
+    "AMD|Ryzen PRO 7000 Series processors": "Desktop processors combining Zen 4 architecture with integrated RDNA 2 graphics for professional users.",
+    "AMD|RadeonTM RX 7600 graphics card": "Graphics card for high-performance 1080p gaming, streaming and content creation.",
+    "NVDA|NVIDIA Blackwell Ultra": "AI computing offering introduced for accelerating and scaling reasoning models.",
+    "NVDA|NVIDIA Dynamo": "Software introduced to accelerate and scale AI reasoning models.",
+    "NVDA|NVIDIA Halos": "Unified automotive safety system combining hardware, software and autonomous-vehicle AI research.",
+    "NVDA|NVIDIA IsaacTM GR00T N1": "Open foundation model for humanoid robots.",
+    "NVDA|NVIDIA IsaacTM GR00T N1.5": "Updated humanoid robot foundation model following GR00T N1.",
+    "NVDA|NVIDIA Isaac GR00T-Dreams": "Blueprint for generating synthetic motion data for humanoid robot development.",
+    "NVDA|RTX PROTM 6000 Blackwell Server Edition GPU": "Blackwell Server Edition GPU announced for integration into enterprise servers.",
+    "NVDA|NVIDIA® Spectrum-XGS Ethernet": "Ethernet technology connecting distributed data centers for large-scale AI.",
+    "NVDA|Blackwell-powered NVIDIA GeForce RTXTM 5060": "Blackwell-based GeForce graphics processor in the x60 class.",
+    "NVDA|NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs": "New professional Blackwell GPU offerings, including a small-form-factor edition.",
+    "NVDA|NVIDIA DRIVETM AV software platform": "Full-stack autonomous vehicle software platform announced as entering full production.",
+    "NVDA|NVIDIA Jetson AGX ThorTM developer kit and production modules": "AI developer kit and production modules designed to power robots across industries.",
+    "NVDA|BlueField-4": "Processor for the operating system of AI factories and next-generation accelerated data center platforms.",
+    "NVDA|DRIVE AGX HyperionTM 10": "Autonomous vehicle development platform with reference compute and sensor architecture for level 4 fleets.",
+    "NVDA|OmniverseTM DSX": "Open blueprint for designing and operating gigawatt-scale AI factories.",
+    "AMD|Ryzen ThreadripperTM PRO 7000 WX-Series and Ryzen Threadripper 7000 processors": "Desktop processor families designed for demanding high-performance platforms.",
+    "AMD|Ryzen 7045HX3D Series mobile processors": "Mobile processors with AMD 3D V-Cache technology for gaming laptops.",
+    "AMD|AMD Ryzen 5 5600X3D processor": "Gaming processor using AMD 3D V-Cache technology.",
+    "AMD|AMD AlveoTM UL3524 accelerator card": "FinTech accelerator card for electronic trading applications and AI-enabled trading strategies.",
+    "AMD|AMD KriaTM K24 System-on-Module (SOM)": "Small-form-factor compute module for power-efficient industrial and commercial edge applications.",
+    "AMD|KD240 Drives Starter Kit": "Starter kit for power-efficient industrial and commercial edge applications.",
+    "AMD|AMD Radeon RX 7900M": "Laptop graphics processor designed for high-performance gaming and content creation.",
+    "AMD|Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards": "Graphics cards optimized for high-refresh 1440p gaming in AAA and esports titles.",
+    "AMD|FidelityFXTM Super Resolution 3": "Upscaling technology with frame generation, launched in Forspoken and Immortals of Aveum.",
+    "AMD|Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards": "Workstation graphics cards designed for professional workloads across multiple industries.",
+    "AMD|AMD Instinct MI300X": "Generative AI accelerator announced as generally available, with high memory bandwidth.",
+    "AMD|AMD Instinct MI300A APU": "Accelerated processor combining CDNA 3 and Zen 4 chiplets for HPC and AI workloads.",
+    "AMD|AMD Ryzen 8040 Series mobile processors": "Mobile processors with an integrated neural processing unit for AI on selected models.",
+    "AMD|AMD Ryzen 8000G Series desktop processors": "Desktop processors with a dedicated neural processing unit for AI capabilities on PCs.",
+    "AMD|AMD Radeon RX 7600 XT GPU": "Graphics card designed for high-performance 1080p gaming.",
+    "AMD|AMD VersalTM AI Edge XA Series": "Adaptive computing devices designed for automotive infotainment, driver safety and autonomous driving.",
+    "AMD|AMD Ryzen Embedded V2000A devices": "Embedded devices for automotive infotainment, driver safety and autonomous driving applications.",
+    "AMD|AMD Ryzen Embedded 7000 Series processors": "Embedded processors with advanced features for industrial and edge computing solutions.",
+    "AMD|Versal AI Edge Series Gen 2 SoCs": "System-on-chips combining multiple compute engines for efficient acceleration of AI-driven embedded systems.",
+    "AMD|AMD Ryzen AI 300 Series processors": "AI PC processor family announced with 50 TOPs of AI processing for Windows Copilot+ PCs.",
+    "AMD|RadeonTM PRO W7900 Dual Slot GPU": "Dual-slot graphics processor designed for high-performance AI workstations.",
+    "AMD|AMD EPYC 4004 Series processors": "Cost-optimized server processors with enterprise features for small and medium businesses.",
+    "AMD|AMD Ryzen 9000 Series processors": "Zen 5-based processors for gaming, productivity and content creation.",
+    "AMD|AMD Ryzen PRO 8040 Series and 8000 Series mobile and desktop processors": "Enterprise mobile and desktop processors with performance, manageability and security features.",
+    "AMD|Ryzen 9000X3D": "Processor family announced for desktop gaming.",
+    "AMD|Ryzen Z2": "Processor family announced for handheld gaming.",
+    "AMD|Ryzen 9000HX": "Processor family announced for mobile gaming.",
+    "AMD|AI Edge XQRVE2302 adaptive SoCs": "Space-oriented adaptive system-on-chips bringing AI inference to a small form factor.",
+    "AMD|AMD EPYC 4005 Series processors": "Server processors with enterprise features for growing businesses and hosted IT service providers.",
+    "AMD|Radeon RX 9060 XT": "Graphics processor introduced for gaming, with an emphasis on performance per dollar.",
+    "AMD|AMD Radeon AI PRO R9700 GPU": "Professional GPU for local AI inference, model fine-tuning and complex creative workloads, including multi-GPU systems.",
+    "IBM|watsonx AI platform": "New enterprise AI platform cited in IBM’s second-quarter 2023 release.",
+    "INTC|Intel® ArcTM Pro A60 and Pro A60M": "Professional graphics processors introduced as new members of the Arc Pro A-series.",
+    "INTC|5th Gen Intel® Xeon® processor": "Server processor optimized for AI workloads, announced with higher inference performance than the prior generation.",
+    "INTC|Intel® CoreTM Ultra processors": "Client processors introduced for AI PC computing.",
+    "INTC|Intel® CoreTM 14th Gen mobile and desktop processor lineup": "New mobile and desktop processor lineup announced at CES 2024.",
+    "INTC|Intel® CoreTM mobile processor Series 1 family": "Mobile processor family for mainstream thin-and-light systems.",
+    "ADBE|Firefly": "AI-enhanced creative offering cited among Adobe’s recent product launches.",
+    "ADBE|Express": "Creative offering cited among Adobe’s recent AI-enhanced product launches.",
+    "ADBE|GenStudio": "Creative product offering cited among Adobe’s recent launches.",
+    "INTC|Gaudi ® 3 AI accelerator": "AI accelerator introduced for generative AI inference, with improved performance and power efficiency.",
+    "INTC|Open Platform for Enterprise AI": "Open platform intended to accelerate secure, cost-effective enterprise generative AI deployment through interoperability and RAG.",
+    "INTC|Intel ® CoreTM Ultra 200V series processors": "Mobile processors launched with improvements in battery life, performance, graphics and AI.",
+    "INTC|Intel ® Core TM Ultra 200S processors": "Desktop processors designed to bring AI PC capabilities to enthusiast desktop platforms.",
+    "INTC|Intel® CoreTM Ultra 200H and HX series mobile processors": "Mobile processors designed for performance, efficiency and reduced power usage.",
+    "INTC|Intel® CoreTM Ultra 200U series mobile processors": "Mobile processor family announced as part of Intel’s new Core Ultra lineup at CES.",
+    "INTC|Intel® Xeon® 6 processors with Performance-cores (P-cores)": "Data center processors launched with enhanced workload performance and efficiency.",
+    "AMD|4 th Gen AMD EPYC CPUs": "Fourth-generation EPYC processors announced as available, with improved performance and energy efficiency.",
+    "AMD|Alveo X3 series network cards": "FPGA-based network cards optimized for low-latency trading.",
+    "AMD|Radeon RX 7900 series graphics cards": "Chiplet-based graphics cards designed for high-frame-rate 4K and higher-resolution gaming.",
+    "NVDA|GeForce RTX TM 40 Series": "Laptop graphics processor family announced with improved performance and power efficiency.",
+    "NVDA|GeForce RTX 4070 Ti": "Ada Lovelace graphics processor featuring DLSS 3 technology.",
+    "INTC|Intel® CoreTM Ultra series 3 processors (code-named Panther Lake)": "Client system-on-chips whose architecture was unveiled as the first built on Intel 18A technology.",
+    "INTC|Crescent Island": "Announced GPU design optimized for AI inference in token clouds and enterprises.",
+    "AMD|AMD AlveoTM MA35D media accelerator": "Media accelerator for large-scale live interactive streaming, with an integrated AI processor that adjusts video quality.",
+    "AMD|AMD Radeon PRO W7000 Series graphics": "Professional graphics family using AMD chiplet design for improved performance.",
+    "NVDA|GeForce RTX TM 4060 family of GPUs": "Ada Lovelace graphics processor family bringing DLSS capabilities to cards starting at $299.",
+    "NVDA|GeForce RTX 4070 GPU": "Ada-based graphics processor supporting DLSS 3 and real-time ray tracing for high-frame-rate 1440p gaming.",
+    "NVDA|Blackwell-powered DGX SuperPODTM": "Blackwell-powered AI supercomputing system for generative AI workloads."
+  },
+  "reviewed_filings": [
+    "0000002488-23-000007",
+    "0001045810-23-000014",
+    "0000002488-23-000074",
+    "0001045810-23-000087",
+    "0000051143-23-000010",
+    "0000050863-23-000068",
+    "0000002488-23-000135",
+    "0001193125-23-214316",
+    "0001045810-23-000171",
+    "0000047217-23-000060",
+    "0001108524-23-000037",
+    "0000950170-23-047471",
+    "0000796343-23-000198",
+    "0000051143-23-000026",
+    "0000050863-23-000100",
+    "0000002488-23-000192",
+    "0001193125-23-277891",
+    "0000047217-23-000091",
+    "0001045810-23-000225",
+    "0001108524-23-000046",
+    "0000950170-23-069410",
+    "0000796343-23-000252",
+    "0000051143-24-000004",
+    "0000050863-24-000008",
+    "0000002488-24-000009",
+    "0001645590-24-000012",
+    "0001193125-24-036201",
+    "0001045810-24-000028",
+    "0001108524-24-000002",
+    "0000047217-24-000022",
+    "0001645590-24-000058",
+    "0000950170-24-029250",
+    "0000796343-24-000057",
+    "0000051143-24-000018",
+    "0000050863-24-000074",
+    "0000002488-24-000054",
+    "0001193125-24-139371",
+    "0001045810-24-000113",
+    "0001108524-24-000007",
+    "0000047217-24-000039",
+    "0001645590-24-000090",
+    "0000950170-24-071916",
+    "0000796343-24-000140",
+    "0000051143-24-000033",
+    "0000002488-24-000121",
+    "0000050863-24-000122",
+    "0001193125-24-200636",
+    "0001108524-24-000020",
+    "0000047217-24-000068",
+    "0001045810-24-000262",
+    "0001645590-24-000114",
+    "0000950170-24-104753",
+    "0000796343-24-000200",
+    "0000051143-24-000043",
+    "0000002488-24-000161",
+    "0000050863-24-000147",
+    "0001193125-24-257224",
+    "0001045810-24-000315",
+    "0000047217-24-000075",
+    "0001108524-24-000033",
+    "0001645590-24-000132",
+    "0000950170-24-134537",
+    "0000796343-24-000250",
+    "0000051143-25-000005",
+    "0000050863-25-000004",
+    "0000002488-25-000009",
+    "0001193125-25-025114",
+    "0001108524-25-000002",
+    "0001045810-25-000021",
+    "0000047217-25-000023",
+    "0001645590-25-000034",
+    "0000950170-25-036295",
+    "0000796343-25-000052",
+    "0000051143-25-000026",
+    "0000050863-25-000070",
+    "0000002488-25-000045",
+    "0001193125-25-119864",
+    "0001108524-25-000027",
+    "0000047217-25-000041",
+    "0001045810-25-000115",
+    "0001645590-25-000060",
+    "0000950170-25-084831",
+    "0000796343-25-000064",
+    "0000051143-25-000048",
+    "0000050863-25-000107",
+    "0000002488-25-000106",
+    "0001193125-25-179820",
+    "0000047217-25-000060",
+    "0001045810-25-000207",
+    "0001108524-25-000083",
+    "0001645590-25-000096",
+    "0001193125-25-199175",
+    "0000796343-25-000102",
+    "0001645590-25-000111",
+    "0000051143-25-000061",
+    "0000050863-25-000169",
+    "0000002488-25-000163",
+    "0001193125-25-277624",
+    "0001045810-25-000228",
+    "0000047217-25-000068",
+    "0001108524-25-000234",
+    "0001645590-25-000126",
+    "0000796343-25-000135",
+    "0001193125-25-314207"
+  ],
+  "review_note": "Source-evidence review removes corporate events, existing-product mentions, customer deployments and unsupported or generic entities. Description edits paraphrase the cited source without adding specifications.",
+  "names": {
+    "AMD|FidelityFXTM Super Resolution 3 in Forspoken and Immortals of Aveum": "FidelityFXTM Super Resolution 3",
+    "INTC|Lunar Lake": "Intel ® CoreTM Ultra 200V series processors",
+    "INTC|Arrow Lake": "Intel ® Core TM Ultra 200S processors",
+    "NVDA|DGX SuperPOD": "Blackwell-powered DGX SuperPODTM"
+  }
+}

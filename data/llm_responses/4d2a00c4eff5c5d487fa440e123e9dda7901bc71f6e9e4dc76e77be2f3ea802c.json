@@ -1,0 +1,34 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "RTX PROTM 6000 Blackwell Server Edition GPU",
+      "NVIDIA® Spectrum-XGS Ethernet",
+      "NVIDIA DGX Cloud LeptonTM",
+      "NVFP4",
+      "Blackwell-powered NVIDIA GeForce RTXTM 5060",
+      "NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs",
+      "NVIDIA OmniverseTM libraries and software development kits",
+      "NVIDIA DRIVETM AV software platform",
+      "NVIDIA Jetson AGX ThorTM developer kit and production modules",
+      "NVIDIA Halos full-stack safety platform for robotic development",
+      "NVIDIA CosmosTM world foundation models"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"RTX PROTM 6000 Blackwell Server Edition GPU\", \"NVIDIA® Spectrum-XGS Ethernet\", \"NVIDIA DGX Cloud LeptonTM\", \"NVFP4\", \"Blackwell-powered NVIDIA GeForce RTXTM 5060\", \"NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs\", \"NVIDIA OmniverseTM libraries and software development kits\", \"NVIDIA DRIVETM AV software platform\", \"NVIDIA Jetson AGX ThorTM developer kit and production modules\", \"NVIDIA Halos full-stack safety platform for robotic development\", \"NVIDIA CosmosTM world foundation models\"]}",
+  "usage": {
+    "prompt_tokens": 1217,
+    "completion_tokens": 149,
+    "total_tokens": 1366
+  },
+  "elapsed_seconds": 42.565,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q2fy26pr.htm EX-99.1 Document NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 • Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago • Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago • Blackwell Data Center revenue grew 17%\nQ2 Fiscal 2026 Summary GAAP ($ in millions, except earnings per share) Q2 FY26 Q1 FY26 Q2 FY25 Q/Q Y/Y Revenue $46,743 $44,062 $30,040 6 % 56 % Gross margin 72.4 % 60.5 % 75.1 % 11.9 pts (2.7) pts Operating expenses $5,413 $5,030 $3,932 8 % 38 % Operating income $28,440 $21,638 $18,642 31 % 53 % Net income $26,422 $18,775 $16,599 41 % 59 % Diluted earnings per share $1.08 $0.76 $0.67 42 % 61 % Non-GAAP ($ in millions, except earnings per share) Q2 FY26 Q1 FY26 Q2 FY25 Q/Q Y/Y Revenue $46,743 $44,062 $30,040 6 % 56 % Gross margin 72.7 % 61.0 % 75.7 % 11.7 pts (3.0) pts Gross margin excluding H20 related charges/releases, net 72.3 % 71.3 % 1.0 pt Operating expenses $3,795 $3,583 $2,792 6 % 36 % Operating income $30,165 $23,275 $19,937 30 % 51 % Net income $25,783 $19,894 $16,952 30 % 52 % Diluted earnings per share $1.05 $0.81 $0.68 30 % 54 % Diluted earnings per share excluding H20 related charges/releases, net and related tax impact $1.04 $0.96 8 % Outlook NVIDIA’s outlook for the third quarter of fiscal 2026 is as follows:\nAnnounced that the NVIDIA RTX PROTM 6000 Blackwell Server Edition GPU is coming to the world’s most popular enterprise servers; Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt the servers.\nIntroduced NVIDIA® Spectrum-XGS Ethernet to connect distributed data centers for giga-scale AI.\nAnnounced the expansion of NVIDIA DGX Cloud LeptonTM to connect Europe’s developers to NVIDIA’s global compute ecosystem.\nAnnounced a collaboration with Novo Nordisk and DCAI to advance drug discovery.\nIntroduced NVFP4, a 4-bit format purpose-built to deliver exceptional inference latency, for pretraining next-generation large language models.\nLaunched the Blackwell-powered NVIDIA GeForce RTXTM 5060, which quickly became NVIDIA’s fastest-ramping x60-class GPU ever.\nAnnounced Blackwell coming to GeForce NOWTM with the new Install-to-Play feature, doubling the game library to over 4,500 titles.\nAnnounced NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs.\nAnnounced new NVIDIA OmniverseTM libraries and software development kits to accelerate physical AI development.\nAnnounced that the full-stack NVIDIA DRIVETM AV software platform is now in full production to accelerate the large-scale deployment of safe, intelligent transportation.\nAnnounced the general availability of NVIDIA Jetson AGX ThorTM developer kit and production modules, powerful new AI supercomputers designed to power millions of robots across industries.\nReleased the NVIDIA Halos full-stack safety platform for robotic development.\nAnnounced new NVIDIA CosmosTM world foundation models that accelerate the development and deployment of robotics solutions.\nThese reconciliations adjust the related GAAP financial measures to exclude stock-based compensation expense, acquisition-related and other costs, other, gains/losses from non-marketable and publicly-held equity securities, net, interest expense related to amortization of debt discount, H20 related charges/releases, net and the associated tax impact of these items where applicable.\nThe inclusion of H20 related charges/releases, net in the reconciliations to adjust the related GAAP financial measures was a result of the U.S. government informing NVIDIA in April 2025 that it requires a license for export to China of H20 product.",
+  "full_text_characters": 24109,
+  "passage_characters": 3656,
+  "inference_timestamp": "2026-10-24T04:29:06.388709-04:00"
+}

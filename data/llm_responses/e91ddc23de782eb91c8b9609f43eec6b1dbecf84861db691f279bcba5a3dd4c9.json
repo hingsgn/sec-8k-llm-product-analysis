@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HPE",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HPE\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 248,
+    "completion_tokens": 10,
+    "total_tokens": 258
+  },
+  "elapsed_seconds": 4.841,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000126/ex-991x1242025x8k.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ex-991x1242025x8k.htm EX-99.1 Document Exhibit 99.1 HPE 1701 E. Mossy Oaks Road Spring, TX 77389-1767 hpe.com News Release HPE reports fiscal 2025 fourth quarter results Posts record quarterly revenue and gross profit; raises FY26 guidance HOUSTON – December 4, 2025 – HPE (NYSE: HPE)\n",
+  "full_text_characters": 58959,
+  "passage_characters": 295,
+  "inference_timestamp": "2026-10-24T04:47:18.504280-04:00"
+}

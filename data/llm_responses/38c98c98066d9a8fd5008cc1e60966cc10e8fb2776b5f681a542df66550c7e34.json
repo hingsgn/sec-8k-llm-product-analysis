@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Cisco",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Cisco\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 252,
+    "completion_tokens": 9,
+    "total_tokens": 261
+  },
+  "elapsed_seconds": 4.665,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525025114/d851168dex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 d851168dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Press Contact: Investor Relations Contact: Robyn Blum Sami Badri Cisco Cisco 1 (408) 930-8548 1 (469) 420-4834 rojenkin@cisco.com sambadri@cisco.com CISCO REPORTS SECOND QUARTER EARNINGS News Summary: • Broad-based strength in product orders\n",
+  "full_text_characters": 33047,
+  "passage_characters": 299,
+  "inference_timestamp": "2026-10-24T04:42:48.701928-04:00"
+}

@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Salesforce",
+    "products": []
+  },
+  "raw_response": "{ \"organization\": \"Salesforce\", \"products\": []}",
+  "usage": {
+    "prompt_tokens": 465,
+    "completion_tokens": 13,
+    "total_tokens": 478
+  },
+  "elapsed_seconds": 8.707,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000002/crm-q4fy25xexhibit991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 crm-q4fy25xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces Fourth Quarter and Fiscal Year 2025 Results Total Remaining Performance Obligation $63B, up 11% Y/Y; Operating Cash Flow $13B, up 28% Y/Y SAN FRANCISCO, Calif. - February 26, 2025 - Salesforce (NYSE: CRM), the\nEX-99.1 2 crm-q4fy25xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces Fourth Quarter and Fiscal Year 2025 Results Total Remaining Performance Obligation $63B, up 11% Y/Y; Operating Cash Flow $13B, up 28% Y/Y SAN FRANCISCO, Calif. - February 26, 2025 - Salesforce (NYSE: CRM), the world's #1 AI CRM, today announced results for its fourth quarter and full fiscal year ended January 31, 2025.\nProduct Releases and Enhancements Three times a year Salesforce delivers new product releases, services, or enhancements to current products and services.\nThese releases are a result of significant research and development investments made over multiple years, designed to help customers drive cost savings, boost efficiency, and build trust.\nTo learn more about our newest innovations and product release highlights, including our latest Spring 2025 Product Release, visit: www.salesforce.com/releases.",
+  "full_text_characters": 39727,
+  "passage_characters": 1208,
+  "inference_timestamp": "2026-10-24T04:42:57.415606-04:00"
+}

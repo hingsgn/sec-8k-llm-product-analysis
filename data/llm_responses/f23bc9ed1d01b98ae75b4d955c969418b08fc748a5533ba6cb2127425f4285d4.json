@@ -1,0 +1,28 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "4 th Gen AMD EPYC CPUs",
+      "ESnet6",
+      "AMD Versal adaptive SoCs",
+      "Alveo X3 series network cards",
+      "Radeon RX 7900 series graphics cards"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"4 th Gen AMD EPYC CPUs\", \"ESnet6\", \"AMD Versal adaptive SoCs\", \"Alveo X3 series network cards\", \"Radeon RX 7900 series graphics cards\"]}",
+  "usage": {
+    "prompt_tokens": 552,
+    "completion_tokens": 51,
+    "total_tokens": 603
+  },
+  "elapsed_seconds": 19.957,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000007/q42022991final.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q42022991final.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Suresh Bhaskaran AMD Investor Relations 408-749-2845 suresh.bhaskaran@amd.com AMD Reports Fourth Quarter and Full Year 2022 Financial Results\nAMD announced the availability of 4 th Gen AMD EPYC CPUs, delivering leadership performance and energy efficiency.\nCloud service providers including Google Cloud, Microsoft and 4 Oracle Cloud Infrastructure announced planned solutions leveraging the performance and security features of 4 th Gen AMD EPYC CPUs.\nDuring the keynote, AMD announced:\nAMD announced its collaboration with the Energy Sciences Network on the launch of ESnet6, the newest generation of the U.S.\nAMD announced it completed Class B qualification for the company’s first space-grade Versal adaptive SoCs.\nAMD unveiled the new Alveo X3 series network cards, the first AMD network cards designed with screened FPGAs and optimized specifically for low latency trading.\nAMD and Viettel High Tech announced a collaboration on a 5G mobile network expansion.\nAMD announced that its adaptive computing technology is powering leading mobility supplier DENSO Corporation’s next-generation LiDAR platform.\nAMD announced the Radeon RX 7900 series graphics cards , the world’s first gaming graphics cards to feature an advanced AMD chiplet design, delivering exceptional performance and energy efficiency to power high-framerate 4K and higher resolution gaming in the most demanding titles.\nAMD announced changes to its senior leadership team, including the retirement of executive vice president, chief financial officer and treasurer Devinder Kumar after 39 years with the company.\nThe company appointed Jean Hu as AMD executive vice president, chief financial officer and treasurer, effective January 23, 2023 and announced the promotion of Forrest Norrod to executive vice president and general manager of the Data Center Solutions business group.",
+  "full_text_characters": 34662,
+  "passage_characters": 2010,
+  "inference_timestamp": "2026-10-24T04:47:57.819459-04:00"
+}

@@ -1,0 +1,26 @@
+{
+  "parsed": {
+    "organization": "Cisco",
+    "products": [
+      "smart switches",
+      "secure routers",
+      "WiFi 7 products"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Cisco\",\"products\":[\"smart switches\", \"secure routers\", \"WiFi 7 products\"]}",
+  "usage": {
+    "prompt_tokens": 275,
+    "completion_tokens": 20,
+    "total_tokens": 295
+  },
+  "elapsed_seconds": 10.058,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525277624/d484663dex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 d484663dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Press Contact: Investor Relations Contact: Robyn Blum Sami Badri Cisco Cisco 1 (408) 930-8548 1 (469) 420-4834 rojenkin@cisco.com sambadri@cisco.com CISCO REPORTS FIRST QUARTER EARNINGS News Summary: • Strong top and bottom-line growth,\nAll next-generation solutions including smart switches, secure routers and WiFi 7 products are ramping faster than prior product launches",
+  "full_text_characters": 30292,
+  "passage_characters": 431,
+  "inference_timestamp": "2026-10-24T04:46:44.695903-04:00"
+}

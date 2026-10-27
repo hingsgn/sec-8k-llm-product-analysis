@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Oracle Corporation",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Oracle Corporation\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 415,
+    "completion_tokens": 10,
+    "total_tokens": 425
+  },
+  "elapsed_seconds": 8.265,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025084831/orcl-ex99_1.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 orcl-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 For Immediate Release Contact: Ken Bond Deborah Hellinger Oracle Investor Relations Oracle Corporate Communications 1.650.607.0349 1.212.508.7935 ken.bond@oracle.com deborah.hellinger@oracle.com Oracle Announces Fiscal 2025 Fourth Quarter and\nEX-99.1 2 orcl-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 For Immediate Release Contact: Ken Bond Deborah Hellinger Oracle Investor Relations Oracle Corporate Communications 1.650.607.0349 1.212.508.7935 ken.bond@oracle.com deborah.hellinger@oracle.com Oracle Announces Fiscal 2025 Fourth Quarter and Fiscal Full Year Financial Results\nFY 2025 Total Revenue $57.4 billion, up 8% AUSTIN, Texas, June 11, 2025 -- Oracle Corporation (NYSE: ORCL) today announced fiscal 2025 Q4 and full-year 2025 results.",
+  "full_text_characters": 31752,
+  "passage_characters": 796,
+  "inference_timestamp": "2026-10-24T04:44:51.536551-04:00"
+}

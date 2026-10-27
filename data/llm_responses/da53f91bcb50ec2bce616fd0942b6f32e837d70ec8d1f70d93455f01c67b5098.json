@@ -1,0 +1,27 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "5th Gen Intel Xeon processor",
+      "Intel® CoreTM Ultra processors",
+      "Intel® CoreTM 14th Gen mobile and desktop processor lineup",
+      "Intel® CoreTM mobile processor Series 1 family"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel\",\"products\":[\"5th Gen Intel Xeon processor\", \"Intel® CoreTM Ultra processors\", \"Intel® CoreTM 14th Gen mobile and desktop processor lineup\", \"Intel® CoreTM mobile processor Series 1 family\"]}",
+  "usage": {
+    "prompt_tokens": 777,
+    "completion_tokens": 51,
+    "total_tokens": 828
+  },
+  "elapsed_seconds": 21.529,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q423_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Fourth-Quarter and Full-Year 2023 Financial Results News Summary ▪ Fourth-quarter revenue was $15.4 billion, up 10 percent\nBusiness Unit Summary Intel previously announced the organizational change to integrate its Accelerated Computing Systems and Graphics Group into its Client Computing Group and Data Center and AI Group.\nIntel and UMC also announced a collaboration on the development of a 12-nanometer process platform to address high-growth markets, such as mobile, communication infrastructure and networking.\nIn the fourth quarter, DCAI launched its 5th Gen Intel® Xeon® processor, which is optimized for AI workloads and provides up to 42% higher AI inference performance compared to the industry-leading 4th Gen Intel Xeon processor. 5th Gen Intel Xeon has reached general availability at Alibaba Cloud, is entering public and private preview with several cloud service providers, and is on track to ship with OEMs early next month. ▪ In client computing, Intel ushered in the age of the AI PC with Intel® CoreTM Ultra processors.\nIntel announced at CES 2024 the full Intel® CoreTM 14th Gen mobile and desktop processor lineup, as well as the new Intel® CoreTM mobile processor Series 1 family for performant mainstream thin-and-light mobile systems. ▪ In network and edge, OpenVINOTM adoption grew by 60% sequentially in the fourth quarter as it became a core software layer for AI inference on the edge, on the PC and in the data center.\nAdditionally, AT&T and Ericsson announced plans to lead the U.S. in commercial scale Open RAN deployment in collaboration with Intel and others as it plans for 70% of its wireless network traffic to flow across open-capable platforms by late 2026.\nCisco is working with Intel and others to create solutions including Ethernet technologies, GPU-enabled infrastructure, and jointly tested and validated reference architectures with a commitment to advancing AI networking. ▪ Mobileye announced that it was awarded a series of production design wins by a major western automaker across the company’s three key platforms: Mobileye SuperVisionTM, Mobileye ChauffeurTM and Mobileye DriveTM.\nIn addition, Intel Automotive announced the launch of AI-enhanced software-defined vehicle SoCs, with Geely’s Zeekr brand as its first OEM partner, and Intel’s agreement to acquire Silicon Mobility, a fabless silicon and software company specializing in power management SoCs focused on EVs, subject to necessary approvals.\nQ1 2024 Dividend The company announced that its board of directors has declared a quarterly dividend of $0.125 per share on the company’s common stock, which will be payable March 1, 2024, to shareholders of record as of Feb. 7, 2024.",
+  "full_text_characters": 41185,
+  "passage_characters": 2858,
+  "inference_timestamp": "2026-10-24T04:36:23.967587-04:00"
+}

@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "AMD Ryzen AI 300 Series processors",
+      "AMD Instinct MI300X accelerators",
+      "RadeonTM PRO W7900 Dual Slot GPU",
+      "AMD EPYC CPUs",
+      "AMD EPYC 4004 Series processors",
+      "AMD Ryzen 9000 Series processors",
+      "AMD Ryzen PRO 8040 Series and 8000 Series mobile and desktop processors"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"AMD Ryzen AI 300 Series processors\", \"AMD Instinct MI300X accelerators\", \"RadeonTM PRO W7900 Dual Slot GPU\", \"AMD EPYC CPUs\", \"AMD EPYC 4004 Series processors\", \"AMD Ryzen 9000 Series processors\", \"AMD Ryzen PRO 8040 Series and 8000 Series mobile and desktop processors\"]}",
+  "usage": {
+    "prompt_tokens": 727,
+    "completion_tokens": 94,
+    "total_tokens": 821
+  },
+  "elapsed_seconds": 24.247,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q22024991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Mitch Haws AMD Investor Relations 408-749-3124 mitch.haws@amd.com AMD Reports Second Quarter 2024 Financial Results SANTA CLARA, Calif. ― July 30,\nAt Computex 2024, AMD unveiled an expanded AMD Instinct accelerator roadmap, bringing an annual cadence of leadership AI performance and memory capabilities.\nAMD announced the AMD Ryzen AI 300 Series processors, the company's third generation processor for AI PCs, with industry-leading 50 TOPs of AI processing power for Windows Copilot+ PCs.\nOEMs including Acer, ASUS, HP, Lenovo and MSI unveiled new devices powered by the lineup.\nAMD and industry leaders announced the Ultra Accelerator Link promoter group which will leverage AMD Infinity FabricTM technology to advance open standards-based AI networking infrastructure systems.\nCloud providers showcased offerings powered by AMD Instinct MI300X accelerators, with Microsoft announcing the general availability of new Azure ND MI300X V5 instances, which provide leading price/performance for GPT workloads.\nAMD launched the RadeonTM PRO W7900 Dual Slot GPU for high-performance AI workstations and expanded AMD ROCmTM 6.1.3 software support to enhance AI development and deployment with select AMD Radeon desktop GPUs.\nOracle announced the HeatWave GenAI solution powered by AMD EPYC CPUs, enabling customers to bring the power of generative AI to their enterprise data without requiring AI expertise.\nAMD announced the AMD EPYC 4004 Series processors, a new cost-optimized offering that delivers enterprise-class features and leadership performance for small and medium businesses.\nAMD launched new client and graphics offerings, building on its expansive PC portfolio for commercial, consumer and enthusiast users:\nAMD announced the new AMD Ryzen 9000 Series processors based on the “Zen 5” architecture, delivering leadership performance in gaming, productivity and content creation.\nAMD unveiled the AMD Ryzen PRO 8040 Series and 8000 Series mobile and desktop processors with cutting-edge performance, manageability and security features for today’s enterprises.\nSun Singapore announced that it is using AMD ZynqTM UltraScale+TM MPSoC devices to power its large network of AI-based smart parking services, accelerating video analytics and real-time inferencing.\nOptiver announced that it is using a broad range of AMD high-performance compute engines , including AMD EPYC CPUs, AMD SolarflareTM ethernet adapters, VirtexTM 3 FPGAs and AlveoTM accelerators to power its data center infrastructure, unlocking trading performance and efficiency across more than 100 financial markets.",
+  "full_text_characters": 29241,
+  "passage_characters": 2741,
+  "inference_timestamp": "2026-10-24T04:31:44.105227-04:00"
+}

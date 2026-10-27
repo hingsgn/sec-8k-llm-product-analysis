@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HPE",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HPE\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 406,
+    "completion_tokens": 10,
+    "total_tokens": 416
+  },
+  "elapsed_seconds": 7.792,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000111/ex-992x10152025x8ksam.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.2 3 ex-992x10152025x8ksam.htm EX-99.2 Document Exhibit 99.2 HPE 1701 E. Mossy Oaks Road Spring, TX 77389 hpe.com News Release HPE details strategic and execution priorities to drive enhanced shareholder value at HPE Securities Analyst Meeting 2025 • Strengthened networking capabilities will\nTo support its shareholder capital return goals, the company announced a 10% increase to its annual dividend for fiscal year 2026 1 , reflecting confidence in its outlook.\nThe company announced updates to Catalyst, a set of initiatives to enhance growth opportunities while driving structural cost savings.\nHPE expects fiscal year 2026 free cash flow to be $1.5 billion to $2.0 billion. 3,4 The company announced a 10% increase in its annual dividend per share 1 .\nThis press release contains only a summary of some of the information presented at today’s event and should be read in conjunction with the management presentations and related materials made available on that website. 1 Subject to HPE Board of Directors approval 2 Growth rates include FY25 results normalized to include 8 months of Juniper results pre-acquisition close.",
+  "full_text_characters": 24068,
+  "passage_characters": 1135,
+  "inference_timestamp": "2026-10-24T04:46:13.859369-04:00"
+}

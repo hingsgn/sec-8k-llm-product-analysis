@@ -1,0 +1,32 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "AMD AlveoTM MA35D media accelerator",
+      "AMD Ryzen 9 7940HS processor",
+      "ZynqTM UltraScale+TM RFSoC products",
+      "Nokia Cloud RAN solutions",
+      "OMEN 16 and Victus 16 laptops",
+      "Framework Laptop 13",
+      "Framework Laptop 16",
+      "Legion Slim 7",
+      "AMD Radeon PRO W7000 Series graphics"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"AMD AlveoTM MA35D media accelerator\", \"AMD Ryzen 9 7940HS processor\", \"ZynqTM UltraScale+TM RFSoC products\", \"Nokia Cloud RAN solutions\", \"OMEN 16 and Victus 16 laptops\", \"Framework Laptop 13\", \"Framework Laptop 16\", \"Legion Slim 7\", \"AMD Radeon PRO W7000 Series graphics\"]}",
+  "usage": {
+    "prompt_tokens": 646,
+    "completion_tokens": 101,
+    "total_tokens": 747
+  },
+  "elapsed_seconds": 27.86,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000074/q12023991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q12023991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Suresh Bhaskaran AMD Investor Relations 408-749-2845 suresh.bhaskaran@amd.com AMD Reports First Quarter 2023 Financial Results SANTA CLARA, Calif.\nLisa Su. \"We launched multiple leadership products and made significant progress accelerating our AI roadmap and customer engagements in the quarter.\nAMD continues to lead in confidential computing as major cloud service providers including Microsoft Azure, Google Cloud and Oracle Cloud Infrastructure announced new capabilities based on AMD EPYCTM processors.\nAMD announced the AMD AlveoTM MA35D media accelerator to power a new era of live interactive streaming services at scale, featuring an integrated AI processor that dynamically adjusts video quality.\nAMD showcased its growing presence in the telco space, including announcing a Telco Solutions testing lab to support the validation of end-to-end AMD based solutions, launching ZynqTM UltraScale+TM RFSoC products to accelerate the deployment of 4G/5G radios in emerging markets, and expanding the collaboration with Nokia to power Nokia Cloud RAN solutions to help communications service providers achieve their most stringent energy efficiency goals.\nHPI announced hardware and software offerings for the hybrid workplace powered by next-gen Ryzen processors.\nHPI also announced the next generation OMEN 16 and Victus 16 laptops featuring up to an AMD Ryzen 9 7940HS processor.\nLenovo announced the Legion Slim 7 featuring up to an AMD Ryzen 9 7940HS processor, as well as additions to the Yoga lineup featuring AMD Ryzen 7000 Series processors.\nFramework introduced AMD-powered versions of both their Framework Laptop 13 and newly announced Laptop 16 .\nSamsung and AMD announced they signed a multi-year agreement extension to bring multiple generations of high-performance, ultra-low-power AMD RadeonTM graphics solutions to an expanded portfolio of Samsung Exynos SoCs.\nAMD announced the AMD Radeon PRO W7000 Series graphics, the first professional graphics cards built on the advanced AMD chiplet design to deliver leadership performance and unique features.\nAMD announced that Jack Huynh has been named senior vice president and general manager of Computing and Graphics following the retirement of Rick Bergman, the former executive vice president of Computing and Graphics .",
+  "full_text_characters": 24555,
+  "passage_characters": 2443,
+  "inference_timestamp": "2026-10-24T04:48:41.266919-04:00"
+}

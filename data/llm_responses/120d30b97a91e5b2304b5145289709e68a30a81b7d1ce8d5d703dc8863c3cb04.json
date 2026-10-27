@@ -1,0 +1,25 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "hybrid cloud",
+      "AI offerings"
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"hybrid cloud\",\"AI offerings\"]}",
+  "usage": {
+    "prompt_tokens": 358,
+    "completion_tokens": 14,
+    "total_tokens": 372
+  },
+  "elapsed_seconds": 8.107,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000004/ibm-20240124xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20240124xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FOURTH-QUARTER RESULTS Revenue growth in all segments; Strong margin expansion and cash generation ARMONK, N.Y., January 24, 2024 . . . IBM (NYSE: IBM) today announced fourth-quarter 2023 earnings results. “In the fourth\nEX-99.1 2 ibm-20240124xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FOURTH-QUARTER RESULTS Revenue growth in all segments; Strong margin expansion and cash generation ARMONK, N.Y., January 24, 2024 . . .\nIBM (NYSE: IBM) today announced fourth-quarter 2023 earnings results. “In the fourth quarter, we grew revenue in all of our segments, driven by continued adoption of our hybrid cloud and AI offerings.",
+  "full_text_characters": 27365,
+  "passage_characters": 709,
+  "inference_timestamp": "2026-10-24T04:36:02.431345-04:00"
+}

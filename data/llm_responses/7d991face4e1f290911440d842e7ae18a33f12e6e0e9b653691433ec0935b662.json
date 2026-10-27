@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "Instinct MI450",
+      "Helios",
+      "Venice",
+      "Vulcano",
+      "Zyphra",
+      "MI355X",
+      "MI350X"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"AMD\", \"products\": [\"Instinct MI450\", \"Helios\", \"Venice\", \"Vulcano\", \"Zyphra\", \"MI355X\", \"MI350X\"]}",
+  "usage": {
+    "prompt_tokens": 699,
+    "completion_tokens": 51,
+    "total_tokens": 750
+  },
+  "elapsed_seconds": 16.914,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q32025991.htm EX-99.1 Document NEWS RELEASE Media Contact: Phil Hughes AMD Communications 512-865-9697 phil.hughes@amd.com Investor Contact: Liz Stine AMD Investor Relations 720-652-3965 liz.stine@amd.com AMD Reports Third Quarter 2025 Financial Results SANTA CLARA, Calif. ― November 4,\nOpenAI and AMD announced a strategic partnership where AMD will be a core preferred partner to deploy 6 gigawatts of AMD GPUs to power OpenAI’s next generation AI infrastructure, with the first 1-gigawatt deployment of AMD Instinct MI450 GPUs set to begin in the second half of 2026.\nOracle and AMD announced that Oracle Cloud Infrastructure (OCI) will offer the first publicly available AI supercluster powered by the AMD “Helios” rack design with AMD Instinct MI450 GPUs, EPYC “Venice” CPUs and PensandoTM “Vulcano” networking, with an initial deployment of 50,000 GPUs starting in Q3 2026. 2\nAMD unveiled its “Helios” rack scale design that supports the new Open Rack Wide specification introduced by Meta at Open Compute Project Global Summit.\nCisco and AMD announced an expanded collaboration with G42 to deploy a large-scale AI cluster powered by AMD Instinct MI355X GPUs to advance secure AI infrastructure across UAE.\nIBM and AMD announced a multi-year collaboration to provide Zyphra with advanced AI infrastructure, leveraging a large cluster of AMD Instinct MI350X GPUs to power next-generation multimodal AI models.\nVultr announced the global availability of AMD Instinct MI355X GPUs across its cloud platform.\nAMD and Tech Mahindra announced a collaboration to bring AMD Instinct GPUs and AMD EPYC processors to the Cloud BlazeTech enterprise AI solution.\nDepartment of Energy announced two new next-generation supercomputers:\nAMD released ROCmTM 7 software, boosting training and inference performance and expanding enterprise tools for infrastructure management and deployment.\nAMD announced the completion of the divestiture of the ZT Systems data center infrastructure manufacturing business to Sanmina.\nAWS announced the availability of Amazon EC2 M8a general-purpose instance powered by 5 th Gen AMD EPYC processors, delivering up to 30% higher performance than the previous generation.\nOracle announced next-gen Compute Cloud@Customer X11 and Private Cloud Appliance X11 platforms powered by 5 th Gen AMD EPYC processors.\nIBM and AMD announced plans to combine quantum computers and high-performance compute to drive scalable, open-source next-generation computing architectures.",
+  "full_text_characters": 34161,
+  "passage_characters": 2497,
+  "inference_timestamp": "2026-10-24T04:33:09.536120-04:00"
+}

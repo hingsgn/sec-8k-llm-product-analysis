@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\", \"products\":[]}",
+  "usage": {
+    "prompt_tokens": 351,
+    "completion_tokens": 11,
+    "total_tokens": 362
+  },
+  "elapsed_seconds": 6.612,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000023/hp013125exhibit991q125.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp013125exhibit991q125.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2025 First Quarter Results PALO\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2025 first quarter net revenue of $13.5 billion, up 2.4% (up 3.3% in constant currency) from the prior-year period. \"We are pleased with our Q1 performance, achieving revenue growth for the third straight quarter and advancing our strategy to lead the future of work,” said Enrique Lores, HP President and CEO. “Our progress was fueled by a strong commercial business in Personal Systems and momentum in our key growth areas, including AI PCs.",
+  "full_text_characters": 38529,
+  "passage_characters": 823,
+  "inference_timestamp": "2026-10-24T04:43:04.032888-04:00"
+}

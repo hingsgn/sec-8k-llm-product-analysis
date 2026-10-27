@@ -1,0 +1,28 @@
+{
+  "parsed": {
+    "organization": "Intel Corporation",
+    "products": [
+      "Intel 18A",
+      "Panther Lake",
+      "Clearwater Forest",
+      "Lunar Lake",
+      "Intel Gaudi 3"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel Corporation\", \"products\":[\"Intel 18A\", \"Panther Lake\", \"Clearwater Forest\", \"Lunar Lake\", \"Intel Gaudi 3\"]}",
+  "usage": {
+    "prompt_tokens": 1185,
+    "completion_tokens": 37,
+    "total_tokens": 1222
+  },
+  "elapsed_seconds": 34.401,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000122/q224_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q224_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Second-Quarter 2024 Financial Results Announces $10 Billion Cost Reduction Plan to Increase Efficiency and Market Competitiveness NEWS\nSanta Clara, CA 95054-1549 News Release Intel Reports Second-Quarter 2024 Financial Results Announces $10 Billion Cost Reduction Plan to Increase Efficiency and Market Competitiveness NEWS SUMMARY ▪ Second-quarter revenue of $12.8 billion, down 1% year over year (YoY). ▪ Second-quarter GAAP earnings (loss) per share (EPS) attributable to Intel was $(0.38); non-GAAP EPS attributable to Intel was $0.02. ▪ Forecasting third-quarter 2024 revenue of $12.5 billion to $13.5 billion; expecting third-quarter GAAP EPS attributable to Intel of $(0.24); non-GAAP EPS attributable to Intel of $(0.03). ▪ Implementing comprehensive reduction in spending, including a more than 15% headcount reduction, to resize and refocus. ▪ Suspending dividend starting in the fourth quarter of 2024.\nThe company reiterates its long-term commitment to a competitive dividend as cash flows improve to sustainably higher levels. ▪ Achieved key milestones on Intel 18A with the 1.0 Process Design Kit (PDK) released and key power-on of first client and server products on Intel 18A, Panther Lake and Clearwater Forest.\nWe expect these actions to meaningfully improve liquidity and reduce our debt balance while enabling us to make the right investments to drive long-term value for shareholders.” Cost-Reduction Plan As Intel nears the completion of rebuilding a sustainable engine of process technology leadership, it announced a series of initiatives to create a sustainable financial engine that accelerates profitable growth, enables further operational efficiency and agility, and creates capacity for ongoing strategic investment in technology and manufacturing leadership.\nSee below for more information on and reconciliations of Intel's non-GAAP financial measures. **Not meaningful Intel/Page 3 Business Unit Summary Intel previously announced the implementation of an internal foundry operating model, which took effect in the first quarter of 2024 and created a foundry relationship between its Intel Products business (collectively CCG, DCAI and NEX) and its Intel Foundry business (including Foundry Technology Development, Foundry Manufacturing and Supply Chain, and Foundry Services (formerly IFS)).\nThe company also previously announced its intent to operate Altera ® as a standalone business beginning in the first quarter of 2024.\nLunar Lake will power over 80 new Copilot+ PCs across more than 20 OEMs. ▪ DCAI: More than 130 million Intel® Xeon® processors power data centers around the world today, and at Computex Intel introduced its next-generation Intel ® Xeon ® 6 processor with Efficient-cores (E-cores), code-named Sierra Forest, marking the company’s first Intel 3 server product architected for high-density, scale-out workloads.\nThe Intel ® Gaudi ® 3 AI accelerator is also on track to launch in the third quarter and is expected to deliver roughly two-times the performance per dollar on both inference and training versus the leading competitor. ▪ NEX: Intel announced an array of AI-optimized scale-out Ethernet solutions, including the Intel AI network interface card and foundry chiplets that will launch next year.\nAdditionally, Intel and others announced the creation of the Ultra Accelerator Link, a new industry standard dedicated to advancing high-speed, low-latency communication for scale-up AI systems communication in data centers.\nIn July 2024, Intel released to foundry customers the 1.0 PDK for Intel 18A.\nThe company’s first two Intel 18A products, Panther Lake for client — the first microprocessor to use RibbonFet, PowerVia and advanced packaging — and Clearwater Forest for servers, are on track to launch in 2025. ▪ Ansys, Cadence, Siemens, and Synopsys announced the availability of reference flows for Intel’s embedded multi-die interconnect bridge (EMIB) advanced packaging technology, which simplifies the design process and offers design flexibility.\nOther Highlights Intel announced its second Semiconductor Co-Investment Program (SCIP) agreement, the formation of a joint venture with Apollo related to Intel’s Fab 34 in Ireland.\nQ3 2024 Dividend The company announced that its board of directors has declared a quarterly dividend of $0.125 per share on the company’s common stock, which will be payable Sept. 1, 2024, to shareholders of record as of Aug. 7, 2024.",
+  "full_text_characters": 41532,
+  "passage_characters": 4598,
+  "inference_timestamp": "2026-10-24T04:39:49.328482-04:00"
+}

@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Cisco",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Cisco\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 305,
+    "completion_tokens": 9,
+    "total_tokens": 314
+  },
+  "elapsed_seconds": 6.551,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523277891/d850595dex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 d850595dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Press Contact: Investor Relations Contact: Robyn Blum Sami Badri Cisco Cisco 1 (408) 930-8548 1 (469) 420-4834 rojenkin@cisco.com sambadri@cisco.com CISCO REPORTS FIRST QUARTER EARNINGS News Summary: • Strongest first quarter results in\nCode BGP, Inc. , a privately held border gateway protocol monitoring company Cisco’s Intent to Acquire Splunk On September 21, 2023, we announced our intent to acquire Splunk Inc., a public cybersecurity and observability company.",
+  "full_text_characters": 30846,
+  "passage_characters": 524,
+  "inference_timestamp": "2026-10-24T04:35:22.978221-04:00"
+}

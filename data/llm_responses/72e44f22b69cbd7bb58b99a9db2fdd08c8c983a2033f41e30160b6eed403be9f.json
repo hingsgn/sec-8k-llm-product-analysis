@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "glass substrates for next-generation advanced packaging"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"Intel\", \"products\": [\"glass substrates for next-generation advanced packaging\"]}",
+  "usage": {
+    "prompt_tokens": 723,
+    "completion_tokens": 20,
+    "total_tokens": 743
+  },
+  "elapsed_seconds": 15.911,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000100/q323_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q323_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Third-Quarter 2023 Financial Results NEWS SUMMARY • Third-quarter revenue of $14.2 billion, down 8% year over year (YoY). •\nIntel/Page 2 Business Unit Summary Intel previously announced the organizational change to integrate its Accelerated Computing Systems and Graphics Group into its Client Computing Group and Data Center and AI Group.\nIn addition, Intel announced one of the industry’s first glass substrates for next-generation advanced packaging, planned for the latter part of this decade.\nDepartment of Commerce’s CHIPS Program Office . ▪ Intel announced that a major customer committed to Intel 18A and Intel 3 with a meaningful pre-payment, allowing the company to accelerate its plans to build two new leading-edge chip factories at its Ocotillo campus in Chandler, Arizona.\nIn addition, IFS and Tower Semiconductor announced an agreement where Intel will provide foundry services and 300 mm manufacturing capacity to help Tower serve its customers globally, utilizing Intel’s advanced manufacturing facility in New Mexico. ▪ At Intel Innovation 2023, Intel outlined its strategy to bring AI everywhere, making it more accessible across all workloads, from client and edge to network and cloud.\nThe company showed how it is delivering AI capabilities across its hardware products and making it accessible through open multi-architecture software solutions. ▪ In DCAI, Intel's 4th Gen Intel® Xeon® Scalable processor continues its strong ramp, with the world’s top-10 cloud service providers now deploying it in general availability.\nIn addition, the company's 5th Gen Intel® Xeon® processor, code-named Emerald Rapids, is in production and began shipping to customers this month, officially launching Dec. 14.\nEarlier this month, Intel launched the new Intel® Core® 14th Generation desktop processor family, delivering the world’s fastest desktop frequencies and best desktop experience for enthusiasts. ▪ In network and edge, Intel launched the latest OpenVINOTM toolkit version 2023.1, the AI inferencing and deployment runtime of choice for developers on client and edge platforms, with ai.io and Fit:match demonstrating how they use OpenVINO to accelerate their applications at Intel Innovation. ▪ Mobileye achieved record third-quarter revenue, growing 18% year over year, and announced meaningful design wins for its advanced SuperVision and Chauffeur solutions with automakers FAW and Polestar.\nAs Intel continues to look for innovative ways to unlock value for shareholders, the company recently announced its intent to separate its Programmable Solutions Group (PSG) operations into a standalone business.",
+  "full_text_characters": 37332,
+  "passage_characters": 2790,
+  "inference_timestamp": "2026-10-24T04:35:16.418731-04:00"
+}

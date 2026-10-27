@@ -1,0 +1,35 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "NVIDIA Hopper H200-powered instances",
+      "Denmark’s largest sovereign AI supercomputer",
+      "NVIDIA DGX SuperPOD",
+      "NVIDIA AI Aerial platform",
+      "Japan’s most powerful AI supercomputer with the NVIDIA Blackwell platform",
+      "Taiwan’s fastest AI supercomputer with NVIDIA Blackwell",
+      "Foxconn to build Taiwan’s fastest AI supercomputer",
+      "Blackwell",
+      "Foxconn digital twins and industrial AI built on NVIDIA OmniverseTM",
+      "Volvo new electric SUV built on NVIDIA accelerated computing",
+      "Project GR00T AI and simulation tools for robot learning and humanoid development",
+      "NVIDIA IsaacTM and Omniverse"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"NVIDIA Hopper H200-powered instances\",\"Denmark’s largest sovereign AI supercomputer\",\"NVIDIA DGX SuperPOD\",\"NVIDIA AI Aerial platform\",\"Japan’s most powerful AI supercomputer with the NVIDIA Blackwell platform\",\"Taiwan’s fastest AI supercomputer with NVIDIA Blackwell\",\"Foxconn to build Taiwan’s fastest AI supercomputer\",\"Blackwell\",\"Foxconn digital twins and industrial AI built on NVIDIA OmniverseTM\",\"Volvo new electric SUV built on NVIDIA accelerated computing\",\"Project GR00T AI and simulation tools for robot learning and humanoid development\",\"NVIDIA IsaacTM and Omniverse\"]}",
+  "usage": {
+    "prompt_tokens": 652,
+    "completion_tokens": 132,
+    "total_tokens": 784
+  },
+  "elapsed_seconds": 29.179,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000315/q3fy25pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q3fy25pr.htm EX-99.1 Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Third Quarter Fiscal 2025 • Record quarterly revenue of $35.1 billion, up 17% from Q2 and up 94% from a year ago • Record quarterly Data Center revenue of $30.8 billion, up 17% from Q2 and up 112%\nAnnounced the availability of NVIDIA Hopper H200-powered instances in several cloud services, including AWS, CoreWeave and Microsoft Azure, with Google Cloud and Oracle Cloud Infrastructure coming soon.\nLaunched Denmark’s largest sovereign AI supercomputer, an NVIDIA® DGX SuperPODTM driven by 1,528 NVIDIA H100 Tensor Core GPUs and interconnected using NVIDIA Quantum-2 InfiniBand networking.\nIntroduced the NVIDIA AI Aerial platform for telecommunications providers and began working with T-Mobile, Ericsson and Nokia to accelerate the commercialization of AI-RAN.\nAnnounced that SoftBank Corp. is building Japan’s most powerful AI supercomputer with the NVIDIA Blackwell platform and has successfully piloted the world’s first combined AI and 5G telecom network using NVIDIA AI Aerial.\nUnveiled a partnership with Foxconn to build Taiwan’s fastest AI supercomputer with NVIDIA Blackwell.\nAnnounced that Blackwell debuted on MLPerf Training, completed all tests and delivered up to 2.2x performance gains on large language model benchmarks.\nAnnounced the expansion of a partnership with Lenovo to launch new hybrid AI solutions and systems optimized to run NVIDIA AI Enterprise software.\nIntroduced 20 GeForce RTX and DLSS titles, including Indiana Jones and the Great Circle and Dragon Age: The Veilguard.\nAnnounced that Foxconn is using digital twins and industrial AI built on NVIDIA OmniverseTM to bring online faster three factories used to manufacture NVIDIA GB200 Grace Blackwell Superchips.\nUnveiled NVIDIA Holoscan for Media, an AI-enabled, software-defined platform that allows live media and video pipelines to run on the same infrastructure as AI, enhancing production delivery.\nRevealed that Volvo is releasing a new electric SUV built on NVIDIA accelerated computing.\nIntroduced Project GR00T AI and simulation tools for robot learning and humanoid development, and new generative AI tools and perception workflows for robotics developers.\nAnnounced that Japanese and Indian companies including Toyota and Ola Motors are using NVIDIA IsaacTM and Omniverse to build the next wave of physical AI.",
+  "full_text_characters": 21433,
+  "passage_characters": 2409,
+  "inference_timestamp": "2026-10-24T04:27:35.440916-04:00"
+}

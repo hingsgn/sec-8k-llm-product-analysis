@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Hewlett Packard Enterprise",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Hewlett Packard Enterprise\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 234,
+    "completion_tokens": 14,
+    "total_tokens": 248
+  },
+  "elapsed_seconds": 5.164,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000114/ex-991x942024x8k.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ex-991x942024x8k.htm EX-99.1 Document Exhibit 99.1 Hewlett Packard Enterprise 1701 E. Mossy Oaks Road Spring, TX 77389-1767 hpe.com News Release Hewlett Packard Enterprise reports fiscal 2024 third quarter results Accelerating AI demand drives HPE revenue growth; profit increases HOUSTON\n",
+  "full_text_characters": 54457,
+  "passage_characters": 299,
+  "inference_timestamp": "2026-10-24T04:40:24.390411-04:00"
+}

@@ -1,0 +1,34 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "Ryzen ThreadripperTM PRO 7000 WX-Series and Ryzen Threadripper 7000 processors",
+      "Ryzen 7045HX3D Series mobile processors",
+      "AMD Ryzen 5 5600X3D processor",
+      "AMD AlveoTM UL3524 accelerator card",
+      "AMD KriaTM K24 System-on-Module (SOM)",
+      "KD240 Drives Starter Kit",
+      "AMD Radeon RX 7900M",
+      "Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards",
+      "FidelityFX Super Resolution 3 in Forspoken and Immortals of Aveum",
+      "AMD Software: Adrenalin Edition application",
+      "Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"Ryzen ThreadripperTM PRO 7000 WX-Series and Ryzen Threadripper 7000 processors\", \"Ryzen 7045HX3D Series mobile processors\", \"AMD Ryzen 5 5600X3D processor\", \"AMD AlveoTM UL3524 accelerator card\", \"AMD KriaTM K24 System-on-Module (SOM)\", \"KD240 Drives Starter Kit\", \"AMD Radeon RX 7900M\", \"Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards\", \"FidelityFX Super Resolution 3 in Forspoken and Immortals of Aveum\", \"AMD Software: Adrenalin Edition application\", \"Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards\"]}",
+  "usage": {
+    "prompt_tokens": 736,
+    "completion_tokens": 187,
+    "total_tokens": 923
+  },
+  "elapsed_seconds": 36.082,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q32023991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Mitch Haws AMD Investor Relations 408-749-3124 mitch.haws@amd.com AMD Reports Third Quarter 2023 Financial Results SANTA CLARA, Calif. ― Oct. 31,\nAI startup Lamini unveiled that it has been running production-ready Large Language Models (LLMs) exclusively on AMD Instinct accelerators, enabling enterprise customers to deploy LLMs finetuned for their specific data across hundreds of AMD Instinct MI250 GPUs with only three lines of code.\nAMD announced the AMD Ryzen ThreadripperTM PRO 7000 WX-Series and Ryzen Threadripper 7000 processors, delivering outstanding performance for the most demanding desktop platforms.\nAMD launched new Ryzen 7045HX3D Series mobile processors, the first mobile processor with AMD 3D V-CacheTM technology, and the world’s fastest mobile gaming processor.\nAMD launched the AMD Ryzen 5 5600X3D processor, delivering incredible gaming performance with AMD 3D V-cache technology.\nAMD announced the AMD AlveoTM UL3524 accelerator card, a new fintech accelerator designed for electronic trading applications and AI-enabled trading strategies.\nAMD announced the AMD KriaTM K24 System-on-Module (SOM) and KD240 Drives Starter Kit, offering power-efficient compute in a small form factor for cost-sensitive industrial and commercial edge applications.\nAMD introduced the flagship laptop graphics processor, AMD Radeon RX 7900M, the fastest AMD Radeon GPU ever developed for laptops, delivering desktop-class performance for gaming and content creation.\nAMD launched the Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards, optimized to deliver incredibly high-performance, high-refresh 1440p gaming experiences for demanding AAA and esports titles.\nAMD launched FidelityFXTM Super Resolution 3 in Forspoken and Immortals of Aveum , featuring new frame generation technology that delivers massive performance improvements over both native resolution and temporal upscaling.\nAMD launched the latest version of the AMD Software: Adrenalin Edition application featuring AMD HYPR-RX technology, allowing AMD Radeon Super Resolution and AMD Radeon Boost technologies to work together to deliver greater performance.\nAMD launched the Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards, engineered to tackle workloads across a range of professional industries.\nAMD announced plans to invest approximately $400 million over the next five years to expand research, development and engineering operations in India, including the addition of approximately 3,000 new engineering roles by the end of 2028.",
+  "full_text_characters": 31319,
+  "passage_characters": 2683,
+  "inference_timestamp": "2026-10-24T04:30:28.861679-04:00"
+}

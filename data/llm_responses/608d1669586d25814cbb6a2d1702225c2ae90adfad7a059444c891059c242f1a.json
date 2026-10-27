@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "Red Hat"
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"Red Hat\"]}",
+  "usage": {
+    "prompt_tokens": 361,
+    "completion_tokens": 10,
+    "total_tokens": 371
+  },
+  "elapsed_seconds": 7.226,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000005/ibm-20250129xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20250129xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FOURTH-QUARTER RESULTS Double-digit Software revenue growth; Free cash flow well-exceeds full-year expectation ARMONK, N.Y., January 29, 2025 . . . IBM (NYSE: IBM) today announced fourth-quarter 2024 earnings results. “We\nEX-99.1 2 ibm-20250129xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FOURTH-QUARTER RESULTS Double-digit Software revenue growth; Free cash flow well-exceeds full-year expectation ARMONK, N.Y., January 29, 2025 . . .\nIBM (NYSE: IBM) today announced fourth-quarter 2024 earnings results. “We closed the year with double-digit revenue growth in Software for the quarter, led by further acceleration in Red Hat.",
+  "full_text_characters": 27302,
+  "passage_characters": 713,
+  "inference_timestamp": "2026-10-24T04:42:22.050685-04:00"
+}

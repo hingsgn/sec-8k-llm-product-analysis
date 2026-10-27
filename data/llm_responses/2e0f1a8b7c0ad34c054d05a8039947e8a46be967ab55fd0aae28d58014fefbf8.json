@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 689,
+    "completion_tokens": 10,
+    "total_tokens": 699
+  },
+  "elapsed_seconds": 14.208,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000075/hp103124exhibit991q424.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp103124exhibit991q424.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2024 Full Year and Fourth\nHP Inc. announces dividend increase of 5% HP Inc.'s fiscal 2024 full-year and fourth quarter financial performance FY24 FY23 Y/Y Q4 FY24 Q4 FY23 Y/Y GAAP net revenue ($B) $ 53.6 $ 53.7 (0.3) % $ 14.1 $ 13.8 1.7 % GAAP operating margin 7.1 % 6.4 % 0.7 pts 7.1 % 7.3% (0.2) pts GAAP net earnings ($B) $ 2.8 $ 3.3 (15) % $ 0.9 $ 1.0 (7) % GAAP diluted net EPS $ 2.81 $ 3.26 (14) % $ 0.93 $ 0.97 (4) % Non-GAAP operating margin 8.4 % 8.5 % (0.1) pts 8.5 % 9.0 % (0.5) pts Non-GAAP net earnings ($B) $ 3.3 $ 3.3 2 % $ 0.9 $ 0.9 — % Non-GAAP diluted net EPS $ 3.38 $ 3.28 3 % $ 0.93 $ 0.90 3 % Net cash provided by operating activities ($B) $ 3.7 $ 3.6 5 % $ 1.6 $ 2.0 (18) % Free cash flow ($B) $ 3.3 $ 3.1 8 % $ 1.5 $ 1.9 (19) % Notes to table Information about HP Inc.'s use of non-GAAP financial information is provided under \"Use of non-GAAP financial information\" below.\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2024 net revenue of $53.6 billion, down 0.3% (down 0.2% in constant currency) from the prior-year period.",
+  "full_text_characters": 48417,
+  "passage_characters": 1350,
+  "inference_timestamp": "2026-10-24T04:41:34.469031-04:00"
+}

@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "Salesforce",
+    "products": [
+      "Summer 2024 Product Release"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Salesforce\",\"products\":[\"Summer 2024 Product Release\"]}",
+  "usage": {
+    "prompt_tokens": 431,
+    "completion_tokens": 17,
+    "total_tokens": 448
+  },
+  "elapsed_seconds": 9.567,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000007/crm-q1fy25xexhibit991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 crm-q1fy25xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces First Quarter Fiscal 2025 Results SAN FRANCISCO, Calif. - May 29, 2024 - Salesforce (NYSE: CRM), the #1 AI CRM, today announced results for its first quarter fiscal 2025 ended April 30, 2024. First Quarter\nEX-99.1 2 crm-q1fy25xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces First Quarter Fiscal 2025 Results SAN FRANCISCO, Calif. - May 29, 2024 - Salesforce (NYSE: CRM), the #1 AI CRM, today announced results for its first quarter fiscal 2025 ended April 30, 2024.\nProduct Releases and Enhancements Three times a year Salesforce delivers new product releases, services, or enhancements to current products and services.\nThese releases are a result of significant research and development investments made over multiple years, designed to help customers drive cost savings, boost efficiency, and build trust.\nTo view our major product releases and other highlights as part of the Summer 2024 Product Release, visit: www.salesforce.com/products/summer-24-release.",
+  "full_text_characters": 36036,
+  "passage_characters": 1068,
+  "inference_timestamp": "2026-10-24T04:38:38.530485-04:00"
+}

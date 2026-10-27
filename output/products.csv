@@ -1,0 +1,103 @@
+company_name,stock_name,filing_time,new_product,product_description
+ADVANCED MICRO DEVICES INC,AMD,2023-01-31T16:55:24-05:00,4 th Gen AMD EPYC CPUs,"Fourth-generation EPYC processors announced as available, with improved performance and energy efficiency."
+ADVANCED MICRO DEVICES INC,AMD,2023-01-31T16:55:24-05:00,Alveo X3 series network cards,FPGA-based network cards optimized for low-latency trading.
+ADVANCED MICRO DEVICES INC,AMD,2023-01-31T16:55:24-05:00,Radeon RX 7900 series graphics cards,Chiplet-based graphics cards designed for high-frame-rate 4K and higher-resolution gaming.
+NVIDIA CORP,NVDA,2023-02-22T16:52:26-05:00,GeForce RTX TM 40 Series,Laptop graphics processor family announced with improved performance and power efficiency.
+NVIDIA CORP,NVDA,2023-02-22T16:52:26-05:00,GeForce RTX 4070 Ti,Ada Lovelace graphics processor featuring DLSS 3 technology.
+ADVANCED MICRO DEVICES INC,AMD,2023-05-02T16:17:31-04:00,AMD AlveoTM MA35D media accelerator,"Media accelerator for large-scale live interactive streaming, with an integrated AI processor that adjusts video quality."
+ADVANCED MICRO DEVICES INC,AMD,2023-05-02T16:17:31-04:00,AMD Radeon PRO W7000 Series graphics,Professional graphics family using AMD chiplet design for improved performance.
+NVIDIA CORP,NVDA,2023-05-24T16:22:18-04:00,GeForce RTX TM 4060 family of GPUs,Ada Lovelace graphics processor family bringing DLSS capabilities to cards starting at $299.
+NVIDIA CORP,NVDA,2023-05-24T16:22:18-04:00,GeForce RTX 4070 GPU,Ada-based graphics processor supporting DLSS 3 and real-time ray tracing for high-frame-rate 1440p gaming.
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2023-07-19T16:15:37-04:00,watsonx AI platform,New enterprise AI platform cited in IBM’s second-quarter 2023 release.
+INTEL CORP,INTC,2023-07-27T16:07:40-04:00,Intel® ArcTM Pro A60 and Pro A60M,Professional graphics processors introduced as new members of the Arc Pro A-series.
+ADVANCED MICRO DEVICES INC,AMD,2023-08-01T16:16:57-04:00,AMD EPYC 97X4 CPUs,Bergamo data center CPUs optimized for cloud-native computing workloads.
+ADVANCED MICRO DEVICES INC,AMD,2023-08-01T16:16:57-04:00,4 th Gen AMD EPYC processors with AMD 3D V-CacheTM technology,Genoa-X processors using 3D V-Cache to accelerate demanding technical computing workloads.
+ADVANCED MICRO DEVICES INC,AMD,2023-08-01T16:16:57-04:00,AMD ROCmTM 5.6 open software platform,"Open software release with enhanced AI and HPC capabilities, including large language model support."
+ADVANCED MICRO DEVICES INC,AMD,2023-08-01T16:16:57-04:00,RyzenTM PRO 7040 Series Mobile processors,Processors for premium Windows 11 business laptops and mobile workstations.
+ADVANCED MICRO DEVICES INC,AMD,2023-08-01T16:16:57-04:00,Ryzen PRO 7000 Series processors,Desktop processors combining Zen 4 architecture with integrated RDNA 2 graphics for professional users.
+ADVANCED MICRO DEVICES INC,AMD,2023-08-01T16:16:57-04:00,RadeonTM RX 7600 graphics card,"Graphics card for high-performance 1080p gaming, streaming and content creation."
+NVIDIA CORP,NVDA,2023-08-23T16:21:42-04:00,NVIDIA ® GH200 Grace TM Hopper TM Superchip,"Grace Hopper superchip for complex AI and high-performance computing, with an announced second-generation HBM3e version."
+NVIDIA CORP,NVDA,2023-08-23T16:21:42-04:00,NVIDIA L40S GPU,Data center GPU designed to accelerate demanding computing applications.
+NVIDIA CORP,NVDA,2023-08-23T16:21:42-04:00,NVIDIA MGX TM,"Server reference design supporting more than 100 configurations for AI, HPC and Omniverse applications."
+NVIDIA CORP,NVDA,2023-08-23T16:21:42-04:00,NVIDIA Spectrum-X TM,Ethernet networking platform designed to improve the performance and efficiency of AI clouds.
+ADOBE INC.,ADBE,2023-09-14T16:06:02-04:00,Firefly,AI-enhanced creative offering cited among Adobe’s recent product launches.
+ADOBE INC.,ADBE,2023-09-14T16:06:02-04:00,GenStudio,Creative product offering cited among Adobe’s recent launches.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,Ryzen ThreadripperTM PRO 7000 WX-Series and Ryzen Threadripper 7000 processors,Desktop processor families designed for demanding high-performance platforms.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,Ryzen 7045HX3D Series mobile processors,Mobile processors with AMD 3D V-Cache technology for gaming laptops.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,AMD Ryzen 5 5600X3D processor,Gaming processor using AMD 3D V-Cache technology.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,AMD AlveoTM UL3524 accelerator card,FinTech accelerator card for electronic trading applications and AI-enabled trading strategies.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,AMD KriaTM K24 System-on-Module (SOM),Small-form-factor compute module for power-efficient industrial and commercial edge applications.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,KD240 Drives Starter Kit,Starter kit for power-efficient industrial and commercial edge applications.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,AMD Radeon RX 7900M,Laptop graphics processor designed for high-performance gaming and content creation.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards,Graphics cards optimized for high-refresh 1440p gaming in AAA and esports titles.
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,FidelityFXTM Super Resolution 3,"Upscaling technology with frame generation, launched in Forspoken and Immortals of Aveum."
+ADVANCED MICRO DEVICES INC,AMD,2023-10-31T16:16:56-04:00,Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards,Workstation graphics cards designed for professional workloads across multiple industries.
+NVIDIA CORP,NVDA,2023-11-21T16:22:00-05:00,NVIDIA HGXTM H200,AI computing platform using the H200 Tensor Core GPU with HBM3e memory.
+NVIDIA CORP,NVDA,2023-11-21T16:22:00-05:00,DLSS 3.5 Ray Reconstruction,Ray reconstruction technology that improves ray-traced images in demanding games and applications.
+NVIDIA CORP,NVDA,2023-11-21T16:22:00-05:00,TensorRT-LLMTM for Windows,Windows release of TensorRT-LLM that accelerates on-device large language model inference.
+INTEL CORP,INTC,2024-01-25T16:07:43-05:00,5th Gen Intel® Xeon® processor,"Server processor optimized for AI workloads, announced with higher inference performance than the prior generation."
+INTEL CORP,INTC,2024-01-25T16:07:43-05:00,Intel® CoreTM 14th Gen mobile and desktop processor lineup,New mobile and desktop processor lineup announced at CES 2024.
+INTEL CORP,INTC,2024-01-25T16:07:43-05:00,Intel® CoreTM mobile processor Series 1 family,Mobile processor family for mainstream thin-and-light systems.
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Instinct MI300X,"Generative AI accelerator announced as generally available, with high memory bandwidth."
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Instinct MI300A APU,Accelerated processor combining CDNA 3 and Zen 4 chiplets for HPC and AI workloads.
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Ryzen 8040 Series mobile processors,Mobile processors with an integrated neural processing unit for AI on selected models.
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Ryzen 8000G Series desktop processors,Desktop processors with a dedicated neural processing unit for AI capabilities on PCs.
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Radeon RX 7600 XT GPU,Graphics card designed for high-performance 1080p gaming.
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD VersalTM AI Edge XA Series,"Adaptive computing devices designed for automotive infotainment, driver safety and autonomous driving."
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Ryzen Embedded V2000A devices,"Embedded devices for automotive infotainment, driver safety and autonomous driving applications."
+ADVANCED MICRO DEVICES INC,AMD,2024-01-30T16:16:19-05:00,AMD Ryzen Embedded 7000 Series processors,Embedded processors with advanced features for industrial and edge computing solutions.
+NVIDIA CORP,NVDA,2024-02-21T16:22:09-05:00,GeForce RTXTM 40 SUPER Series GPUs,SUPER-series GeForce GPUs supporting DLSS 3.5 Ray Reconstruction and NVIDIA Reflex.
+NVIDIA CORP,NVDA,2024-02-21T16:22:09-05:00,NVIDIA NeMoTM Retriever,Generative AI microservice that connects custom large language models with enterprise data.
+NVIDIA CORP,NVDA,2024-02-21T16:22:09-05:00,NVIDIA MONAITM cloud APIs,Cloud APIs that help developers integrate AI into medical imaging offerings.
+NVIDIA CORP,NVDA,2024-02-21T16:22:09-05:00,RTX 2000 Ada Generation GPU,"Ada Generation GPU bringing AI, graphics and compute capabilities to compact workstations."
+INTEL CORP,INTC,2024-04-25T16:09:45-04:00,Gaudi ® 3 AI accelerator,"AI accelerator introduced for generative AI inference, with improved performance and power efficiency."
+INTEL CORP,INTC,2024-04-25T16:09:45-04:00,Open Platform for Enterprise AI,"Open platform intended to accelerate secure, cost-effective enterprise generative AI deployment through interoperability and RAG."
+ADVANCED MICRO DEVICES INC,AMD,2024-04-30T16:16:31-04:00,Versal AI Edge Series Gen 2 SoCs,System-on-chips combining multiple compute engines for efficient acceleration of AI-driven embedded systems.
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,NVIDIA NIM,"Software offering delivering optimized enterprise generative AI across cloud, data centers and RTX AI PCs."
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,NVIDIA Blackwell platform,AI computing platform designed for models operating at trillion-parameter scale.
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,Blackwell-powered DGX SuperPODTM,Blackwell-powered AI supercomputing system for generative AI workloads.
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,NVIDIA SpectrumTM X800 series switches,X800-series Ethernet switches optimized for trillion-parameter GPU computing and AI infrastructure.
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,NVIDIA AI Enterprise 5.0,Enterprise AI software release with NIM inference microservices for faster application development.
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,NVIDIA RTXTM 500 and 1000 professional Ada generation laptop GPUs,Ada-generation professional laptop GPUs for AI-enhanced workflows.
+NVIDIA CORP,NVDA,2024-05-22T16:21:29-04:00,NVIDIA OmniverseTM Cloud APIs,"Cloud APIs for industrial digital twins, with integrations for software tools and an Apple Vision Pro framework."
+ADVANCED MICRO DEVICES INC,AMD,2024-07-30T16:17:15-04:00,AMD Ryzen AI 300 Series processors,AI PC processor family announced with 50 TOPs of AI processing for Windows Copilot+ PCs.
+ADVANCED MICRO DEVICES INC,AMD,2024-07-30T16:17:15-04:00,RadeonTM PRO W7900 Dual Slot GPU,Dual-slot graphics processor designed for high-performance AI workstations.
+ADVANCED MICRO DEVICES INC,AMD,2024-07-30T16:17:15-04:00,AMD EPYC 4004 Series processors,Cost-optimized server processors with enterprise features for small and medium businesses.
+ADVANCED MICRO DEVICES INC,AMD,2024-07-30T16:17:15-04:00,AMD Ryzen 9000 Series processors,"Zen 5-based processors for gaming, productivity and content creation."
+ADVANCED MICRO DEVICES INC,AMD,2024-07-30T16:17:15-04:00,AMD Ryzen PRO 8040 Series and 8000 Series mobile and desktop processors,"Enterprise mobile and desktop processors with performance, manageability and security features."
+NVIDIA CORP,NVDA,2024-08-28T16:21:16-04:00,Nemotron-4 4B,"Small language model for on-device inference, available in early access for RTX AI PCs."
+INTEL CORP,INTC,2024-10-31T16:07:17-04:00,Intel ® CoreTM Ultra 200V series processors,"Mobile processors launched with improvements in battery life, performance, graphics and AI."
+INTEL CORP,INTC,2024-10-31T16:07:17-04:00,Intel ® Core TM Ultra 200S processors,Desktop processors designed to bring AI PC capabilities to enthusiast desktop platforms.
+NVIDIA CORP,NVDA,2024-11-20T16:21:20-05:00,NVIDIA AI Aerial platform,Platform for telecommunications providers developing AI-based radio access networks.
+NVIDIA CORP,NVDA,2024-11-20T16:21:20-05:00,Project GR00T AI and simulation tools for robot learning and humanoid development,AI and simulation tools for robot learning and humanoid development.
+INTEL CORP,INTC,2025-01-30T16:13:45-05:00,Intel® CoreTM Ultra 200H and HX series mobile processors,"Mobile processors designed for performance, efficiency and reduced power usage."
+ADVANCED MICRO DEVICES INC,AMD,2025-02-04T16:17:17-05:00,Ryzen 9000X3D,Processor family announced for desktop gaming.
+ADVANCED MICRO DEVICES INC,AMD,2025-02-04T16:17:17-05:00,Ryzen Z2,Processor family announced for handheld gaming.
+ADVANCED MICRO DEVICES INC,AMD,2025-02-04T16:17:17-05:00,Ryzen 9000HX,Processor family announced for mobile gaming.
+NVIDIA CORP,NVDA,2025-02-26T16:21:32-05:00,GeForce RTX 5090 and 5080 graphics cards,GeForce graphics cards announced with up to twice the performance of the prior generation.
+NVIDIA CORP,NVDA,2025-02-26T16:21:32-05:00,Llama Nemotron model families,Model families for building AI agents.
+NVIDIA CORP,NVDA,2025-02-26T16:21:32-05:00,Project DIGITS,"Personal AI supercomputer giving researchers, data scientists and students access to Grace Blackwell computing."
+NVIDIA CORP,NVDA,2025-02-26T16:21:32-05:00,CosmosTM,Platform of generative world foundation models for developing physical AI.
+INTEL CORP,INTC,2025-04-24T16:05:05-04:00,Intel® CoreTM Ultra 200U series mobile processors,Mobile processor family announced as part of Intel’s new Core Ultra lineup at CES.
+INTEL CORP,INTC,2025-04-24T16:05:05-04:00,Intel® Xeon® 6 processors with Performance-cores (P-cores),Data center processors launched with enhanced workload performance and efficiency.
+ADVANCED MICRO DEVICES INC,AMD,2025-05-06T16:16:45-04:00,AI Edge XQRVE2302 adaptive SoCs,Space-oriented adaptive system-on-chips bringing AI inference to a small form factor.
+NVIDIA CORP,NVDA,2025-05-28T16:21:30-04:00,NVIDIA Blackwell Ultra,AI computing offering introduced for accelerating and scaling reasoning models.
+NVIDIA CORP,NVDA,2025-05-28T16:21:30-04:00,NVIDIA Dynamo,Software introduced to accelerate and scale AI reasoning models.
+NVIDIA CORP,NVDA,2025-05-28T16:21:30-04:00,NVIDIA Halos,"Unified automotive safety system combining hardware, software and autonomous-vehicle AI research."
+NVIDIA CORP,NVDA,2025-05-28T16:21:30-04:00,NVIDIA IsaacTM GR00T N1,Open foundation model for humanoid robots.
+NVIDIA CORP,NVDA,2025-05-28T16:21:30-04:00,NVIDIA IsaacTM GR00T N1.5,Updated humanoid robot foundation model following GR00T N1.
+NVIDIA CORP,NVDA,2025-05-28T16:21:30-04:00,NVIDIA Isaac GR00T-Dreams,Blueprint for generating synthetic motion data for humanoid robot development.
+ADVANCED MICRO DEVICES INC,AMD,2025-08-05T16:16:31-04:00,AMD EPYC 4005 Series processors,Server processors with enterprise features for growing businesses and hosted IT service providers.
+ADVANCED MICRO DEVICES INC,AMD,2025-08-05T16:16:31-04:00,Radeon RX 9060 XT,"Graphics processor introduced for gaming, with an emphasis on performance per dollar."
+ADVANCED MICRO DEVICES INC,AMD,2025-08-05T16:16:31-04:00,AMD Radeon AI PRO R9700 GPU,"Professional GPU for local AI inference, model fine-tuning and complex creative workloads, including multi-GPU systems."
+NVIDIA CORP,NVDA,2025-08-27T16:22:14-04:00,RTX PROTM 6000 Blackwell Server Edition GPU,Blackwell Server Edition GPU announced for integration into enterprise servers.
+NVIDIA CORP,NVDA,2025-08-27T16:22:14-04:00,NVIDIA® Spectrum-XGS Ethernet,Ethernet technology connecting distributed data centers for large-scale AI.
+NVIDIA CORP,NVDA,2025-08-27T16:22:14-04:00,Blackwell-powered NVIDIA GeForce RTXTM 5060,Blackwell-based GeForce graphics processor in the x60 class.
+NVIDIA CORP,NVDA,2025-08-27T16:22:14-04:00,NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs,"New professional Blackwell GPU offerings, including a small-form-factor edition."
+NVIDIA CORP,NVDA,2025-08-27T16:22:14-04:00,NVIDIA DRIVETM AV software platform,Full-stack autonomous vehicle software platform announced as entering full production.
+NVIDIA CORP,NVDA,2025-08-27T16:22:14-04:00,NVIDIA Jetson AGX ThorTM developer kit and production modules,AI developer kit and production modules designed to power robots across industries.
+INTEL CORP,INTC,2025-10-23T16:10:22-04:00,Intel® CoreTM Ultra series 3 processors (code-named Panther Lake),Client system-on-chips whose architecture was unveiled as the first built on Intel 18A technology.
+INTEL CORP,INTC,2025-10-23T16:10:22-04:00,Crescent Island,Announced GPU design optimized for AI inference in token clouds and enterprises.
+NVIDIA CORP,NVDA,2025-11-19T16:20:44-05:00,BlueField-4,Processor for the operating system of AI factories and next-generation accelerated data center platforms.
+NVIDIA CORP,NVDA,2025-11-19T16:20:44-05:00,DRIVE AGX HyperionTM 10,Autonomous vehicle development platform with reference compute and sensor architecture for level 4 fleets.
+NVIDIA CORP,NVDA,2025-11-19T16:20:44-05:00,OmniverseTM DSX,Open blueprint for designing and operating gigawatt-scale AI factories.

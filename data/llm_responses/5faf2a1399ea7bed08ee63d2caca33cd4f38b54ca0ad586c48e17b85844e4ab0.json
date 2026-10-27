@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "Software"
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"Software\"]}",
+  "usage": {
+    "prompt_tokens": 353,
+    "completion_tokens": 9,
+    "total_tokens": 362
+  },
+  "elapsed_seconds": 6.595,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000026/ibm-20250423xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20250423xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FIRST-QUARTER RESULTS Results exceed expectations driven by strong Software revenue growth, significant gross margin expansion and solid free cash flow ARMONK, N.Y., April 23, 2025 . . . IBM (NYSE: IBM) today announced\nEX-99.1 2 ibm-20250423xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FIRST-QUARTER RESULTS Results exceed expectations driven by strong Software revenue growth, significant gross margin expansion and solid free cash flow ARMONK, N.Y., April 23, 2025 . . .\nIBM (NYSE: IBM) today announced first-quarter 2025 earnings results. “We exceeded expectations for revenue, profitability and free cash flow in the quarter, led by strength across our Software portfolio.",
+  "full_text_characters": 19418,
+  "passage_characters": 761,
+  "inference_timestamp": "2026-10-24T04:43:32.612677-04:00"
+}

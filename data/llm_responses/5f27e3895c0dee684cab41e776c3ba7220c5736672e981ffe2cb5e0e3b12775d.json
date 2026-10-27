@@ -1,0 +1,25 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "Intel® CoreTM Ultra series 3 processors (code-named Panther Lake)",
+      "Crescent Island"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel\",\"products\":[\"Intel® CoreTM Ultra series 3 processors (code-named Panther Lake)\",\"Crescent Island\"]}",
+  "usage": {
+    "prompt_tokens": 474,
+    "completion_tokens": 28,
+    "total_tokens": 502
+  },
+  "elapsed_seconds": 13.318,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/q325earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q325earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Third-Quarter 2025 Financial Results News Summary ▪ Third-quarter revenue was $13.7 billion, up 3% year-over-year (YoY). ▪ Third-quarter\nBusiness Highlights ▪ Intel and the Trump Administration announced an agreement to support the continued expansion of American technology and manufacturing leadership through $8.9 billion in funding from the U.S.\nGovernment. ▪ Intel and NVIDIA announced a collaboration to jointly develop multiple generations of custom data center and PC products across hyperscale, enterprise and consumer markets.\nThe collaboration will integrate the strengths of Intel's leading CPU technologies and x86 ecosystem with NVIDIA’s AI and accelerated computing platforms using NVIDIA NVLink. ▪ NVIDIA also agreed to invest $5.0 billion in Intel common stock. ▪ SoftBank Group made a $2.0 billion investment in Intel common stock, reflecting its belief that Intel will play a critical role in expanding advanced semiconductor manufacturing and supply in the United States. ▪ Intel unveiled the architecture of its Intel® CoreTM Ultra series 3 processors (code-named Panther Lake), the first client SoCs built on Intel 18A technology.\nIt also announced details of a new inference-optimized GPU code-named Crescent Island for token clouds and enterprise-level inference. ▪ Fab 52, Intel's fifth high-volume fab at its Ocotillo campus in Chandler, Arizona, became fully operational.",
+  "full_text_characters": 40458,
+  "passage_characters": 1561,
+  "inference_timestamp": "2026-10-24T04:46:34.630492-04:00"
+}

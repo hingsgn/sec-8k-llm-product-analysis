@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 351,
+    "completion_tokens": 9,
+    "total_tokens": 360
+  },
+  "elapsed_seconds": 6.778,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000048/ibm-20250723xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20250723xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES SECOND-QUARTER RESULTS Results led by Software and Infrastructure revenue growth; Strong margin expansion; Raises outlook for profit and free cash flow ARMONK, N.Y., July 23, 2025 . . . IBM (NYSE: IBM) today announced\nEX-99.1 2 ibm-20250723xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES SECOND-QUARTER RESULTS Results led by Software and Infrastructure revenue growth; Strong margin expansion; Raises outlook for profit and free cash flow ARMONK, N.Y., July 23, 2025 . . .\nIBM (NYSE: IBM) today announced second-quarter 2025 earnings results. “We once again exceeded expectations for revenue, profit and free cash flow in the quarter.",
+  "full_text_characters": 24117,
+  "passage_characters": 717,
+  "inference_timestamp": "2026-10-24T04:45:02.572045-04:00"
+}

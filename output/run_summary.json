@@ -1,0 +1,26 @@
+{
+  "filings_analyzed": 104,
+  "companies_analyzed": 10,
+  "source_files_analyzed": 104,
+  "source_files_downloaded": 245,
+  "product_rows": 102,
+  "filings_with_products": 31,
+  "products_by_company": {
+    "AMD": 42,
+    "NVDA": 44,
+    "IBM": 1,
+    "INTC": 13,
+    "ADBE": 2
+  },
+  "filing_date_min": "2023-01-31",
+  "filing_date_max": "2025-12-10",
+  "maximum_description_characters": 129,
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "prompt_version": "product-ner-v4",
+  "temperature": 0.0,
+  "seed": 42,
+  "context_tokens": 8192,
+  "inference_seconds": 1484.0
+}

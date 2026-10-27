@@ -1,0 +1,1838 @@
+[
+  {
+    "accession_number": "0000002488-23-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000007/q42022991final.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 87,
+    "end": 90,
+    "inference_cache": "f23bc9ed1d01b98ae75b4d955c969418b08fc748a5533ba6cb2127425f4285d4.json"
+  },
+  {
+    "accession_number": "0000002488-23-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000007/q42022991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "4 th Gen AMD EPYC CPUs",
+    "start": 334,
+    "end": 356,
+    "inference_cache": "f23bc9ed1d01b98ae75b4d955c969418b08fc748a5533ba6cb2127425f4285d4.json"
+  },
+  {
+    "accession_number": "0000002488-23-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000007/q42022991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "Alveo X3 series network cards",
+    "start": 898,
+    "end": 927,
+    "inference_cache": "f23bc9ed1d01b98ae75b4d955c969418b08fc748a5533ba6cb2127425f4285d4.json"
+  },
+  {
+    "accession_number": "0000002488-23-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000007/q42022991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "Radeon RX 7900 series graphics cards",
+    "start": 1285,
+    "end": 1321,
+    "inference_cache": "f23bc9ed1d01b98ae75b4d955c969418b08fc748a5533ba6cb2127425f4285d4.json"
+  },
+  {
+    "accession_number": "0001045810-23-000014",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000014/q4fy23pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "08871e64a815f24f5c750dfec93bbcd184ceb1efcc5ac099d1d7960c7d4a5427.json"
+  },
+  {
+    "accession_number": "0001045810-23-000014",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000014/q4fy23pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "GeForce RTX TM 40 Series",
+    "start": 754,
+    "end": 778,
+    "inference_cache": "08871e64a815f24f5c750dfec93bbcd184ceb1efcc5ac099d1d7960c7d4a5427.json"
+  },
+  {
+    "accession_number": "0001045810-23-000014",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000014/q4fy23pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "GeForce RTX 4070 Ti",
+    "start": 897,
+    "end": 916,
+    "inference_cache": "08871e64a815f24f5c750dfec93bbcd184ceb1efcc5ac099d1d7960c7d4a5427.json"
+  },
+  {
+    "accession_number": "0000002488-23-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000074/q12023991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "f71947d0fb97ec44266dada806ef80420e3c18521182912d51c7b2a9451cfef2.json"
+  },
+  {
+    "accession_number": "0000002488-23-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000074/q12023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD AlveoTM MA35D media accelerator",
+    "start": 680,
+    "end": 715,
+    "inference_cache": "f71947d0fb97ec44266dada806ef80420e3c18521182912d51c7b2a9451cfef2.json"
+  },
+  {
+    "accession_number": "0000002488-23-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000074/q12023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Radeon PRO W7000 Series graphics",
+    "start": 2053,
+    "end": 2089,
+    "inference_cache": "f71947d0fb97ec44266dada806ef80420e3c18521182912d51c7b2a9451cfef2.json"
+  },
+  {
+    "accession_number": "0001045810-23-000087",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000087/q1fy24pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "43444fe1d009f27cc18e850e9b90e9b3fd0e83adf65d37abbab9af7c8ba317b7.json"
+  },
+  {
+    "accession_number": "0001045810-23-000087",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000087/q1fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "GeForce RTX TM 4060 family of GPUs",
+    "start": 1204,
+    "end": 1238,
+    "inference_cache": "43444fe1d009f27cc18e850e9b90e9b3fd0e83adf65d37abbab9af7c8ba317b7.json"
+  },
+  {
+    "accession_number": "0001045810-23-000087",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000087/q1fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "GeForce RTX 4070 GPU",
+    "start": 1343,
+    "end": 1363,
+    "inference_cache": "43444fe1d009f27cc18e850e9b90e9b3fd0e83adf65d37abbab9af7c8ba317b7.json"
+  },
+  {
+    "accession_number": "0000051143-23-000010",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000010/ibm-20230719xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "11cc4e7790a69a075c19eeb8b1b5b638901bc35a5385981569d35d381464d984.json"
+  },
+  {
+    "accession_number": "0000051143-23-000010",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000010/ibm-20230719xex991.htm",
+    "entity_type": "PRODUCT",
+    "text": "watsonx AI platform",
+    "start": 932,
+    "end": 951,
+    "inference_cache": "11cc4e7790a69a075c19eeb8b1b5b638901bc35a5385981569d35d381464d984.json"
+  },
+  {
+    "accession_number": "0000050863-23-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000068/q223_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "3bced9b7c1d067e381d3d1141b2cd1d2581bf65ff8e34393d2a6db76d00fc18f.json"
+  },
+  {
+    "accession_number": "0000050863-23-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000068/q223_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® ArcTM Pro A60 and Pro A60M",
+    "start": 1434,
+    "end": 1467,
+    "inference_cache": "3bced9b7c1d067e381d3d1141b2cd1d2581bf65ff8e34393d2a6db76d00fc18f.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD EPYC 97X4 CPUs",
+    "start": 601,
+    "end": 619,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "4 th Gen AMD EPYC processors with AMD 3D V-CacheTM technology",
+    "start": 691,
+    "end": 752,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD ROCmTM 5.6 open software platform",
+    "start": 1308,
+    "end": 1345,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "RyzenTM PRO 7040 Series Mobile processors",
+    "start": 1996,
+    "end": 2037,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Ryzen PRO 7000 Series processors",
+    "start": 2160,
+    "end": 2192,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "RadeonTM RX 7600 graphics card",
+    "start": 2321,
+    "end": 2351,
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json"
+  },
+  {
+    "accession_number": "0001193125-23-214316",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523214316/d511414dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 124,
+    "end": 129,
+    "inference_cache": "8a051572fe0e1aee594ccd6df66986f6cbacbbe31c301c852dc1e8430782947d.json"
+  },
+  {
+    "accession_number": "0001045810-23-000171",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "26cff5cd143cc2207936aa0420405d220ee82d625e38b26afead501558fed30a.json"
+  },
+  {
+    "accession_number": "0001045810-23-000171",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA ® GH200 Grace TM Hopper TM Superchip",
+    "start": 850,
+    "end": 893,
+    "inference_cache": "26cff5cd143cc2207936aa0420405d220ee82d625e38b26afead501558fed30a.json"
+  },
+  {
+    "accession_number": "0001045810-23-000171",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA L40S GPU",
+    "start": 1059,
+    "end": 1074,
+    "inference_cache": "26cff5cd143cc2207936aa0420405d220ee82d625e38b26afead501558fed30a.json"
+  },
+  {
+    "accession_number": "0001045810-23-000171",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA MGX TM",
+    "start": 1359,
+    "end": 1372,
+    "inference_cache": "26cff5cd143cc2207936aa0420405d220ee82d625e38b26afead501558fed30a.json"
+  },
+  {
+    "accession_number": "0001045810-23-000171",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Spectrum-X TM",
+    "start": 1575,
+    "end": 1595,
+    "inference_cache": "26cff5cd143cc2207936aa0420405d220ee82d625e38b26afead501558fed30a.json"
+  },
+  {
+    "accession_number": "0000047217-23-000060",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000060/hp73123exhibit991q323.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 119,
+    "end": 126,
+    "inference_cache": "1cb4611dfffb643441af55537a80540e8376489fcd5fae9640f1dd85a879d93d.json"
+  },
+  {
+    "accession_number": "0001108524-23-000037",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852423000037/crm-q2fy24xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "66edfdb937cd0953bb3df736639ff3d80a994ebb0e87dd267c0684310c7d6d64.json"
+  },
+  {
+    "accession_number": "0000950170-23-047471",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047471/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 735,
+    "end": 753,
+    "inference_cache": "198fb4a6a03a2f55032a6b00cad590993e3a8b8d21a3bdae3aab0d075da2f6ae.json"
+  },
+  {
+    "accession_number": "0000796343-23-000198",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000198/adbeex991q323.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 99,
+    "end": 104,
+    "inference_cache": "0072b9181fee6eba65ca5627f6962ee80a28e4e229119da2598e2375174de05d.json"
+  },
+  {
+    "accession_number": "0000796343-23-000198",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000198/adbeex991q323.htm",
+    "entity_type": "PRODUCT",
+    "text": "Firefly",
+    "start": 698,
+    "end": 705,
+    "inference_cache": "0072b9181fee6eba65ca5627f6962ee80a28e4e229119da2598e2375174de05d.json"
+  },
+  {
+    "accession_number": "0000796343-23-000198",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000198/adbeex991q323.htm",
+    "entity_type": "PRODUCT",
+    "text": "GenStudio",
+    "start": 735,
+    "end": 744,
+    "inference_cache": "0072b9181fee6eba65ca5627f6962ee80a28e4e229119da2598e2375174de05d.json"
+  },
+  {
+    "accession_number": "0000051143-23-000026",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000026/ibm-20231025xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "4c238cbec0bda71f4f4297dfab8f95601ca2f308fd65afba6dfcaad9e8e5c1f3.json"
+  },
+  {
+    "accession_number": "0000050863-23-000100",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000100/q323_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "72e44f22b69cbd7bb58b99a9db2fdd08c8c983a2033f41e30160b6eed403be9f.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Ryzen ThreadripperTM PRO 7000 WX-Series and Ryzen Threadripper 7000 processors",
+    "start": 614,
+    "end": 692,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Ryzen 7045HX3D Series mobile processors",
+    "start": 788,
+    "end": 827,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen 5 5600X3D processor",
+    "start": 956,
+    "end": 985,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD AlveoTM UL3524 accelerator card",
+    "start": 1078,
+    "end": 1113,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD KriaTM K24 System-on-Module (SOM)",
+    "start": 1239,
+    "end": 1276,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "KD240 Drives Starter Kit",
+    "start": 1281,
+    "end": 1305,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Radeon RX 7900M",
+    "start": 1482,
+    "end": 1501,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards",
+    "start": 1645,
+    "end": 1699,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "FidelityFXTM Super Resolution 3",
+    "start": 1840,
+    "end": 1871,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards",
+    "start": 2305,
+    "end": 2369,
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json"
+  },
+  {
+    "accession_number": "0001193125-23-277891",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523277891/d850595dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "bce64b37b10e436aa0089de744de1db13952e5ba94981065b5ce541d40aac4e7.json"
+  },
+  {
+    "accession_number": "0000047217-23-000091",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000091/hp103123exhibit991q423.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 120,
+    "end": 127,
+    "inference_cache": "266af18f2e02f37ad8781026d4f33369683d472a772c10c284f4cf79bd7e6667.json"
+  },
+  {
+    "accession_number": "0001045810-23-000225",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "71bf3f936ca3050051ff7ccede7507b7d811ba53643911419760161b3f9bf19b.json"
+  },
+  {
+    "accession_number": "0001045810-23-000225",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA HGXTM H200",
+    "start": 307,
+    "end": 324,
+    "inference_cache": "71bf3f936ca3050051ff7ccede7507b7d811ba53643911419760161b3f9bf19b.json"
+  },
+  {
+    "accession_number": "0001045810-23-000225",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "DLSS 3.5 Ray Reconstruction",
+    "start": 1745,
+    "end": 1772,
+    "inference_cache": "71bf3f936ca3050051ff7ccede7507b7d811ba53643911419760161b3f9bf19b.json"
+  },
+  {
+    "accession_number": "0001045810-23-000225",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "TensorRT-LLMTM for Windows",
+    "start": 1912,
+    "end": 1938,
+    "inference_cache": "71bf3f936ca3050051ff7ccede7507b7d811ba53643911419760161b3f9bf19b.json"
+  },
+  {
+    "accession_number": "0001108524-23-000046",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852423000046/crm-q3fy24xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "e19b3cf1d87878c09a5d647f7fdc267ee5242f8251f3dff43b1398e5add480ff.json"
+  },
+  {
+    "accession_number": "0000950170-23-069410",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069410/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 736,
+    "end": 754,
+    "inference_cache": "cb654b8dba7141a11f5d4b3475f76def690a97d1f52cc25b4589042f5e494f3a.json"
+  },
+  {
+    "accession_number": "0000796343-23-000252",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000252/adbeex991q423.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 99,
+    "end": 104,
+    "inference_cache": "f71e8bb0b66a25569f6fb65a3d7ac23144c3a8359dba054b4ef7eb89bce90943.json"
+  },
+  {
+    "accession_number": "0000051143-24-000004",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000004/ibm-20240124xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "120d30b97a91e5b2304b5145289709e68a30a81b7d1ce8d5d703dc8863c3cb04.json"
+  },
+  {
+    "accession_number": "0000050863-24-000008",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "da53f91bcb50ec2bce616fd0942b6f32e837d70ec8d1f70d93455f01c67b5098.json"
+  },
+  {
+    "accession_number": "0000050863-24-000008",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "5th Gen Intel® Xeon® processor",
+    "start": 723,
+    "end": 753,
+    "inference_cache": "da53f91bcb50ec2bce616fd0942b6f32e837d70ec8d1f70d93455f01c67b5098.json"
+  },
+  {
+    "accession_number": "0000050863-24-000008",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® CoreTM 14th Gen mobile and desktop processor lineup",
+    "start": 1243,
+    "end": 1301,
+    "inference_cache": "da53f91bcb50ec2bce616fd0942b6f32e837d70ec8d1f70d93455f01c67b5098.json"
+  },
+  {
+    "accession_number": "0000050863-24-000008",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® CoreTM mobile processor Series 1 family",
+    "start": 1322,
+    "end": 1368,
+    "inference_cache": "da53f91bcb50ec2bce616fd0942b6f32e837d70ec8d1f70d93455f01c67b5098.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 87,
+    "end": 90,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Instinct MI300X",
+    "start": 2417,
+    "end": 2436,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Instinct MI300A APU",
+    "start": 2538,
+    "end": 2561,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen 8040 Series mobile processors",
+    "start": 2865,
+    "end": 2904,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen 8000G Series desktop processors",
+    "start": 3182,
+    "end": 3223,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Radeon RX 7600 XT GPU",
+    "start": 3455,
+    "end": 3480,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD VersalTM AI Edge XA Series",
+    "start": 3590,
+    "end": 3620,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen Embedded V2000A devices",
+    "start": 3625,
+    "end": 3658,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen Embedded 7000 Series processors",
+    "start": 3787,
+    "end": 3828,
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json"
+  },
+  {
+    "accession_number": "0001193125-24-036201",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524036201/d719981dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "f1460a2c585647bdab1c2a45420340498e558290a2993bfc90fdbb154f209e1c.json"
+  },
+  {
+    "accession_number": "0001045810-24-000028",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "1f3427ddccab498a5e4d35ad6ff0590b12976a596b48b83fd99f5c31c74c7a97.json"
+  },
+  {
+    "accession_number": "0001045810-24-000028",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "GeForce RTXTM 40 SUPER Series GPUs",
+    "start": 1467,
+    "end": 1501,
+    "inference_cache": "1f3427ddccab498a5e4d35ad6ff0590b12976a596b48b83fd99f5c31c74c7a97.json"
+  },
+  {
+    "accession_number": "0001045810-24-000028",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA NeMoTM Retriever",
+    "start": 850,
+    "end": 873,
+    "inference_cache": "1f3427ddccab498a5e4d35ad6ff0590b12976a596b48b83fd99f5c31c74c7a97.json"
+  },
+  {
+    "accession_number": "0001045810-24-000028",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA MONAITM cloud APIs",
+    "start": 1053,
+    "end": 1078,
+    "inference_cache": "1f3427ddccab498a5e4d35ad6ff0590b12976a596b48b83fd99f5c31c74c7a97.json"
+  },
+  {
+    "accession_number": "0001045810-24-000028",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "RTX 2000 Ada Generation GPU",
+    "start": 2185,
+    "end": 2212,
+    "inference_cache": "1f3427ddccab498a5e4d35ad6ff0590b12976a596b48b83fd99f5c31c74c7a97.json"
+  },
+  {
+    "accession_number": "0001108524-24-000002",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000002/crm-q4fy24xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "e75fd414cd60e62794ede84eb94be5eef6e182898bcf636cf7605bc47577b855.json"
+  },
+  {
+    "accession_number": "0000047217-24-000022",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000022/hp13124exhibit991q124.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 119,
+    "end": 126,
+    "inference_cache": "139e3bc4c85a3a5df2987fe031ae33ce2bf2b6439bb03e58851b18e4d9d2ac76.json"
+  },
+  {
+    "accession_number": "0001645590-24-000058",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000058/ex-991x2292024x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 62,
+    "end": 88,
+    "inference_cache": "3221f6b43b29423affeceb41876e007cd83b342a976f8cc00ddabdfebe87dad9.json"
+  },
+  {
+    "accession_number": "0000950170-24-029250",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029250/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 731,
+    "end": 749,
+    "inference_cache": "cdc154f949a204be3b13f53ad75671d396f773e1adeb0b5eba1ef46dd0b49686.json"
+  },
+  {
+    "accession_number": "0000796343-24-000057",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000057/adbeex992q124.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 99,
+    "end": 104,
+    "inference_cache": "c3e4e49550fa9455858775754bc345388d657fec0a436bf82a14500093c9f5b4.json"
+  },
+  {
+    "accession_number": "0000051143-24-000018",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000018/ibm-20240424xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "f4ffc507b9238615729c5a56a9274e6f698834238997f31e4c06668cc1fb8cd1.json"
+  },
+  {
+    "accession_number": "0000050863-24-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "a84b56a91da5fec6f4e546fb36a9fc343ab259d081af260c3fc5b9b229081538.json"
+  },
+  {
+    "accession_number": "0000050863-24-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Gaudi ® 3 AI accelerator",
+    "start": 1636,
+    "end": 1660,
+    "inference_cache": "a84b56a91da5fec6f4e546fb36a9fc343ab259d081af260c3fc5b9b229081538.json"
+  },
+  {
+    "accession_number": "0000050863-24-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Open Platform for Enterprise AI",
+    "start": 2388,
+    "end": 2419,
+    "inference_cache": "a84b56a91da5fec6f4e546fb36a9fc343ab259d081af260c3fc5b9b229081538.json"
+  },
+  {
+    "accession_number": "0000002488-24-000054",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000054/q12024991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "949a0ad83128eedd75d6ae4f5039571d3b6d8b7662f4ee2f4779a6b5652bc079.json"
+  },
+  {
+    "accession_number": "0000002488-24-000054",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000054/q12024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Versal AI Edge Series Gen 2 SoCs",
+    "start": 620,
+    "end": 652,
+    "inference_cache": "949a0ad83128eedd75d6ae4f5039571d3b6d8b7662f4ee2f4779a6b5652bc079.json"
+  },
+  {
+    "accession_number": "0001193125-24-139371",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524139371/d826117dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "7570d5d2c545e21f6a28e4e369d5ca490c8da274f4ca47c6c7bb82797215be33.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA NIM",
+    "start": 302,
+    "end": 312,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Blackwell platform",
+    "start": 705,
+    "end": 730,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "Blackwell-powered DGX SuperPODTM",
+    "start": 801,
+    "end": 833,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA SpectrumTM X800 series switches",
+    "start": 897,
+    "end": 935,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA AI Enterprise 5.0",
+    "start": 1058,
+    "end": 1082,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA RTXTM 500 and 1000 professional Ada generation laptop GPUs",
+    "start": 1978,
+    "end": 2043,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA OmniverseTM Cloud APIs",
+    "start": 2239,
+    "end": 2268,
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json"
+  },
+  {
+    "accession_number": "0001108524-24-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000007/crm-q1fy25xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "d3d009c285c5b8129c4e6fa71b7c28491f79b030f07d44edc8f9e1cd25cf333f.json"
+  },
+  {
+    "accession_number": "0000047217-24-000039",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000039/hp43024exhibit991q224.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 119,
+    "end": 126,
+    "inference_cache": "0b52ffe4d20f7ec6efe69fe0015d8af661f68b71e6dbac175e12b55c24a4b68d.json"
+  },
+  {
+    "accession_number": "0001645590-24-000090",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000090/ex-991x642024x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 61,
+    "end": 87,
+    "inference_cache": "d68fd8834d1414a42cf9d49cb079723f555303ca14f406873cc206f2eaa611f2.json"
+  },
+  {
+    "accession_number": "0000950170-24-071916",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024071916/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 735,
+    "end": 753,
+    "inference_cache": "531ddeb160d595e4f259ed95ece58e7831b6771d259af2bcae2c8d77c14dfb15.json"
+  },
+  {
+    "accession_number": "0000796343-24-000140",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000140/adbeex991q224.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 99,
+    "end": 104,
+    "inference_cache": "e1185265117213238efcb7c7c1199621dece02a650ff6378ffc2a0ff36390735.json"
+  },
+  {
+    "accession_number": "0000051143-24-000033",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000033/ibm-20240724xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "3ced3ee409230e967899e8abf33e6d46dba2651d10a4dfd10c9cf296c9e709f0.json"
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json"
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen AI 300 Series processors",
+    "start": 476,
+    "end": 510,
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json"
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "RadeonTM PRO W7900 Dual Slot GPU",
+    "start": 1179,
+    "end": 1211,
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json"
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD EPYC 4004 Series processors",
+    "start": 1575,
+    "end": 1606,
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json"
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen 9000 Series processors",
+    "start": 1894,
+    "end": 1926,
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json"
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Ryzen PRO 8040 Series and 8000 Series mobile and desktop processors",
+    "start": 2059,
+    "end": 2130,
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json"
+  },
+  {
+    "accession_number": "0000050863-24-000122",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000122/q224_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel Corporation",
+    "start": 65,
+    "end": 82,
+    "inference_cache": "502733d2b58b97627331a9aafb5ccacc68a9cecf0a02e14e2a173fed31ad01e7.json"
+  },
+  {
+    "accession_number": "0001193125-24-200636",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524200636/d878533dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "506be50182f1915bc827898dcef2de8ed9e3c7a41661a744d206777b231e9cc8.json"
+  },
+  {
+    "accession_number": "0001108524-24-000020",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000020/crm-q2fy25xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "ee180e34fdb0771b0035f3ea1cf219ed08152905896270fe957ca970212a78c8.json"
+  },
+  {
+    "accession_number": "0000047217-24-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000068/hp73124exhibit991q324.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 119,
+    "end": 126,
+    "inference_cache": "575d8760c0225550266db0b625d7e23b790b808a299bc799ef1919dafd96b957.json"
+  },
+  {
+    "accession_number": "0001045810-24-000262",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000262/q2fy25pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "aacaffb1ae524e7e5539e63c84a18f115f146c558b8ba04c616fad7550e00263.json"
+  },
+  {
+    "accession_number": "0001045810-24-000262",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000262/q2fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "Nemotron-4 4B",
+    "start": 1593,
+    "end": 1606,
+    "inference_cache": "aacaffb1ae524e7e5539e63c84a18f115f146c558b8ba04c616fad7550e00263.json"
+  },
+  {
+    "accession_number": "0001645590-24-000114",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000114/ex-991x942024x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 61,
+    "end": 87,
+    "inference_cache": "fbe49f565e06f5716f0e8db0baaecef9d9394df8acb0603dc79b26f4d0e07b02.json"
+  },
+  {
+    "accession_number": "0000950170-24-104753",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104753/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 732,
+    "end": 750,
+    "inference_cache": "4d63dc3e7c23d6a230b933c830334c09876c3ee1c2dbc4f76f5f80b39b671a25.json"
+  },
+  {
+    "accession_number": "0000796343-24-000200",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000200/adbeex991q324.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 99,
+    "end": 104,
+    "inference_cache": "3dae722fd680a9e0d598c48c1ddfa60ab4080d465a5d57f51f7b6c7fc60fe6ab.json"
+  },
+  {
+    "accession_number": "0000051143-24-000043",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000043/ibm-20241023xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "c78e9eeb64c7951f645cb225d88adb6131b0430cc397fcdfda16e2eca988ec3d.json"
+  },
+  {
+    "accession_number": "0000002488-24-000161",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000161/q32024991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "c57133f400c4b43d66e2f2a158917220e386c14be9edf48dc0d05103161b35ca.json"
+  },
+  {
+    "accession_number": "0000050863-24-000147",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000147/q324_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "b536caa94ff5c695b9d36fbde3efaccdf3a5757acf2bdd5f486bbf6d026f08e2.json"
+  },
+  {
+    "accession_number": "0000050863-24-000147",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000147/q324_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel ® CoreTM Ultra 200V series processors",
+    "start": 1704,
+    "end": 1747,
+    "inference_cache": "b536caa94ff5c695b9d36fbde3efaccdf3a5757acf2bdd5f486bbf6d026f08e2.json"
+  },
+  {
+    "accession_number": "0000050863-24-000147",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000147/q324_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel ® Core TM Ultra 200S processors",
+    "start": 1896,
+    "end": 1933,
+    "inference_cache": "b536caa94ff5c695b9d36fbde3efaccdf3a5757acf2bdd5f486bbf6d026f08e2.json"
+  },
+  {
+    "accession_number": "0001193125-24-257224",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524257224/d875468dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "05da2dfc2c80c65a4ea371a5207ef81bec36687c26b25eed0ac668f2c9a68333.json"
+  },
+  {
+    "accession_number": "0001045810-24-000315",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000315/q3fy25pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 63,
+    "end": 69,
+    "inference_cache": "b1ef845af079b8025e41b7861f9d6f351bb6e15f9cdd82bc78f462d029343d77.json"
+  },
+  {
+    "accession_number": "0001045810-24-000315",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000315/q3fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA AI Aerial platform",
+    "start": 708,
+    "end": 733,
+    "inference_cache": "b1ef845af079b8025e41b7861f9d6f351bb6e15f9cdd82bc78f462d029343d77.json"
+  },
+  {
+    "accession_number": "0001045810-24-000315",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000315/q3fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "Project GR00T AI and simulation tools for robot learning and humanoid development",
+    "start": 2094,
+    "end": 2175,
+    "inference_cache": "b1ef845af079b8025e41b7861f9d6f351bb6e15f9cdd82bc78f462d029343d77.json"
+  },
+  {
+    "accession_number": "0000047217-24-000075",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000075/hp103124exhibit991q424.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 120,
+    "end": 127,
+    "inference_cache": "2e0f1a8b7c0ad34c054d05a8039947e8a46be967ab55fd0aae28d58014fefbf8.json"
+  },
+  {
+    "accession_number": "0001108524-24-000033",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000033/crm-q3fy25xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "56ea98bcb8e5d498fc7c06927d67db7115676d64f436ce5b6ba96b843a6a6f67.json"
+  },
+  {
+    "accession_number": "0001645590-24-000132",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000132/ex-991x1252024x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 62,
+    "end": 88,
+    "inference_cache": "9b4dffe77b75014c3fa4e52ae866c54d6d0d8e14f27c731aa26a077f34e6d9eb.json"
+  },
+  {
+    "accession_number": "0000950170-24-134537",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134537/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 735,
+    "end": 753,
+    "inference_cache": "14a06151c83af830a71f8b1377f1c4ed3ea49591b836cb6fdcab1ee8c36552da.json"
+  },
+  {
+    "accession_number": "0000796343-24-000250",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000250/adbeex991q424.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 95,
+    "end": 100,
+    "inference_cache": "a5bfccd1a42e9e2649c8f711b81c3b5d632e39d13f932ae5d864afc5bf1d7f68.json"
+  },
+  {
+    "accession_number": "0000051143-25-000005",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000005/ibm-20250129xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "608d1669586d25814cbb6a2d1702225c2ae90adfad7a059444c891059c242f1a.json"
+  },
+  {
+    "accession_number": "0000050863-25-000004",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000004/q424_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "4a1cec7ec47d2ceaf59aa6681a27f797c2c36be559d7c60ab6bbd9bc7e0ea900.json"
+  },
+  {
+    "accession_number": "0000050863-25-000004",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000004/q424_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® CoreTM Ultra 200H and HX series mobile processors",
+    "start": 2290,
+    "end": 2346,
+    "inference_cache": "4a1cec7ec47d2ceaf59aa6681a27f797c2c36be559d7c60ab6bbd9bc7e0ea900.json"
+  },
+  {
+    "accession_number": "0000002488-25-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000009/q42024991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "d49fb9b21ccb02e914c333d844f73691c9a5a3f5e3536b4a6b8e18c755fa9d47.json"
+  },
+  {
+    "accession_number": "0000002488-25-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000009/q42024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Ryzen 9000X3D",
+    "start": 1330,
+    "end": 1343,
+    "inference_cache": "d49fb9b21ccb02e914c333d844f73691c9a5a3f5e3536b4a6b8e18c755fa9d47.json"
+  },
+  {
+    "accession_number": "0000002488-25-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000009/q42024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Ryzen Z2",
+    "start": 1345,
+    "end": 1353,
+    "inference_cache": "d49fb9b21ccb02e914c333d844f73691c9a5a3f5e3536b4a6b8e18c755fa9d47.json"
+  },
+  {
+    "accession_number": "0000002488-25-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000009/q42024991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Ryzen 9000HX",
+    "start": 1358,
+    "end": 1370,
+    "inference_cache": "d49fb9b21ccb02e914c333d844f73691c9a5a3f5e3536b4a6b8e18c755fa9d47.json"
+  },
+  {
+    "accession_number": "0001193125-25-025114",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525025114/d851168dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "38c98c98066d9a8fd5008cc1e60966cc10e8fb2776b5f681a542df66550c7e34.json"
+  },
+  {
+    "accession_number": "0001108524-25-000002",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000002/crm-q4fy25xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "aa646ed78f4a03ea131174bdcaf2e3f9d6b1ae80d96e9b906a6a06e2efffb65a.json"
+  },
+  {
+    "accession_number": "0001045810-25-000021",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 76,
+    "end": 82,
+    "inference_cache": "a22e82bdbc9d6688007b1dee636f7a290634e81c16b701b4c04da523cab3db5b.json"
+  },
+  {
+    "accession_number": "0001045810-25-000021",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "GeForce RTX 5090 and 5080 graphics cards",
+    "start": 1188,
+    "end": 1228,
+    "inference_cache": "a22e82bdbc9d6688007b1dee636f7a290634e81c16b701b4c04da523cab3db5b.json"
+  },
+  {
+    "accession_number": "0001045810-25-000021",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "Llama Nemotron model families",
+    "start": 788,
+    "end": 817,
+    "inference_cache": "a22e82bdbc9d6688007b1dee636f7a290634e81c16b701b4c04da523cab3db5b.json"
+  },
+  {
+    "accession_number": "0001045810-25-000021",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "Project DIGITS",
+    "start": 1719,
+    "end": 1733,
+    "inference_cache": "a22e82bdbc9d6688007b1dee636f7a290634e81c16b701b4c04da523cab3db5b.json"
+  },
+  {
+    "accession_number": "0001045810-25-000021",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "CosmosTM",
+    "start": 2615,
+    "end": 2623,
+    "inference_cache": "a22e82bdbc9d6688007b1dee636f7a290634e81c16b701b4c04da523cab3db5b.json"
+  },
+  {
+    "accession_number": "0000047217-25-000023",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000023/hp013125exhibit991q125.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 120,
+    "end": 127,
+    "inference_cache": "301174236cbc6a79eab162c099761c214fd3cb012314d626aa1e1684604dbb43.json"
+  },
+  {
+    "accession_number": "0001645590-25-000034",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000034/ex-991x362025x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 61,
+    "end": 87,
+    "inference_cache": "bd2fa5426eccd447f2f6f365a9fc50608fa4b2dd8a45d773f83bb596c09b83bc.json"
+  },
+  {
+    "accession_number": "0000950170-25-036295",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025036295/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 734,
+    "end": 752,
+    "inference_cache": "bf83c9eb358864f8030bd5fd40e304b1da492df1a5b1cf15389d00d642dba3fe.json"
+  },
+  {
+    "accession_number": "0000796343-25-000052",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000052/adbeex991q125.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 95,
+    "end": 100,
+    "inference_cache": "de6860db26f3e4e4e1cc357d1ba203c2441adb51abf4693f4227ef956fb28508.json"
+  },
+  {
+    "accession_number": "0000051143-25-000026",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000026/ibm-20250423xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "5faf2a1399ea7bed08ee63d2caca33cd4f38b54ca0ad586c48e17b85844e4ab0.json"
+  },
+  {
+    "accession_number": "0000050863-25-000070",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000070/q125_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel Corporation",
+    "start": 65,
+    "end": 82,
+    "inference_cache": "3c5fb9fe961c9590939bbc18699306589f49c97b329468cc7b774de2fd674ef3.json"
+  },
+  {
+    "accession_number": "0000050863-25-000070",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000070/q125_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® CoreTM Ultra 200U series mobile processors",
+    "start": 1144,
+    "end": 1193,
+    "inference_cache": "3c5fb9fe961c9590939bbc18699306589f49c97b329468cc7b774de2fd674ef3.json"
+  },
+  {
+    "accession_number": "0000050863-25-000070",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000070/q125_earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® Xeon® 6 processors with Performance-cores (P-cores)",
+    "start": 1306,
+    "end": 1364,
+    "inference_cache": "3c5fb9fe961c9590939bbc18699306589f49c97b329468cc7b774de2fd674ef3.json"
+  },
+  {
+    "accession_number": "0000002488-25-000045",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000045/q12025991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 82,
+    "end": 85,
+    "inference_cache": "a62dea4573f40795eecd884fc595851bb6b077f91c30e4703e9b67ac23aa81ca.json"
+  },
+  {
+    "accession_number": "0000002488-25-000045",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000045/q12025991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AI Edge XQRVE2302 adaptive SoCs",
+    "start": 1444,
+    "end": 1475,
+    "inference_cache": "a62dea4573f40795eecd884fc595851bb6b077f91c30e4703e9b67ac23aa81ca.json"
+  },
+  {
+    "accession_number": "0001193125-25-119864",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525119864/d946014dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "4d5f813e2682ea9d13c312d0f64e08920370a86480129e43f1945259cd057937.json"
+  },
+  {
+    "accession_number": "0001108524-25-000027",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000027/crm-q1fy26xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "5ea6e32132a56004158175181511872689bc33fe0150e9741e91cbe459e2509c.json"
+  },
+  {
+    "accession_number": "0000047217-25-000041",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000041/hp043025exhibit991q225.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 120,
+    "end": 127,
+    "inference_cache": "38409ea929984c014001916a4235b4c8ec988dbc44e9a7c39c4b2e32ea633984.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 40,
+    "end": 46,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Blackwell Ultra",
+    "start": 443,
+    "end": 465,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Dynamo",
+    "start": 470,
+    "end": 483,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Halos",
+    "start": 3540,
+    "end": 3552,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA IsaacTM GR00T N1",
+    "start": 3673,
+    "end": 3696,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA IsaacTM GR00T N1.5",
+    "start": 3766,
+    "end": 3791,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Isaac GR00T-Dreams",
+    "start": 3793,
+    "end": 3818,
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json"
+  },
+  {
+    "accession_number": "0001645590-25-000060",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000060/ex-991x632025x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 61,
+    "end": 87,
+    "inference_cache": "627f80851b3e89b4dad910078c9147083708c459d5b127f9eeeb3c04b6fe3d07.json"
+  },
+  {
+    "accession_number": "0000950170-25-084831",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025084831/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 706,
+    "end": 724,
+    "inference_cache": "b9bbf72772fc3ea5322999d45de836e5277c7a7675e2cf03fea9aa064d2f24c8.json"
+  },
+  {
+    "accession_number": "0000796343-25-000064",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000064/adbeex991q225.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 95,
+    "end": 100,
+    "inference_cache": "ed362e52ffc43d424e7d206a9e376921227f48dcddddc254ebb581188caf4c47.json"
+  },
+  {
+    "accession_number": "0000051143-25-000048",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000048/ibm-20250723xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "3288004336769bdd26d5fc7ec30e3ab65768a5fa0dd1a646a31aef5fd4b89fa3.json"
+  },
+  {
+    "accession_number": "0000050863-25-000107",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000107/q225_earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 65,
+    "end": 70,
+    "inference_cache": "e1106680be033e6c2407547de6cde34b6c3420e91e37521313df4d5e62571f2f.json"
+  },
+  {
+    "accession_number": "0000002488-25-000106",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000106/q22025991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD EPYC 4005 Series processors",
+    "start": 1178,
+    "end": 1209,
+    "inference_cache": "796f1e04a04ffb3fa92abbfa36591bdaac05a879767de219f26c19862ba2b05d.json"
+  },
+  {
+    "accession_number": "0000002488-25-000106",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000106/q22025991.htm",
+    "entity_type": "PRODUCT",
+    "text": "Radeon RX 9060 XT",
+    "start": 1531,
+    "end": 1548,
+    "inference_cache": "796f1e04a04ffb3fa92abbfa36591bdaac05a879767de219f26c19862ba2b05d.json"
+  },
+  {
+    "accession_number": "0000002488-25-000106",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000106/q22025991.htm",
+    "entity_type": "PRODUCT",
+    "text": "AMD Radeon AI PRO R9700 GPU",
+    "start": 1616,
+    "end": 1643,
+    "inference_cache": "796f1e04a04ffb3fa92abbfa36591bdaac05a879767de219f26c19862ba2b05d.json"
+  },
+  {
+    "accession_number": "0001193125-25-179820",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525179820/d901470dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "ca1b231fa619ec8c91cf3d21a1542a03703313b83ab765f463e04e799ad580ea.json"
+  },
+  {
+    "accession_number": "0000047217-25-000060",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000060/hp073125exhibit991q325.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 120,
+    "end": 127,
+    "inference_cache": "a1e74f17b383216b4a58a294dbe105248d0b5c44bd972e97d4f2770444854ac4.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 40,
+    "end": 46,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "RTX PROTM 6000 Blackwell Server Edition GPU",
+    "start": 1363,
+    "end": 1406,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA® Spectrum-XGS Ethernet",
+    "start": 1590,
+    "end": 1619,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "Blackwell-powered NVIDIA GeForce RTXTM 5060",
+    "start": 2034,
+    "end": 2077,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA RTX PRO 4000 SFF Edition and RTX PRO 2000 Blackwell GPUs",
+    "start": 2285,
+    "end": 2348,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA DRIVETM AV software platform",
+    "start": 2492,
+    "end": 2527,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "NVIDIA Jetson AGX ThorTM developer kit and production modules",
+    "start": 2670,
+    "end": 2731,
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json"
+  },
+  {
+    "accession_number": "0001108524-25-000083",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000083/crm-q2fy26xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "eb5d2afe5e3f3156f2937be84a6792c37349fd0c74ca7f0b61757773a14225c5.json"
+  },
+  {
+    "accession_number": "0001645590-25-000096",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000096/ex-991x932025x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Hewlett Packard Enterprise",
+    "start": 132,
+    "end": 158,
+    "inference_cache": "fd07d2952270800f8b21200c92ecdd2ccd752d16b99559fdd9ef13f40a7d701c.json"
+  },
+  {
+    "accession_number": "0001193125-25-199175",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525199175/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 747,
+    "end": 765,
+    "inference_cache": "59bbe178ce9f78ad61eb0149df79dae67045567d51124353280979e96f11553a.json"
+  },
+  {
+    "accession_number": "0000796343-25-000102",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000102/adbeex991q325.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 96,
+    "end": 101,
+    "inference_cache": "0e96754a2997e913f45145ce37183020b2dc41367abbeec900759238d9849aa5.json"
+  },
+  {
+    "accession_number": "0001645590-25-000111",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000111/ex-992x10152025x8ksam.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HPE",
+    "start": 66,
+    "end": 69,
+    "inference_cache": "854b6ac2cebd14ad921b53d5e6b4b595cce1b01b7c8a5942ea45e71c1a1ad33b.json"
+  },
+  {
+    "accession_number": "0000051143-25-000061",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000061/ibm-20251022xex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "IBM",
+    "start": 63,
+    "end": 66,
+    "inference_cache": "00c5618dccb2e29511f146bef8138b842cb9dc5f742c5d2e1613f8f53b85a542.json"
+  },
+  {
+    "accession_number": "0000050863-25-000169",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/q325earningsrelease.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Intel",
+    "start": 64,
+    "end": 69,
+    "inference_cache": "5f27e3895c0dee684cab41e776c3ba7220c5736672e981ffe2cb5e0e3b12775d.json"
+  },
+  {
+    "accession_number": "0000050863-25-000169",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/q325earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Intel® CoreTM Ultra series 3 processors (code-named Panther Lake)",
+    "start": 1196,
+    "end": 1261,
+    "inference_cache": "5f27e3895c0dee684cab41e776c3ba7220c5736672e981ffe2cb5e0e3b12775d.json"
+  },
+  {
+    "accession_number": "0000050863-25-000169",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/q325earningsrelease.htm",
+    "entity_type": "PRODUCT",
+    "text": "Crescent Island",
+    "start": 1386,
+    "end": 1401,
+    "inference_cache": "5f27e3895c0dee684cab41e776c3ba7220c5736672e981ffe2cb5e0e3b12775d.json"
+  },
+  {
+    "accession_number": "0000002488-25-000163",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "AMD",
+    "start": 81,
+    "end": 84,
+    "inference_cache": "7d991face4e1f290911440d842e7ae18a33f12e6e0e9b653691433ec0935b662.json"
+  },
+  {
+    "accession_number": "0001193125-25-277624",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525277624/d484663dex991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Cisco",
+    "start": 122,
+    "end": 127,
+    "inference_cache": "33fda96066e2572ad735ed810b80da8fe5d7d1ee0a5ef48932b643b4b5941b6c.json"
+  },
+  {
+    "accession_number": "0001045810-25-000228",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/q3fy26pr.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "NVIDIA",
+    "start": 40,
+    "end": 46,
+    "inference_cache": "ac3d3f601163a3230067c05e6fe3509bf719e60838166d3ef70e61b0ad45dff3.json"
+  },
+  {
+    "accession_number": "0001045810-25-000228",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/q3fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "BlueField-4",
+    "start": 1231,
+    "end": 1242,
+    "inference_cache": "ac3d3f601163a3230067c05e6fe3509bf719e60838166d3ef70e61b0ad45dff3.json"
+  },
+  {
+    "accession_number": "0001045810-25-000228",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/q3fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "DRIVE AGX HyperionTM 10",
+    "start": 2676,
+    "end": 2699,
+    "inference_cache": "ac3d3f601163a3230067c05e6fe3509bf719e60838166d3ef70e61b0ad45dff3.json"
+  },
+  {
+    "accession_number": "0001045810-25-000228",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/q3fy26pr.htm",
+    "entity_type": "PRODUCT",
+    "text": "OmniverseTM DSX",
+    "start": 1109,
+    "end": 1124,
+    "inference_cache": "ac3d3f601163a3230067c05e6fe3509bf719e60838166d3ef70e61b0ad45dff3.json"
+  },
+  {
+    "accession_number": "0000047217-25-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000068/hp103125exhibit991q425.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HP Inc.",
+    "start": 120,
+    "end": 127,
+    "inference_cache": "890a4f9cea25b5fbc489d8f45ad722bc217440f5e9b2d734f5b39d5359f1caba.json"
+  },
+  {
+    "accession_number": "0001108524-25-000234",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000234/crm-q3fy26xexhibit991.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Salesforce",
+    "start": 66,
+    "end": 76,
+    "inference_cache": "b3c191173aa805a60ee2185165d1c551dedbcf3df56c0bf478026394857bcb97.json"
+  },
+  {
+    "accession_number": "0001645590-25-000126",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000126/ex-991x1242025x8k.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "HPE",
+    "start": 62,
+    "end": 65,
+    "inference_cache": "e91ddc23de782eb91c8b9609f43eec6b1dbecf84861db691f279bcba5a3dd4c9.json"
+  },
+  {
+    "accession_number": "0000796343-25-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Adobe",
+    "start": 96,
+    "end": 101,
+    "inference_cache": "936cbbca1f7a72ebd8e0d7c35b309b98b7c8f61a75d19f5967d0227cdc0aecf2.json"
+  },
+  {
+    "accession_number": "0001193125-25-314207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm",
+    "entity_type": "ORGANIZATION",
+    "text": "Oracle Corporation",
+    "start": 744,
+    "end": 762,
+    "inference_cache": "130b772f39e2726712d59bbdefb814bef4c7818cc50666b2366c9bae1c5dab10.json"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\", \"products\":[]}",
+  "usage": {
+    "prompt_tokens": 361,
+    "completion_tokens": 11,
+    "total_tokens": 372
+  },
+  "elapsed_seconds": 7.722,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000060/hp73123exhibit991q323.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp73123exhibit991q323.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2023 Third Quarter Results PALO\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2023 third quarter net revenue of $13.2 billion, down 9.9% (down 7.4% in constant currency) from the prior-year period. “We delivered a solid quarter of sequential growth, combining strong innovation with disciplined execution to gain profitable PC market share and achieve our non-GAAP EPS target,” said Enrique Lores, HP President and CEO. \"While we expect another quarter of sequential growth in Q4, the external environment has not improved as quickly as anticipated and we are moderating our expectations as a result.",
+  "full_text_characters": 46693,
+  "passage_characters": 901,
+  "inference_timestamp": "2026-10-24T04:34:06.803137-04:00"
+}

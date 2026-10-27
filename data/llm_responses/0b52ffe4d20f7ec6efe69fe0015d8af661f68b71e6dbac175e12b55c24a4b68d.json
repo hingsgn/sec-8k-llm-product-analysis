@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\", \"products\":[]}",
+  "usage": {
+    "prompt_tokens": 386,
+    "completion_tokens": 11,
+    "total_tokens": 397
+  },
+  "elapsed_seconds": 8.234,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000039/hp43024exhibit991q224.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp43024exhibit991q224.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2024 Second Quarter Results PALO\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2024 second quarter net revenue of $12.8 billion, down 0.8% (down 1.2% in constant currency) from the prior-year period. “We delivered a solid quarter and first half, and unveiled an innovative portfolio of solutions designed for the AI and hybrid era” said Enrique Lores, President and CEO, HP Inc. “We have a clear strategy and are well positioned to drive profitable growth across our business.” Second quarter GAAP diluted net EPS was $0.61, down from $1.06 in the prior-year period and within the previously provided outlook of $0.58 to $0.68.",
+  "full_text_characters": 45238,
+  "passage_characters": 928,
+  "inference_timestamp": "2026-10-24T04:38:46.770874-04:00"
+}

@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 357,
+    "completion_tokens": 9,
+    "total_tokens": 366
+  },
+  "elapsed_seconds": 7.281,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000033/ibm-20240724xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20240724xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES SECOND-QUARTER RESULTS Accelerated revenue growth led by Software; Raises full-year free cash flow expectation ARMONK, N.Y., July 24, 2024 . . . IBM (NYSE: IBM) today announced second-quarter 2024 earnings results. “We had\nEX-99.1 2 ibm-20240724xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES SECOND-QUARTER RESULTS Accelerated revenue growth led by Software; Raises full-year free cash flow expectation ARMONK, N.Y., July 24, 2024 . . .\nIBM (NYSE: IBM) today announced second-quarter 2024 earnings results. “We had a strong second quarter, exceeding our expectations, driven by growth in both revenue and free cash flow.",
+  "full_text_characters": 25026,
+  "passage_characters": 703,
+  "inference_timestamp": "2026-10-24T04:39:14.919477-04:00"
+}

@@ -1,0 +1,1459 @@
+[
+  {
+    "accession_number": "0000002488-23-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000007/q42022991final.htm",
+    "raw_product_candidates": 5,
+    "rejections": {
+      "review_exclusion": 1,
+      "missing_or_ungrounded_name_or_description": 1
+    },
+    "inference_cache": "f23bc9ed1d01b98ae75b4d955c969418b08fc748a5533ba6cb2127425f4285d4.json",
+    "usage": {
+      "prompt_tokens": 552,
+      "completion_tokens": 51,
+      "total_tokens": 603
+    },
+    "elapsed_seconds": 19.957
+  },
+  {
+    "accession_number": "0001045810-23-000014",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000014/q4fy23pr.htm",
+    "raw_product_candidates": 3,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "08871e64a815f24f5c750dfec93bbcd184ceb1efcc5ac099d1d7960c7d4a5427.json",
+    "usage": {
+      "prompt_tokens": 536,
+      "completion_tokens": 34,
+      "total_tokens": 570
+    },
+    "elapsed_seconds": 15.568
+  },
+  {
+    "accession_number": "0000002488-23-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000074/q12023991.htm",
+    "raw_product_candidates": 9,
+    "rejections": {
+      "review_exclusion": 6,
+      "missing_or_ungrounded_name_or_description": 1
+    },
+    "inference_cache": "f71947d0fb97ec44266dada806ef80420e3c18521182912d51c7b2a9451cfef2.json",
+    "usage": {
+      "prompt_tokens": 646,
+      "completion_tokens": 101,
+      "total_tokens": 747
+    },
+    "elapsed_seconds": 27.86
+  },
+  {
+    "accession_number": "0001045810-23-000087",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000087/q1fy24pr.htm",
+    "raw_product_candidates": 4,
+    "rejections": {
+      "duplicate_company_product": 2
+    },
+    "inference_cache": "43444fe1d009f27cc18e850e9b90e9b3fd0e83adf65d37abbab9af7c8ba317b7.json",
+    "usage": {
+      "prompt_tokens": 604,
+      "completion_tokens": 64,
+      "total_tokens": 668
+    },
+    "elapsed_seconds": 22.278
+  },
+  {
+    "accession_number": "0000051143-23-000010",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000010/ibm-20230719xex991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {},
+    "inference_cache": "11cc4e7790a69a075c19eeb8b1b5b638901bc35a5385981569d35d381464d984.json",
+    "usage": {
+      "prompt_tokens": 535,
+      "completion_tokens": 13,
+      "total_tokens": 548
+    },
+    "elapsed_seconds": 12.589
+  },
+  {
+    "accession_number": "0000050863-23-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000068/q223_earningsrelease.htm",
+    "raw_product_candidates": 4,
+    "rejections": {
+      "review_exclusion": 2,
+      "no_source_sentence_with_name_and_announcement": 1
+    },
+    "inference_cache": "3bced9b7c1d067e381d3d1141b2cd1d2581bf65ff8e34393d2a6db76d00fc18f.json",
+    "usage": {
+      "prompt_tokens": 755,
+      "completion_tokens": 46,
+      "total_tokens": 801
+    },
+    "elapsed_seconds": 32.117
+  },
+  {
+    "accession_number": "0000002488-23-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000135/q22023991.htm",
+    "raw_product_candidates": 6,
+    "rejections": {},
+    "inference_cache": "0b14186546398fe3138a583fe596ff1e605fcb102921140d8e700121a8fe1acb.json",
+    "usage": {
+      "prompt_tokens": 748,
+      "completion_tokens": 90,
+      "total_tokens": 838
+    },
+    "elapsed_seconds": 25.37
+  },
+  {
+    "accession_number": "0001193125-23-214316",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523214316/d511414dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "8a051572fe0e1aee594ccd6df66986f6cbacbbe31c301c852dc1e8430782947d.json",
+    "usage": {
+      "prompt_tokens": 257,
+      "completion_tokens": 9,
+      "total_tokens": 266
+    },
+    "elapsed_seconds": 4.807
+  },
+  {
+    "accession_number": "0001045810-23-000171",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000171/q2fy24pr.htm",
+    "raw_product_candidates": 4,
+    "rejections": {},
+    "inference_cache": "26cff5cd143cc2207936aa0420405d220ee82d625e38b26afead501558fed30a.json",
+    "usage": {
+      "prompt_tokens": 765,
+      "completion_tokens": 43,
+      "total_tokens": 808
+    },
+    "elapsed_seconds": 38.741
+  },
+  {
+    "accession_number": "0000047217-23-000060",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000060/hp73123exhibit991q323.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "1cb4611dfffb643441af55537a80540e8376489fcd5fae9640f1dd85a879d93d.json",
+    "usage": {
+      "prompt_tokens": 361,
+      "completion_tokens": 11,
+      "total_tokens": 372
+    },
+    "elapsed_seconds": 7.722
+  },
+  {
+    "accession_number": "0001108524-23-000037",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852423000037/crm-q2fy24xexhibit991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "66edfdb937cd0953bb3df736639ff3d80a994ebb0e87dd267c0684310c7d6d64.json",
+    "usage": {
+      "prompt_tokens": 531,
+      "completion_tokens": 17,
+      "total_tokens": 548
+    },
+    "elapsed_seconds": 11.072
+  },
+  {
+    "accession_number": "0000950170-23-047471",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047471/orcl-ex99_1.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "198fb4a6a03a2f55032a6b00cad590993e3a8b8d21a3bdae3aab0d075da2f6ae.json",
+    "usage": {
+      "prompt_tokens": 416,
+      "completion_tokens": 17,
+      "total_tokens": 433
+    },
+    "elapsed_seconds": 12.313
+  },
+  {
+    "accession_number": "0000796343-23-000198",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000198/adbeex991q323.htm",
+    "raw_product_candidates": 4,
+    "rejections": {
+      "review_exclusion": 2
+    },
+    "inference_cache": "0072b9181fee6eba65ca5627f6962ee80a28e4e229119da2598e2375174de05d.json",
+    "usage": {
+      "prompt_tokens": 408,
+      "completion_tokens": 21,
+      "total_tokens": 429
+    },
+    "elapsed_seconds": 11.39
+  },
+  {
+    "accession_number": "0000051143-23-000026",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000026/ibm-20231025xex991.htm",
+    "raw_product_candidates": 2,
+    "rejections": {
+      "no_source_sentence_with_name_and_announcement": 2
+    },
+    "inference_cache": "4c238cbec0bda71f4f4297dfab8f95601ca2f308fd65afba6dfcaad9e8e5c1f3.json",
+    "usage": {
+      "prompt_tokens": 385,
+      "completion_tokens": 21,
+      "total_tokens": 406
+    },
+    "elapsed_seconds": 18.9
+  },
+  {
+    "accession_number": "0000050863-23-000100",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000100/q323_earningsrelease.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "72e44f22b69cbd7bb58b99a9db2fdd08c8c983a2033f41e30160b6eed403be9f.json",
+    "usage": {
+      "prompt_tokens": 723,
+      "completion_tokens": 20,
+      "total_tokens": 743
+    },
+    "elapsed_seconds": 15.911
+  },
+  {
+    "accession_number": "0000002488-23-000192",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248823000192/q32023991.htm",
+    "raw_product_candidates": 11,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "ad45cca82c53693b04ec7a61a600a49c0ee35c0c94658d44a70f59f2a67ce98c.json",
+    "usage": {
+      "prompt_tokens": 736,
+      "completion_tokens": 187,
+      "total_tokens": 923
+    },
+    "elapsed_seconds": 36.082
+  },
+  {
+    "accession_number": "0001193125-23-277891",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523277891/d850595dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "bce64b37b10e436aa0089de744de1db13952e5ba94981065b5ce541d40aac4e7.json",
+    "usage": {
+      "prompt_tokens": 305,
+      "completion_tokens": 9,
+      "total_tokens": 314
+    },
+    "elapsed_seconds": 6.551
+  },
+  {
+    "accession_number": "0000047217-23-000091",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000091/hp103123exhibit991q423.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "266af18f2e02f37ad8781026d4f33369683d472a772c10c284f4cf79bd7e6667.json",
+    "usage": {
+      "prompt_tokens": 282,
+      "completion_tokens": 11,
+      "total_tokens": 293
+    },
+    "elapsed_seconds": 6.096
+  },
+  {
+    "accession_number": "0001045810-23-000225",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+    "raw_product_candidates": 7,
+    "rejections": {
+      "missing_or_ungrounded_name_or_description": 2,
+      "review_exclusion": 2
+    },
+    "inference_cache": "71bf3f936ca3050051ff7ccede7507b7d811ba53643911419760161b3f9bf19b.json",
+    "usage": {
+      "prompt_tokens": 732,
+      "completion_tokens": 83,
+      "total_tokens": 815
+    },
+    "elapsed_seconds": 29.701
+  },
+  {
+    "accession_number": "0001108524-23-000046",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852423000046/crm-q3fy24xexhibit991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "e19b3cf1d87878c09a5d647f7fdc267ee5242f8251f3dff43b1398e5add480ff.json",
+    "usage": {
+      "prompt_tokens": 435,
+      "completion_tokens": 17,
+      "total_tokens": 452
+    },
+    "elapsed_seconds": 9.786
+  },
+  {
+    "accession_number": "0000950170-23-069410",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069410/orcl-ex99_1.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "cb654b8dba7141a11f5d4b3475f76def690a97d1f52cc25b4589042f5e494f3a.json",
+    "usage": {
+      "prompt_tokens": 416,
+      "completion_tokens": 17,
+      "total_tokens": 433
+    },
+    "elapsed_seconds": 9.652
+  },
+  {
+    "accession_number": "0000796343-23-000252",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000252/adbeex991q423.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "f71e8bb0b66a25569f6fb65a3d7ac23144c3a8359dba054b4ef7eb89bce90943.json",
+    "usage": {
+      "prompt_tokens": 212,
+      "completion_tokens": 9,
+      "total_tokens": 221
+    },
+    "elapsed_seconds": 5.768
+  },
+  {
+    "accession_number": "0000051143-24-000004",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000004/ibm-20240124xex991.htm",
+    "raw_product_candidates": 2,
+    "rejections": {
+      "no_source_sentence_with_name_and_announcement": 2
+    },
+    "inference_cache": "120d30b97a91e5b2304b5145289709e68a30a81b7d1ce8d5d703dc8863c3cb04.json",
+    "usage": {
+      "prompt_tokens": 358,
+      "completion_tokens": 14,
+      "total_tokens": 372
+    },
+    "elapsed_seconds": 8.107
+  },
+  {
+    "accession_number": "0000050863-24-000008",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000008/q423_earningsrelease.htm",
+    "raw_product_candidates": 4,
+    "rejections": {
+      "no_source_sentence_with_name_and_announcement": 1
+    },
+    "inference_cache": "da53f91bcb50ec2bce616fd0942b6f32e837d70ec8d1f70d93455f01c67b5098.json",
+    "usage": {
+      "prompt_tokens": 777,
+      "completion_tokens": 51,
+      "total_tokens": 828
+    },
+    "elapsed_seconds": 21.529
+  },
+  {
+    "accession_number": "0000002488-24-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000009/q42023991final.htm",
+    "raw_product_candidates": 8,
+    "rejections": {},
+    "inference_cache": "408538da0d7b94e5a80ec0beccfa6ead77890cc3875fbb9629db973ed56609f2.json",
+    "usage": {
+      "prompt_tokens": 1524,
+      "completion_tokens": 93,
+      "total_tokens": 1617
+    },
+    "elapsed_seconds": 41.28
+  },
+  {
+    "accession_number": "0001645590-24-000012",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000012/ex-991x02072024x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "b4bcb8420a56ab5368c442e1cfa26554c9321a39f3cd2b3072bffe584344ae25.json",
+    "usage": {
+      "prompt_tokens": 237,
+      "completion_tokens": 14,
+      "total_tokens": 251
+    },
+    "elapsed_seconds": 5.818
+  },
+  {
+    "accession_number": "0001193125-24-036201",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524036201/d719981dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "f1460a2c585647bdab1c2a45420340498e558290a2993bfc90fdbb154f209e1c.json",
+    "usage": {
+      "prompt_tokens": 775,
+      "completion_tokens": 9,
+      "total_tokens": 784
+    },
+    "elapsed_seconds": 19.847
+  },
+  {
+    "accession_number": "0001045810-24-000028",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000028/q4fy24pr.htm",
+    "raw_product_candidates": 5,
+    "rejections": {
+      "missing_or_ungrounded_name_or_description": 1
+    },
+    "inference_cache": "1f3427ddccab498a5e4d35ad6ff0590b12976a596b48b83fd99f5c31c74c7a97.json",
+    "usage": {
+      "prompt_tokens": 666,
+      "completion_tokens": 57,
+      "total_tokens": 723
+    },
+    "elapsed_seconds": 34.472
+  },
+  {
+    "accession_number": "0001108524-24-000002",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000002/crm-q4fy24xexhibit991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "e75fd414cd60e62794ede84eb94be5eef6e182898bcf636cf7605bc47577b855.json",
+    "usage": {
+      "prompt_tokens": 646,
+      "completion_tokens": 13,
+      "total_tokens": 659
+    },
+    "elapsed_seconds": 15.567
+  },
+  {
+    "accession_number": "0000047217-24-000022",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000022/hp13124exhibit991q124.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "139e3bc4c85a3a5df2987fe031ae33ce2bf2b6439bb03e58851b18e4d9d2ac76.json",
+    "usage": {
+      "prompt_tokens": 330,
+      "completion_tokens": 11,
+      "total_tokens": 341
+    },
+    "elapsed_seconds": 7.363
+  },
+  {
+    "accession_number": "0001645590-24-000058",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000058/ex-991x2292024x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "3221f6b43b29423affeceb41876e007cd83b342a976f8cc00ddabdfebe87dad9.json",
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 14,
+      "total_tokens": 244
+    },
+    "elapsed_seconds": 5.517
+  },
+  {
+    "accession_number": "0000950170-24-029250",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029250/orcl-ex99_1.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "cdc154f949a204be3b13f53ad75671d396f773e1adeb0b5eba1ef46dd0b49686.json",
+    "usage": {
+      "prompt_tokens": 416,
+      "completion_tokens": 17,
+      "total_tokens": 433
+    },
+    "elapsed_seconds": 9.623
+  },
+  {
+    "accession_number": "0000796343-24-000057",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000057/adbeex992q124.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "c3e4e49550fa9455858775754bc345388d657fec0a436bf82a14500093c9f5b4.json",
+    "usage": {
+      "prompt_tokens": 365,
+      "completion_tokens": 9,
+      "total_tokens": 374
+    },
+    "elapsed_seconds": 8.102
+  },
+  {
+    "accession_number": "0000051143-24-000018",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000018/ibm-20240424xex991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "f4ffc507b9238615729c5a56a9274e6f698834238997f31e4c06668cc1fb8cd1.json",
+    "usage": {
+      "prompt_tokens": 527,
+      "completion_tokens": 14,
+      "total_tokens": 541
+    },
+    "elapsed_seconds": 11.587
+  },
+  {
+    "accession_number": "0000050863-24-000074",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+    "raw_product_candidates": 4,
+    "rejections": {
+      "missing_or_ungrounded_name_or_description": 1,
+      "review_exclusion": 1
+    },
+    "inference_cache": "a84b56a91da5fec6f4e546fb36a9fc343ab259d081af260c3fc5b9b229081538.json",
+    "usage": {
+      "prompt_tokens": 1228,
+      "completion_tokens": 42,
+      "total_tokens": 1270
+    },
+    "elapsed_seconds": 35.387
+  },
+  {
+    "accession_number": "0000002488-24-000054",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000054/q12024991.htm",
+    "raw_product_candidates": 3,
+    "rejections": {
+      "review_exclusion": 2
+    },
+    "inference_cache": "949a0ad83128eedd75d6ae4f5039571d3b6d8b7662f4ee2f4779a6b5652bc079.json",
+    "usage": {
+      "prompt_tokens": 412,
+      "completion_tokens": 35,
+      "total_tokens": 447
+    },
+    "elapsed_seconds": 9.693
+  },
+  {
+    "accession_number": "0001193125-24-139371",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524139371/d826117dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "7570d5d2c545e21f6a28e4e369d5ca490c8da274f4ca47c6c7bb82797215be33.json",
+    "usage": {
+      "prompt_tokens": 293,
+      "completion_tokens": 9,
+      "total_tokens": 302
+    },
+    "elapsed_seconds": 6.113
+  },
+  {
+    "accession_number": "0001045810-24-000113",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+    "raw_product_candidates": 13,
+    "rejections": {
+      "review_exclusion": 3,
+      "missing_or_ungrounded_name_or_description": 3
+    },
+    "inference_cache": "c049571a2813b41c39d003d20d6a26f6d8b91ebff71345068f1c5f20c5e7467e.json",
+    "usage": {
+      "prompt_tokens": 769,
+      "completion_tokens": 116,
+      "total_tokens": 885
+    },
+    "elapsed_seconds": 54.072
+  },
+  {
+    "accession_number": "0001108524-24-000007",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000007/crm-q1fy25xexhibit991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "d3d009c285c5b8129c4e6fa71b7c28491f79b030f07d44edc8f9e1cd25cf333f.json",
+    "usage": {
+      "prompt_tokens": 431,
+      "completion_tokens": 17,
+      "total_tokens": 448
+    },
+    "elapsed_seconds": 9.567
+  },
+  {
+    "accession_number": "0000047217-24-000039",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000039/hp43024exhibit991q224.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "0b52ffe4d20f7ec6efe69fe0015d8af661f68b71e6dbac175e12b55c24a4b68d.json",
+    "usage": {
+      "prompt_tokens": 386,
+      "completion_tokens": 11,
+      "total_tokens": 397
+    },
+    "elapsed_seconds": 8.234
+  },
+  {
+    "accession_number": "0001645590-24-000090",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000090/ex-991x642024x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "d68fd8834d1414a42cf9d49cb079723f555303ca14f406873cc206f2eaa611f2.json",
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 14,
+      "total_tokens": 244
+    },
+    "elapsed_seconds": 5.731
+  },
+  {
+    "accession_number": "0000950170-24-071916",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024071916/orcl-ex99_1.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "531ddeb160d595e4f259ed95ece58e7831b6771d259af2bcae2c8d77c14dfb15.json",
+    "usage": {
+      "prompt_tokens": 506,
+      "completion_tokens": 10,
+      "total_tokens": 516
+    },
+    "elapsed_seconds": 10.705
+  },
+  {
+    "accession_number": "0000796343-24-000140",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000140/adbeex991q224.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "e1185265117213238efcb7c7c1199621dece02a650ff6378ffc2a0ff36390735.json",
+    "usage": {
+      "prompt_tokens": 212,
+      "completion_tokens": 9,
+      "total_tokens": 221
+    },
+    "elapsed_seconds": 4.411
+  },
+  {
+    "accession_number": "0000051143-24-000033",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000033/ibm-20240724xex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "3ced3ee409230e967899e8abf33e6d46dba2651d10a4dfd10c9cf296c9e709f0.json",
+    "usage": {
+      "prompt_tokens": 357,
+      "completion_tokens": 9,
+      "total_tokens": 366
+    },
+    "elapsed_seconds": 7.281
+  },
+  {
+    "accession_number": "0000002488-24-000121",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000121/q22024991.htm",
+    "raw_product_candidates": 7,
+    "rejections": {
+      "review_exclusion": 2
+    },
+    "inference_cache": "05675ab507aadf286f4851074c066e96abbe808b4296862fdfd1d010bef1fe79.json",
+    "usage": {
+      "prompt_tokens": 727,
+      "completion_tokens": 94,
+      "total_tokens": 821
+    },
+    "elapsed_seconds": 24.247
+  },
+  {
+    "accession_number": "0000050863-24-000122",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000122/q224_earningsrelease.htm",
+    "raw_product_candidates": 5,
+    "rejections": {
+      "review_exclusion": 3,
+      "no_source_sentence_with_name_and_announcement": 2
+    },
+    "inference_cache": "502733d2b58b97627331a9aafb5ccacc68a9cecf0a02e14e2a173fed31ad01e7.json",
+    "usage": {
+      "prompt_tokens": 1185,
+      "completion_tokens": 37,
+      "total_tokens": 1222
+    },
+    "elapsed_seconds": 34.401
+  },
+  {
+    "accession_number": "0001193125-24-200636",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524200636/d878533dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "506be50182f1915bc827898dcef2de8ed9e3c7a41661a744d206777b231e9cc8.json",
+    "usage": {
+      "prompt_tokens": 760,
+      "completion_tokens": 9,
+      "total_tokens": 769
+    },
+    "elapsed_seconds": 13.319
+  },
+  {
+    "accession_number": "0001108524-24-000020",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000020/crm-q2fy25xexhibit991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "ee180e34fdb0771b0035f3ea1cf219ed08152905896270fe957ca970212a78c8.json",
+    "usage": {
+      "prompt_tokens": 449,
+      "completion_tokens": 17,
+      "total_tokens": 466
+    },
+    "elapsed_seconds": 9.24
+  },
+  {
+    "accession_number": "0000047217-24-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000068/hp73124exhibit991q324.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "575d8760c0225550266db0b625d7e23b790b808a299bc799ef1919dafd96b957.json",
+    "usage": {
+      "prompt_tokens": 399,
+      "completion_tokens": 11,
+      "total_tokens": 410
+    },
+    "elapsed_seconds": 7.308
+  },
+  {
+    "accession_number": "0001045810-24-000262",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000262/q2fy25pr.htm",
+    "raw_product_candidates": 8,
+    "rejections": {
+      "review_exclusion": 7
+    },
+    "inference_cache": "aacaffb1ae524e7e5539e63c84a18f115f146c558b8ba04c616fad7550e00263.json",
+    "usage": {
+      "prompt_tokens": 745,
+      "completion_tokens": 59,
+      "total_tokens": 804
+    },
+    "elapsed_seconds": 17.27
+  },
+  {
+    "accession_number": "0001645590-24-000114",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000114/ex-991x942024x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "fbe49f565e06f5716f0e8db0baaecef9d9394df8acb0603dc79b26f4d0e07b02.json",
+    "usage": {
+      "prompt_tokens": 234,
+      "completion_tokens": 14,
+      "total_tokens": 248
+    },
+    "elapsed_seconds": 5.164
+  },
+  {
+    "accession_number": "0000950170-24-104753",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104753/orcl-ex99_1.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "4d63dc3e7c23d6a230b933c830334c09876c3ee1c2dbc4f76f5f80b39b671a25.json",
+    "usage": {
+      "prompt_tokens": 410,
+      "completion_tokens": 17,
+      "total_tokens": 427
+    },
+    "elapsed_seconds": 8.284
+  },
+  {
+    "accession_number": "0000796343-24-000200",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000200/adbeex991q324.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "3dae722fd680a9e0d598c48c1ddfa60ab4080d465a5d57f51f7b6c7fc60fe6ab.json",
+    "usage": {
+      "prompt_tokens": 218,
+      "completion_tokens": 9,
+      "total_tokens": 227
+    },
+    "elapsed_seconds": 4.147
+  },
+  {
+    "accession_number": "0000051143-24-000043",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000043/ibm-20241023xex991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "no_source_sentence_with_name_and_announcement": 1
+    },
+    "inference_cache": "c78e9eeb64c7951f645cb225d88adb6131b0430cc397fcdfda16e2eca988ec3d.json",
+    "usage": {
+      "prompt_tokens": 718,
+      "completion_tokens": 10,
+      "total_tokens": 728
+    },
+    "elapsed_seconds": 13.333
+  },
+  {
+    "accession_number": "0000002488-24-000161",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000161/q32024991.htm",
+    "raw_product_candidates": 2,
+    "rejections": {
+      "review_exclusion": 2
+    },
+    "inference_cache": "c57133f400c4b43d66e2f2a158917220e386c14be9edf48dc0d05103161b35ca.json",
+    "usage": {
+      "prompt_tokens": 572,
+      "completion_tokens": 32,
+      "total_tokens": 604
+    },
+    "elapsed_seconds": 12.937
+  },
+  {
+    "accession_number": "0000050863-24-000147",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000147/q324_earningsrelease.htm",
+    "raw_product_candidates": 2,
+    "rejections": {},
+    "inference_cache": "b536caa94ff5c695b9d36fbde3efaccdf3a5757acf2bdd5f486bbf6d026f08e2.json",
+    "usage": {
+      "prompt_tokens": 1029,
+      "completion_tokens": 14,
+      "total_tokens": 1043
+    },
+    "elapsed_seconds": 21.339
+  },
+  {
+    "accession_number": "0001193125-24-257224",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312524257224/d875468dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "05da2dfc2c80c65a4ea371a5207ef81bec36687c26b25eed0ac668f2c9a68333.json",
+    "usage": {
+      "prompt_tokens": 251,
+      "completion_tokens": 9,
+      "total_tokens": 260
+    },
+    "elapsed_seconds": 8.731
+  },
+  {
+    "accession_number": "0001045810-24-000315",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000315/q3fy25pr.htm",
+    "raw_product_candidates": 12,
+    "rejections": {
+      "review_exclusion": 8,
+      "missing_or_ungrounded_name_or_description": 2
+    },
+    "inference_cache": "b1ef845af079b8025e41b7861f9d6f351bb6e15f9cdd82bc78f462d029343d77.json",
+    "usage": {
+      "prompt_tokens": 652,
+      "completion_tokens": 132,
+      "total_tokens": 784
+    },
+    "elapsed_seconds": 29.179
+  },
+  {
+    "accession_number": "0000047217-24-000075",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000075/hp103124exhibit991q424.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "2e0f1a8b7c0ad34c054d05a8039947e8a46be967ab55fd0aae28d58014fefbf8.json",
+    "usage": {
+      "prompt_tokens": 689,
+      "completion_tokens": 10,
+      "total_tokens": 699
+    },
+    "elapsed_seconds": 14.208
+  },
+  {
+    "accession_number": "0001108524-24-000033",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000033/crm-q3fy25xexhibit991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "56ea98bcb8e5d498fc7c06927d67db7115676d64f436ce5b6ba96b843a6a6f67.json",
+    "usage": {
+      "prompt_tokens": 432,
+      "completion_tokens": 17,
+      "total_tokens": 449
+    },
+    "elapsed_seconds": 12.253
+  },
+  {
+    "accession_number": "0001645590-24-000132",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000132/ex-991x1252024x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "9b4dffe77b75014c3fa4e52ae866c54d6d0d8e14f27c731aa26a077f34e6d9eb.json",
+    "usage": {
+      "prompt_tokens": 233,
+      "completion_tokens": 14,
+      "total_tokens": 247
+    },
+    "elapsed_seconds": 7.568
+  },
+  {
+    "accession_number": "0000950170-24-134537",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134537/orcl-ex99_1.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "14a06151c83af830a71f8b1377f1c4ed3ea49591b836cb6fdcab1ee8c36552da.json",
+    "usage": {
+      "prompt_tokens": 414,
+      "completion_tokens": 17,
+      "total_tokens": 431
+    },
+    "elapsed_seconds": 14.986
+  },
+  {
+    "accession_number": "0000796343-24-000250",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000250/adbeex991q424.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "a5bfccd1a42e9e2649c8f711b81c3b5d632e39d13f932ae5d864afc5bf1d7f68.json",
+    "usage": {
+      "prompt_tokens": 220,
+      "completion_tokens": 9,
+      "total_tokens": 229
+    },
+    "elapsed_seconds": 5.509
+  },
+  {
+    "accession_number": "0000051143-25-000005",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000005/ibm-20250129xex991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "no_source_sentence_with_name_and_announcement": 1
+    },
+    "inference_cache": "608d1669586d25814cbb6a2d1702225c2ae90adfad7a059444c891059c242f1a.json",
+    "usage": {
+      "prompt_tokens": 361,
+      "completion_tokens": 10,
+      "total_tokens": 371
+    },
+    "elapsed_seconds": 7.226
+  },
+  {
+    "accession_number": "0000050863-25-000004",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000004/q424_earningsrelease.htm",
+    "raw_product_candidates": 3,
+    "rejections": {
+      "review_exclusion": 2
+    },
+    "inference_cache": "4a1cec7ec47d2ceaf59aa6681a27f797c2c36be559d7c60ab6bbd9bc7e0ea900.json",
+    "usage": {
+      "prompt_tokens": 953,
+      "completion_tokens": 47,
+      "total_tokens": 1000
+    },
+    "elapsed_seconds": 21.969
+  },
+  {
+    "accession_number": "0000002488-25-000009",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000009/q42024991.htm",
+    "raw_product_candidates": 6,
+    "rejections": {
+      "review_exclusion": 3
+    },
+    "inference_cache": "d49fb9b21ccb02e914c333d844f73691c9a5a3f5e3536b4a6b8e18c755fa9d47.json",
+    "usage": {
+      "prompt_tokens": 497,
+      "completion_tokens": 67,
+      "total_tokens": 564
+    },
+    "elapsed_seconds": 17.596
+  },
+  {
+    "accession_number": "0001193125-25-025114",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525025114/d851168dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "38c98c98066d9a8fd5008cc1e60966cc10e8fb2776b5f681a542df66550c7e34.json",
+    "usage": {
+      "prompt_tokens": 252,
+      "completion_tokens": 9,
+      "total_tokens": 261
+    },
+    "elapsed_seconds": 4.665
+  },
+  {
+    "accession_number": "0001108524-25-000002",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000002/crm-q4fy25xexhibit991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "aa646ed78f4a03ea131174bdcaf2e3f9d6b1ae80d96e9b906a6a06e2efffb65a.json",
+    "usage": {
+      "prompt_tokens": 465,
+      "completion_tokens": 13,
+      "total_tokens": 478
+    },
+    "elapsed_seconds": 8.707
+  },
+  {
+    "accession_number": "0001045810-25-000021",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+    "raw_product_candidates": 8,
+    "rejections": {
+      "review_exclusion": 4
+    },
+    "inference_cache": "a22e82bdbc9d6688007b1dee636f7a290634e81c16b701b4c04da523cab3db5b.json",
+    "usage": {
+      "prompt_tokens": 757,
+      "completion_tokens": 75,
+      "total_tokens": 832
+    },
+    "elapsed_seconds": 22.451
+  },
+  {
+    "accession_number": "0000047217-25-000023",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000023/hp013125exhibit991q125.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "301174236cbc6a79eab162c099761c214fd3cb012314d626aa1e1684604dbb43.json",
+    "usage": {
+      "prompt_tokens": 351,
+      "completion_tokens": 11,
+      "total_tokens": 362
+    },
+    "elapsed_seconds": 6.612
+  },
+  {
+    "accession_number": "0001645590-25-000034",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000034/ex-991x362025x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "bd2fa5426eccd447f2f6f365a9fc50608fa4b2dd8a45d773f83bb596c09b83bc.json",
+    "usage": {
+      "prompt_tokens": 293,
+      "completion_tokens": 13,
+      "total_tokens": 306
+    },
+    "elapsed_seconds": 6.071
+  },
+  {
+    "accession_number": "0000950170-25-036295",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025036295/orcl-ex99_1.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "bf83c9eb358864f8030bd5fd40e304b1da492df1a5b1cf15389d00d642dba3fe.json",
+    "usage": {
+      "prompt_tokens": 416,
+      "completion_tokens": 17,
+      "total_tokens": 433
+    },
+    "elapsed_seconds": 11.862
+  },
+  {
+    "accession_number": "0000796343-25-000052",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000052/adbeex991q125.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "de6860db26f3e4e4e1cc357d1ba203c2441adb51abf4693f4227ef956fb28508.json",
+    "usage": {
+      "prompt_tokens": 217,
+      "completion_tokens": 9,
+      "total_tokens": 226
+    },
+    "elapsed_seconds": 4.027
+  },
+  {
+    "accession_number": "0000051143-25-000026",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000026/ibm-20250423xex991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "5faf2a1399ea7bed08ee63d2caca33cd4f38b54ca0ad586c48e17b85844e4ab0.json",
+    "usage": {
+      "prompt_tokens": 353,
+      "completion_tokens": 9,
+      "total_tokens": 362
+    },
+    "elapsed_seconds": 6.595
+  },
+  {
+    "accession_number": "0000050863-25-000070",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000070/q125_earningsrelease.htm",
+    "raw_product_candidates": 7,
+    "rejections": {
+      "review_exclusion": 4,
+      "missing_or_ungrounded_name_or_description": 1
+    },
+    "inference_cache": "3c5fb9fe961c9590939bbc18699306589f49c97b329468cc7b774de2fd674ef3.json",
+    "usage": {
+      "prompt_tokens": 686,
+      "completion_tokens": 110,
+      "total_tokens": 796
+    },
+    "elapsed_seconds": 28.004
+  },
+  {
+    "accession_number": "0000002488-25-000045",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000045/q12025991.htm",
+    "raw_product_candidates": 6,
+    "rejections": {
+      "review_exclusion": 5
+    },
+    "inference_cache": "a62dea4573f40795eecd884fc595851bb6b077f91c30e4703e9b67ac23aa81ca.json",
+    "usage": {
+      "prompt_tokens": 528,
+      "completion_tokens": 53,
+      "total_tokens": 581
+    },
+    "elapsed_seconds": 18.379
+  },
+  {
+    "accession_number": "0001193125-25-119864",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525119864/d946014dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "4d5f813e2682ea9d13c312d0f64e08920370a86480129e43f1945259cd057937.json",
+    "usage": {
+      "prompt_tokens": 788,
+      "completion_tokens": 9,
+      "total_tokens": 797
+    },
+    "elapsed_seconds": 18.352
+  },
+  {
+    "accession_number": "0001108524-25-000027",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000027/crm-q1fy26xexhibit991.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "5ea6e32132a56004158175181511872689bc33fe0150e9741e91cbe459e2509c.json",
+    "usage": {
+      "prompt_tokens": 547,
+      "completion_tokens": 11,
+      "total_tokens": 558
+    },
+    "elapsed_seconds": 11.946
+  },
+  {
+    "accession_number": "0000047217-25-000041",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000041/hp043025exhibit991q225.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "38409ea929984c014001916a4235b4c8ec988dbc44e9a7c39c4b2e32ea633984.json",
+    "usage": {
+      "prompt_tokens": 360,
+      "completion_tokens": 11,
+      "total_tokens": 371
+    },
+    "elapsed_seconds": 7.037
+  },
+  {
+    "accession_number": "0001045810-25-000115",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+    "raw_product_candidates": 6,
+    "rejections": {},
+    "inference_cache": "440c2b40cee83e4f87f01633b016623bb23e43bd3392e7ea8a5e3554a38dd0c9.json",
+    "usage": {
+      "prompt_tokens": 1004,
+      "completion_tokens": 58,
+      "total_tokens": 1062
+    },
+    "elapsed_seconds": 25.894
+  },
+  {
+    "accession_number": "0001645590-25-000060",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000060/ex-991x632025x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "627f80851b3e89b4dad910078c9147083708c459d5b127f9eeeb3c04b6fe3d07.json",
+    "usage": {
+      "prompt_tokens": 247,
+      "completion_tokens": 14,
+      "total_tokens": 261
+    },
+    "elapsed_seconds": 5.285
+  },
+  {
+    "accession_number": "0000950170-25-084831",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025084831/orcl-ex99_1.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "b9bbf72772fc3ea5322999d45de836e5277c7a7675e2cf03fea9aa064d2f24c8.json",
+    "usage": {
+      "prompt_tokens": 415,
+      "completion_tokens": 10,
+      "total_tokens": 425
+    },
+    "elapsed_seconds": 8.265
+  },
+  {
+    "accession_number": "0000796343-25-000064",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000064/adbeex991q225.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "ed362e52ffc43d424e7d206a9e376921227f48dcddddc254ebb581188caf4c47.json",
+    "usage": {
+      "prompt_tokens": 215,
+      "completion_tokens": 9,
+      "total_tokens": 224
+    },
+    "elapsed_seconds": 4.25
+  },
+  {
+    "accession_number": "0000051143-25-000048",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000048/ibm-20250723xex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "3288004336769bdd26d5fc7ec30e3ab65768a5fa0dd1a646a31aef5fd4b89fa3.json",
+    "usage": {
+      "prompt_tokens": 351,
+      "completion_tokens": 9,
+      "total_tokens": 360
+    },
+    "elapsed_seconds": 6.778
+  },
+  {
+    "accession_number": "0000050863-25-000107",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000107/q225_earningsrelease.htm",
+    "raw_product_candidates": 1,
+    "rejections": {
+      "review_exclusion": 1
+    },
+    "inference_cache": "e1106680be033e6c2407547de6cde34b6c3420e91e37521313df4d5e62571f2f.json",
+    "usage": {
+      "prompt_tokens": 327,
+      "completion_tokens": 24,
+      "total_tokens": 351
+    },
+    "elapsed_seconds": 9.554
+  },
+  {
+    "accession_number": "0000002488-25-000106",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000106/q22025991.htm",
+    "raw_product_candidates": 6,
+    "rejections": {
+      "review_exclusion": 3
+    },
+    "inference_cache": "796f1e04a04ffb3fa92abbfa36591bdaac05a879767de219f26c19862ba2b05d.json",
+    "usage": {
+      "prompt_tokens": 602,
+      "completion_tokens": 76,
+      "total_tokens": 678
+    },
+    "elapsed_seconds": 19.563
+  },
+  {
+    "accession_number": "0001193125-25-179820",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525179820/d901470dex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "ca1b231fa619ec8c91cf3d21a1542a03703313b83ab765f463e04e799ad580ea.json",
+    "usage": {
+      "prompt_tokens": 758,
+      "completion_tokens": 9,
+      "total_tokens": 767
+    },
+    "elapsed_seconds": 14.018
+  },
+  {
+    "accession_number": "0000047217-25-000060",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000060/hp073125exhibit991q325.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "a1e74f17b383216b4a58a294dbe105248d0b5c44bd972e97d4f2770444854ac4.json",
+    "usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 11,
+      "total_tokens": 493
+    },
+    "elapsed_seconds": 8.548
+  },
+  {
+    "accession_number": "0001045810-25-000207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000207/q2fy26pr.htm",
+    "raw_product_candidates": 11,
+    "rejections": {
+      "review_exclusion": 5
+    },
+    "inference_cache": "4d2a00c4eff5c5d487fa440e123e9dda7901bc71f6e9e4dc76e77be2f3ea802c.json",
+    "usage": {
+      "prompt_tokens": 1217,
+      "completion_tokens": 149,
+      "total_tokens": 1366
+    },
+    "elapsed_seconds": 42.565
+  },
+  {
+    "accession_number": "0001108524-25-000083",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000083/crm-q2fy26xexhibit991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "eb5d2afe5e3f3156f2937be84a6792c37349fd0c74ca7f0b61757773a14225c5.json",
+    "usage": {
+      "prompt_tokens": 520,
+      "completion_tokens": 13,
+      "total_tokens": 533
+    },
+    "elapsed_seconds": 11.436
+  },
+  {
+    "accession_number": "0001645590-25-000096",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000096/ex-991x932025x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "fd07d2952270800f8b21200c92ecdd2ccd752d16b99559fdd9ef13f40a7d701c.json",
+    "usage": {
+      "prompt_tokens": 240,
+      "completion_tokens": 14,
+      "total_tokens": 254
+    },
+    "elapsed_seconds": 7.862
+  },
+  {
+    "accession_number": "0001193125-25-199175",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525199175/orcl-ex99_1.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "59bbe178ce9f78ad61eb0149df79dae67045567d51124353280979e96f11553a.json",
+    "usage": {
+      "prompt_tokens": 417,
+      "completion_tokens": 10,
+      "total_tokens": 427
+    },
+    "elapsed_seconds": 8.033
+  },
+  {
+    "accession_number": "0000796343-25-000102",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000102/adbeex991q325.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "0e96754a2997e913f45145ce37183020b2dc41367abbeec900759238d9849aa5.json",
+    "usage": {
+      "prompt_tokens": 210,
+      "completion_tokens": 9,
+      "total_tokens": 219
+    },
+    "elapsed_seconds": 3.975
+  },
+  {
+    "accession_number": "0001645590-25-000111",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000111/ex-992x10152025x8ksam.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "854b6ac2cebd14ad921b53d5e6b4b595cce1b01b7c8a5942ea45e71c1a1ad33b.json",
+    "usage": {
+      "prompt_tokens": 406,
+      "completion_tokens": 10,
+      "total_tokens": 416
+    },
+    "elapsed_seconds": 7.792
+  },
+  {
+    "accession_number": "0000051143-25-000061",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000061/ibm-20251022xex991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "00c5618dccb2e29511f146bef8138b842cb9dc5f742c5d2e1613f8f53b85a542.json",
+    "usage": {
+      "prompt_tokens": 360,
+      "completion_tokens": 9,
+      "total_tokens": 369
+    },
+    "elapsed_seconds": 7.441
+  },
+  {
+    "accession_number": "0000050863-25-000169",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000169/q325earningsrelease.htm",
+    "raw_product_candidates": 2,
+    "rejections": {},
+    "inference_cache": "5f27e3895c0dee684cab41e776c3ba7220c5736672e981ffe2cb5e0e3b12775d.json",
+    "usage": {
+      "prompt_tokens": 474,
+      "completion_tokens": 28,
+      "total_tokens": 502
+    },
+    "elapsed_seconds": 13.318
+  },
+  {
+    "accession_number": "0000002488-25-000163",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+    "raw_product_candidates": 7,
+    "rejections": {
+      "review_exclusion": 7
+    },
+    "inference_cache": "7d991face4e1f290911440d842e7ae18a33f12e6e0e9b653691433ec0935b662.json",
+    "usage": {
+      "prompt_tokens": 699,
+      "completion_tokens": 51,
+      "total_tokens": 750
+    },
+    "elapsed_seconds": 16.914
+  },
+  {
+    "accession_number": "0001193125-25-277624",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525277624/d484663dex991.htm",
+    "raw_product_candidates": 3,
+    "rejections": {
+      "review_exclusion": 3
+    },
+    "inference_cache": "33fda96066e2572ad735ed810b80da8fe5d7d1ee0a5ef48932b643b4b5941b6c.json",
+    "usage": {
+      "prompt_tokens": 275,
+      "completion_tokens": 20,
+      "total_tokens": 295
+    },
+    "elapsed_seconds": 10.058
+  },
+  {
+    "accession_number": "0001045810-25-000228",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/q3fy26pr.htm",
+    "raw_product_candidates": 5,
+    "rejections": {
+      "review_exclusion": 2
+    },
+    "inference_cache": "ac3d3f601163a3230067c05e6fe3509bf719e60838166d3ef70e61b0ad45dff3.json",
+    "usage": {
+      "prompt_tokens": 816,
+      "completion_tokens": 39,
+      "total_tokens": 855
+    },
+    "elapsed_seconds": 20.998
+  },
+  {
+    "accession_number": "0000047217-25-000068",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000068/hp103125exhibit991q425.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "890a4f9cea25b5fbc489d8f45ad722bc217440f5e9b2d734f5b39d5359f1caba.json",
+    "usage": {
+      "prompt_tokens": 775,
+      "completion_tokens": 10,
+      "total_tokens": 785
+    },
+    "elapsed_seconds": 18.377
+  },
+  {
+    "accession_number": "0001108524-25-000234",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000234/crm-q3fy26xexhibit991.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "b3c191173aa805a60ee2185165d1c551dedbcf3df56c0bf478026394857bcb97.json",
+    "usage": {
+      "prompt_tokens": 522,
+      "completion_tokens": 13,
+      "total_tokens": 535
+    },
+    "elapsed_seconds": 10.571
+  },
+  {
+    "accession_number": "0001645590-25-000126",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000126/ex-991x1242025x8k.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "e91ddc23de782eb91c8b9609f43eec6b1dbecf84861db691f279bcba5a3dd4c9.json",
+    "usage": {
+      "prompt_tokens": 248,
+      "completion_tokens": 10,
+      "total_tokens": 258
+    },
+    "elapsed_seconds": 4.841
+  },
+  {
+    "accession_number": "0000796343-25-000135",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "936cbbca1f7a72ebd8e0d7c35b309b98b7c8f61a75d19f5967d0227cdc0aecf2.json",
+    "usage": {
+      "prompt_tokens": 219,
+      "completion_tokens": 9,
+      "total_tokens": 228
+    },
+    "elapsed_seconds": 4.383
+  },
+  {
+    "accession_number": "0001193125-25-314207",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm",
+    "raw_product_candidates": 0,
+    "rejections": {},
+    "inference_cache": "130b772f39e2726712d59bbdefb814bef4c7818cc50666b2366c9bae1c5dab10.json",
+    "usage": {
+      "prompt_tokens": 413,
+      "completion_tokens": 10,
+      "total_tokens": 423
+    },
+    "elapsed_seconds": 8.079
+  }
+]

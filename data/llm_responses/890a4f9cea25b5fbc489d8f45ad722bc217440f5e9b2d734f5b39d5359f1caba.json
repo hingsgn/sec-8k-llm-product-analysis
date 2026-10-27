@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 775,
+    "completion_tokens": 10,
+    "total_tokens": 785
+  },
+  "elapsed_seconds": 18.377,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000068/hp103125exhibit991q425.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp103125exhibit991q425.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2025 Full Year and Fourth\nHP Inc. announces company-wide initiative, estimates gross run rate cost savings of approximately $1 billion by the end of fiscal 2028, and restructuring and other charges of approximately $650 million HP Inc.'s fiscal 2025 full-year and fourth quarter financial performance FY25 FY24 Y/Y Q4 FY25 Q4 FY24 Y/Y GAAP net revenue ($B) $ 55.3 $ 53.6 3.2 % $ 14.6 $ 14.1 4.2 % GAAP operating margin 5.7 % 7.1 % (1.4) pts 6.6 % 7.1 % (0.5) pts GAAP net earnings ($B) $ 2.5 $ 2.8 (9) % $ 0.8 $ 0.9 (12) % GAAP diluted net EPS $ 2.65 $ 2.81 (6) % $ 0.84 $ 0.93 (10) % Non-GAAP operating margin 7.4 % 8.5 % (1.1) pts 8.0 % 8.8 % (0.8) pts Non-GAAP net earnings ($B) $ 3.0 $ 3.4 (12) % $ 0.9 $ 0.9 (6) % Non-GAAP diluted net EPS $ 3.12 $ 3.43 (9) % $ 0.93 $ 0.96 (3) % Net cash provided by operating activities ($B) $ 3.7 $ 3.7 (1) % $ 1.6 $ 1.6 — % Free cash flow ($B) $ 2.9 $ 3.3 (12) % $ 1.5 $ 1.5 (2) % Notes to table Information about HP Inc.'s use of non-GAAP financial information is provided under \"Use of non-GAAP financial information\" below.\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2025 net revenue of $55.3 billion, up 3.2% (up 3.7% in constant currency) from the prior-year period.\nCompany-wide initiative announced in November 2025 Today, HP Inc. announced a company-wide initiative (“fiscal 2026 plan”) to drive customer satisfaction, product innovation, and productivity through artificial intelligence adoption and enablement.",
+  "full_text_characters": 50977,
+  "passage_characters": 1766,
+  "inference_timestamp": "2026-10-24T04:47:03.079957-04:00"
+}

@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "HashiCorp, Inc."
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"HashiCorp, Inc.\"]}",
+  "usage": {
+    "prompt_tokens": 527,
+    "completion_tokens": 14,
+    "total_tokens": 541
+  },
+  "elapsed_seconds": 11.587,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000018/ibm-20240424xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20240424xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FIRST-QUARTER RESULTS Accelerated Software revenue growth; Strong gross margin expansion and cash generation Announces strategic acquisition of HashiCorp, Inc. ARMONK, N.Y., April 24, 2024 . . . IBM (NYSE: IBM) today\nEX-99.1 2 ibm-20240424xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES FIRST-QUARTER RESULTS Accelerated Software revenue growth; Strong gross margin expansion and cash generation Announces strategic acquisition of HashiCorp, Inc.\nIBM (NYSE: IBM) today announced first-quarter 2024 earnings results. “We began the year with solid revenue and free cash flow growth, reflecting the strength of our hybrid cloud and AI strategy.\nOur book of business for watsonx and generative AI again showed strong momentum, growing quarter over quarter, and has now eclipsed one billion dollars since we launched watsonx in mid-2023.\nAs a result, for the full year, we continue to expect revenue performance in line with our mid-single digit model and about $12 billion in free cash flow,\" said Arvind Krishna, IBM chairman and chief executive officer. \"To strengthen our position in today's hybrid cloud and AI-driven technology landscape, we also announced our intent to acquire HashiCorp.\nIBM's and HashiCorp's combined portfolios will help clients manage growing application and infrastructure complexity and create a comprehensive hybrid cloud platform designed for the AI era.” Strategic Acquisition IBM today announced its intent to acquire HashiCorp, Inc. for $35 per share in cash, representing an enterprise value of $6.4 billion.",
+  "full_text_characters": 21004,
+  "passage_characters": 1621,
+  "inference_timestamp": "2026-10-24T04:37:47.442081-04:00"
+}

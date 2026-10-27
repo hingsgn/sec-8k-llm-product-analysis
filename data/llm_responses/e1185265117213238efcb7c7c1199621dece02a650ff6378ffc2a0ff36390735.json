@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Adobe",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Adobe\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 212,
+    "completion_tokens": 9,
+    "total_tokens": 221
+  },
+  "elapsed_seconds": 4.411,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000140/adbeex991q224.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 adbeex991q224.htm EX-99.1 Document Exhibit 99.1 Investor Relations Contact Jonathan Vaas Adobe ir@adobe.com Public Relations Contact Ashley Levine Adobe adobepr@adobe.com FOR IMMEDIATE RELEASE Adobe Reports Record Revenue in Q2 Fiscal 2024 Company raises annual targets for Digital Media\n",
+  "full_text_characters": 18287,
+  "passage_characters": 298,
+  "inference_timestamp": "2026-10-24T04:39:07.632990-04:00"
+}

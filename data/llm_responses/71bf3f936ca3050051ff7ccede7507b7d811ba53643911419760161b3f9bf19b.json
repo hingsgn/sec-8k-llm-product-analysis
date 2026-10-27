@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "NVIDIA HGXTM H200",
+      "NVIDIA AI foundry service",
+      "NVIDIA Spectrum-XTM Ethernet networking platform",
+      "NVIDIA GH200 Grace Hopper Superchips",
+      "Google Cloud Platform A3 instances powered by NVIDIA H100 Tensor Core GPUs",
+      "DLSS 3.5 Ray Reconstruction",
+      "TensorRT-LLMTM for Windows"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"NVIDIA HGXTM H200\",\"NVIDIA AI foundry service\",\"NVIDIA Spectrum-XTM Ethernet networking platform\",\"NVIDIA GH200 Grace Hopper Superchips\",\"Google Cloud Platform A3 instances powered by NVIDIA H100 Tensor Core GPUs\",\"DLSS 3.5 Ray Reconstruction\",\"TensorRT-LLMTM for Windows\"]}",
+  "usage": {
+    "prompt_tokens": 732,
+    "completion_tokens": 83,
+    "total_tokens": 815
+  },
+  "elapsed_seconds": 29.701,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000225/q3fy24pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q3fy24pr.htm Q3FY24 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Third Quarter Fiscal 2024 • Record revenue of $18.12 billion, up 34% from Q2, up 206% from year ago • Record Data Center revenue of $14.51 billion, up 41% from Q2, up 279% from year\nAnnounced NVIDIA HGXTM H200 with the new NVIDIA H200 Tensor Core GPU, the first GPU with HBM3e memory, with systems expected to be available in the second quarter of next year.\nIntroduced an AI foundry service — with NVIDIA AI Foundation Models, NVIDIA NeMoTM framework and NVIDIA DGXTM Cloud AI supercomputing — to accelerate the development and tuning of custom generative AI applications, first available on Microsoft Azure, with SAP and Amdocs among the first customers.\nAnnounced that the NVIDIA Spectrum-XTM Ethernet networking platform for AI will be integrated into servers from Dell Technologies, Hewlett Packard Enterprise and Lenovo in the first quarter of next year.\nAnnounced that NVIDIA GH200 Grace Hopper Superchips, including a new quad configuration, will power more than 40 new supercomputers, including the JUPITER system at Jülich Supercomputing Centre and Isambard-AI at the University of Bristol.\nGoogle Cloud Platform made generally available new A3 instances powered by NVIDIA H100 Tensor Core GPUs and NVIDIA AI Enterprise software in Google Cloud Marketplace.\nAnnounced record-setting performance in the latest two sets of MLPerf benchmarks for inference and training, with the NVIDIA Eos AI supercomputer training a GPT-3 model 3x faster than the previous record.\nAnnounced growing worldwide support for the NVIDIA® CUDA® Quantum platform, including new efforts in Israel, the Netherlands, the U.K. and the U.S.\nLaunched DLSS 3.5 Ray Reconstruction, which creates high-quality ray-traced images for intensive ray-traced games and apps, including Alan Wake 2 and Cyberpunk 2077 .\nReleased TensorRT-LLMTM for Windows, speeding on-device LLM inference by up to 4x.\nSurpassed 1,700 games on GeForce NOWTM, including launches of Alan Wake 2 , Baldur’s Gate 3 , Cyberpunk 2077: Phantom Liberty, Forza Motorsport and Starfield .\nAnnounced that Mercedes-Benz is using NVIDIA Omniverse to create digital twins to help plan, design, build and operate its manufacturing and assembly facilities around the world.\nAnnounced a new line of desktop workstations with NVIDIA RTXTM 6000 Ada Generation GPUs and NVIDIA ConnectX® smart interface cards for training smaller AI models, fine-tuning models and running inference locally.",
+  "full_text_characters": 22341,
+  "passage_characters": 2537,
+  "inference_timestamp": "2026-10-24T04:25:20.417203-04:00"
+}

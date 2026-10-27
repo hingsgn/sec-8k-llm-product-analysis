@@ -1,0 +1,27 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "Intel PowerVia",
+      "Intel 20A",
+      "4th Gen Intel® Xeon® Scalable processors",
+      "Intel ArcTM Pro A60 and Pro A60M"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel\",\"products\":[\"Intel PowerVia\", \"Intel 20A\", \"4th Gen Intel® Xeon® Scalable processors\", \"Intel ArcTM Pro A60 and Pro A60M\"]}",
+  "usage": {
+    "prompt_tokens": 755,
+    "completion_tokens": 46,
+    "total_tokens": 801
+  },
+  "elapsed_seconds": 32.117,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000068/q223_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q223_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Second-Quarter 2023 Financial Results NEWS SUMMARY • Second-quarter revenue of $12.9 billion, down 15% year over year (YoY). •\nIntel/Page 2 Business Unit Summary Intel previously announced the organizational change to integrate its Accelerated Computing Systems and Graphics Group into its Client Computing Group and Data Center and AI Group.\nThe company announced an industry-first implementation of backside power using Intel PowerVia in a test chip, resulting in notable performance and efficiency gains.\nPowerVia will be incorporated into Intel 20A, expected to launch in the first half of 2024. ▪ IFS announced that Boeing and Northrop Grumman have committed to joining the U.S.\nThe program is intended to assure domestic access to next-generation semiconductors by establishing and demonstrating a U.S.-based foundry ecosystem to develop and fabricate chips on Intel 18A. ▪ DCAI announced the general availability of cloud instances of its 4th Gen Intel® Xeon® Scalable processors by Google Cloud.\nIt also announced a collaboration with Microsoft to drive the development of AI on personal computing, and previewed AI-enabled capabilities of Intel’s upcoming Meteor Lake client PC processors at Microsoft’s Build 2023 conference.\nIn addition, Intel introduced the Intel® ArcTM Pro A60 and Pro A60M as new members of the Intel Arc Pro A-series professional range of graphics processing units (GPUs). ▪ For NEX, Intel, Ericsson and HPE successfully demonstrated the industry’s first vRAN solution running on the 4th Gen Intel® Xeon® Scalable processor with Intel® vRAN Boost.\nIn addition, Intel and Ericsson will expand the collaboration announced at Mobile World Congress 2023 to accelerate industry-scale open RAN utilizing standard Intel Xeon-based platforms as telcos transform to a foundation of programmable, software-defined infrastructure. ▪ Mobileye continued to generate strong profitability in the second quarter and demonstrated traction with its advanced product portfolio by announcing a SuperVision eyes-on, hands-off design win with Porsche and a mobility-as-a-service collaboration with Volkswagen Group that will soon begin testing.\nIntel/Page 3 Intel continues to strategically invest in manufacturing capacity to further advance IDM 2.0, and during the quarter announced the selection of Wrocław, Poland, as the site of a new cutting-edge semiconductor assembly and test facility.\nQ3 2023 Dividend The company announced that its board of directors declared a quarterly dividend of $0.125 per share on the company’s common stock, which will be payable on Sept. 1, 2023, to shareholders of record as of Aug. 7, 2023.",
+  "full_text_characters": 37857,
+  "passage_characters": 2802,
+  "inference_timestamp": "2026-10-24T04:33:54.258938-04:00"
+}

@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Adobe",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Adobe\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 9,
+    "total_tokens": 229
+  },
+  "elapsed_seconds": 5.509,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000250/adbeex991q424.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 adbeex991q424.htm EX-99.1 Document Exhibit 99.1 Investor Relations Contact Steve Day Adobe ir@adobe.com Public Relations Contact Ashley Levine Adobe adobepr@adobe.com FOR IMMEDIATE RELEASE Adobe Reports Record Q4 and Fiscal 2024 Revenue • FY2024 Net New Digital Media ARR exceeds $2.0\n",
+  "full_text_characters": 21753,
+  "passage_characters": 295,
+  "inference_timestamp": "2026-10-24T04:42:14.818841-04:00"
+}

@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "Salesforce",
+    "products": [
+      "Agentforce"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Salesforce\",\"products\":[\"Agentforce\"]}",
+  "usage": {
+    "prompt_tokens": 547,
+    "completion_tokens": 11,
+    "total_tokens": 558
+  },
+  "elapsed_seconds": 11.946,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000027/crm-q1fy26xexhibit991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 crm-q1fy26xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Reports Record First Quarter Fiscal 2026 Results Exceeds Guidance Across All Metrics; cRPO up 12% Y/Y SAN FRANCISCO, Calif. - May 28, 2025 - Salesforce (NYSE: CRM), the world's #1 AI CRM, today announced results for its\nEX-99.1 2 crm-q1fy26xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Reports Record First Quarter Fiscal 2026 Results Exceeds Guidance Across All Metrics; cRPO up 12% Y/Y SAN FRANCISCO, Calif. - May 28, 2025 - Salesforce (NYSE: CRM), the world's #1 AI CRM, today announced results for its first quarter fiscal 2026 ended April 30, 2025.\nSalesforce has closed over 8,000 deals since launching Agentforce, of which half are paid\nMore than half of Salesforce's Q1 Top 100 Deals included 6+ Clouds Guidance Yesterday, Salesforce announced that the Company signed a definitive agreement to acquire Informatica Inc.\nProduct Releases and Enhancements Salesforce releases major updates for our core platform and apps three times a year, with additional updates happening regularly across our portfolio.\nThese releases are a result of significant research and development investments made over multiple years, and are designed to help customers drive cost savings, boost efficiency, and build trust.\nTo learn more about our newest innovations and product release highlights, including our latest Spring 2025 Product Release, see FY26 Q1 Product Releases and Announcements at https://www.salesforce.com/news/stories/fy26-q1-highlights/ and see our latest major release at www.salesforce.com/releases.",
+  "full_text_characters": 38802,
+  "passage_characters": 1595,
+  "inference_timestamp": "2026-10-24T04:44:30.933271-04:00"
+}

@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "organization": "Intel Corporation",
+    "products": [
+      "Intel® CoreTM Ultra 200V series mobile processors",
+      "Intel vPro®",
+      "Intel® CoreTM Ultra 200HX and H series mobile processors",
+      "Intel® CoreTM Ultra 200U series mobile processors",
+      "Intel® CoreTM Ultra 200S series desktop processor portfolio",
+      "Intel® Xeon® 6 processors with Performance-cores (P-cores)",
+      "Intel® Xeon® 6 processors for network and edge applications"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel Corporation\", \"products\":[\"Intel® CoreTM Ultra 200V series mobile processors\", \"Intel vPro®\", \"Intel® CoreTM Ultra 200HX and H series mobile processors\", \"Intel® CoreTM Ultra 200U series mobile processors\", \"Intel® CoreTM Ultra 200S series desktop processor portfolio\", \"Intel® Xeon® 6 processors with Performance-cores (P-cores)\", \"Intel® Xeon® 6 processors for network and edge applications\"]}",
+  "usage": {
+    "prompt_tokens": 686,
+    "completion_tokens": 110,
+    "total_tokens": 796
+  },
+  "elapsed_seconds": 28.004,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000070/q125_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q125_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports First-Quarter 2025 Financial Results News Summary ▪ First-quarter revenue was $12.7 billion, flat year-over-year (YoY). ▪ First-quarter\nSanta Clara, CA 95054-1549 News Release Intel Reports First-Quarter 2025 Financial Results News Summary ▪ First-quarter revenue was $12.7 billion, flat year-over-year (YoY). ▪ First-quarter earnings (loss) per share (EPS) attributable to Intel was $(0.19); non-GAAP EPS attributable to Intel was $0.13. ▪ Forecasting second-quarter 2025 revenue of $11.2 billion to $12.4 billion; expecting second-quarter EPS attributable to Intel of $(0.32) and non-GAAP EPS attributable to Intel of $0.00. ▪ Announcing initiative to drive improved execution and operational efficiency; expecting 2025 operating expenses of $17 billion and 2026 operating expenses of $16 billion.\nBusiness Highlights ▪ At CES, Intel announced the new Intel® CoreTM Ultra 200V series mobile processors with Intel vPro®, Intel® CoreTM Ultra 200HX and H series mobile processors, Intel® CoreTM Ultra 200U series mobile processors, and an expanded Intel® CoreTM Ultra 200S series desktop processor portfolio. ▪ In February, Intel launched new Intel® Xeon® 6 processors with Performance-cores (P-cores) for data center and Xeon 6 processors for network and edge applications, providing enhanced performance and efficiency across workloads. ▪ In April, MLCommons released its latest MLPerf Inference v5.0 benchmarks, in which Intel Xeon 6 with P-cores demonstrated a 1.9x boost in AI performance over the previous generation of processors, affirming Intel Xeon 6 as a top solution for modern AI systems 4 . ▪ Intel 18A is expected to ramp in the second half of 2025 to support the launch of Intel’s first Panther Lake SKU by year-end, with additional SKUs coming in the first half of 2026. ▪ Earlier this month, Intel announced an agreement to sell 51% of its Altera® business to Silver Lake.",
+  "full_text_characters": 37043,
+  "passage_characters": 2053,
+  "inference_timestamp": "2026-10-24T04:44:00.622054-04:00"
+}

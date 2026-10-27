@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "NVIDIA Blackwell Ultra",
+      "NVIDIA Dynamo",
+      "NVIDIA Halos",
+      "NVIDIA IsaacTM GR00T N1",
+      "NVIDIA IsaacTM GR00T N1.5",
+      "NVIDIA Isaac GR00T-Dreams"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"NVIDIA Blackwell Ultra\",\"NVIDIA Dynamo\",\"NVIDIA Halos\",\"NVIDIA IsaacTM GR00T N1\",\"NVIDIA IsaacTM GR00T N1.5\",\"NVIDIA Isaac GR00T-Dreams\"]}",
+  "usage": {
+    "prompt_tokens": 1004,
+    "completion_tokens": 58,
+    "total_tokens": 1062
+  },
+  "elapsed_seconds": 25.894,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000115/q1fy26pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q1fy26pr.htm EX-99.1 Document NVIDIA Announces Financial Results for First Quarter Fiscal 2026 • Revenue of $44.1 billion, up 12% from Q4 and up 69% from a year ago • Data Center revenue of $39.1 billion, up 10% from Q4 and up 73% from a year ago SANTA CLARA, Calif.—May 28, 2025― NVIDIA\nAnnounced that NVIDIA is building factories in the U.S. and working with its partners to produce NVIDIA AI supercomputers in the U.S.\nIntroduced NVIDIA Blackwell Ultra and NVIDIA Dynamo for accelerating and scaling AI reasoning models.\nAnnounced partnership with HUMAIN to build AI factories in the Kingdom of Saudi Arabia to drive the next wave of artificial intelligence development.\nUnveiled Stargate UAE, a next-generation AI infrastructure cluster in Abu Dhabi, United Arab Emirates, alongside strategic partners G42, OpenAI, Oracle, SoftBank Group and Cisco.\nAnnounced NVIDIA is speeding the IT infrastructure transition to enterprise AI factories with NVIDIA RTX PROTM Servers.\nUnveiled NVLink FusionTM for industry to build semi-custom AI infrastructure with NVIDIA’s partner ecosystem.\nAnnounced NVIDIA Spectrum-XTM and NVIDIA Quantum-X silicon photonics networking switches to scale AI factories to millions of GPUs.\nIntroduced the NVIDIA DGX SuperPODTM built with NVIDIA Blackwell Ultra GPUs to provide AI factory supercomputing for agentic AI reasoning.\nAnnounced joint initiatives with Alphabet and Google to advance agentic AI solutions, robotics and drug discovery.\nAnnounced integration between NVIDIA accelerated computing and inference software with Oracle’s AI infrastructure.\nRevealed that NVIDIA Blackwell cloud instances are now available on AWS, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure.\nAnnounced that the NVIDIA Blackwell platform set records in the latest MLPerf inference results, delivering up to 30x higher throughput.\nAnnounced NVIDIA DGX Cloud LeptonTM to connect developers to NVIDIA’s global compute ecosystem.\nLaunched the open Llama Nemotron family of models with reasoning capabilities, providing a foundation for creating advanced AI agents.\nIntroduced the NVIDIA AI Data Platform, a customizable reference design for AI inference workloads.\nAnnounced the opening of a research center in Japan that hosts the world’s largest quantum research supercomputer.\nAnnounced the NVIDIA GeForce RTXTM 5070 and RTX 5060, bringing Blackwell graphics to gamers at prices starting from $299 for desktops and $1,099 for laptops.\nUnveiled NVIDIA DLSS 4 is now available in over 125 games, including Black Myth Wukong , DOOM: The Dark Ages , Indiana Jones and the Great Circle , Marvel Rivals and Star Wars Outlaws .\nAnnounced the Nintendo Switch 2 is powered by an NVIDIA processor and AI-powered DLSS, delivering up to 4K gaming.\nLaunched the NVIDIA RTX Remix modding platform, attracting over 2 million gamers, alongside the release of the Half-Life 2 RTX demo.\nAnnounced the NVIDIA RTX PROTM Blackwell series for workstations and servers.\nUnveiled NVIDIA DGX Spark and DGX StationTM personal AI supercomputers powered by the NVIDIA Grace Blackwell platform.\nAnnounced that leading industrial software and service providers Accenture, Ansys, Databricks, SAP, Schneider Electric with ETAP, and Siemens are integrating the NVIDIA OmniverseTM platform into their solutions to accelerate industrial digitalization with physical AI.\nAnnounced a collaboration with General Motors on next-generation vehicles, factories and robots using NVIDIA Omniverse, NVIDIA CosmosTM and NVIDIA DRIVE AGXTM.\nLaunched NVIDIA Halos, a unified safety system combining NVIDIA’s automotive hardware, software and advanced AV safety AI research.\nAnnounced NVIDIA IsaacTM GR00T N1, the world’s first open humanoid robot foundation model, followed by NVIDIA IsaacTM GR00T N1.5; NVIDIA Isaac GR00T-Dreams, a blueprint for generating synthetic motion data; and NVIDIA Blackwell systems to accelerate humanoid robot development.\nReleased new NVIDIA CosmosTM world foundation models and physical AI data tools.",
+  "full_text_characters": 23379,
+  "passage_characters": 4021,
+  "inference_timestamp": "2026-10-24T04:28:23.816251-04:00"
+}

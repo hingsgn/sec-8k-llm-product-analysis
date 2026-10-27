@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Adobe",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Adobe\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 365,
+    "completion_tokens": 9,
+    "total_tokens": 374
+  },
+  "elapsed_seconds": 8.102,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000057/adbeex992q124.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.2 3 adbeex992q124.htm EX-99.2 Document Exhibit 99.2 Investor Relations Contact Jonathan Vaas Adobe ir@adobe.com Public Relations Contact Ashley Levine Adobe adobepr@adobe.com FOR IMMEDIATE RELEASE Adobe Announces New $25 Billion Stock Repurchase Program SAN JOSE, Calif. – March 14, 2024 –\nEX-99.2 3 adbeex992q124.htm EX-99.2 Document Exhibit 99.2 Investor Relations Contact Jonathan Vaas Adobe ir@adobe.com Public Relations Contact Ashley Levine Adobe adobepr@adobe.com FOR IMMEDIATE RELEASE Adobe Announces New $25 Billion Stock Repurchase Program SAN JOSE, Calif. – March 14, 2024 – Adobe (Nasdaq:ADBE) announced that its board of directors has approved a new stock repurchase authorization, granting the company authority to repurchase up to $25 billion in common stock through March 14, 2028.",
+  "full_text_characters": 4860,
+  "passage_characters": 803,
+  "inference_timestamp": "2026-10-24T04:37:35.846770-04:00"
+}

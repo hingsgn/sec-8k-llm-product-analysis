@@ -1,0 +1,25 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "Instinct MI300X",
+      "Ryzen AI 300 Series mobile processors"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"AMD\", \"products\": [\"Instinct MI300X\", \"Ryzen AI 300 Series mobile processors\"]}",
+  "usage": {
+    "prompt_tokens": 572,
+    "completion_tokens": 32,
+    "total_tokens": 604
+  },
+  "elapsed_seconds": 12.937,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000161/q32024991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q32024991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Mitch Haws AMD Investor Relations 408-749-3124 mitch.haws@amd.com AMD Reports Third Quarter 2024 Financial Results SANTA CLARA, Calif. ― October\nAt the Advancing AI 2024 event this month, AMD and strategic partners including Dell, Google Cloud, HPE, Lenovo, Meta, Microsoft, Oracle Cloud Infrastructure, Supermicro and AI leaders Databricks, Essential AI, Fireworks AI, Luma AI and Reka AI unveiled a broad portfolio of solutions delivering enterprise AI at scale based on the latest AMD Instinct accelerators, EPYC CPUs, AMD networking solutions and Ryzen PRO CPUs:\nAMD unveiled its first results on leading AI benchmark MLPerf, revealing excellent performance for AMD Instinct MI300X accelerators advanced by the AMD ROCm software platform, on-par with NVIDIA H100.\nIn partnership with Microsoft, AMD announced that Copilot+ will be enabled on AMD CPU-powered AI PCs via a free upgrade planned to be available starting in November 2024.\nOEM partners including Acer, HP, Lenovo and Asus announced new systems powered by AMD Ryzen AI 300 Series mobile processors, leveraging the leadership gaming, content creation and everyday performance of the new “Zen 5” architecture.\nAMD announced an agreement to acquire ZT Systems, a leading provider of AI and general purpose compute infrastructure for the world’s largest hyperscale providers, to expand the company’s data center AI systems capabilities and accelerate deployment 3 of AMD AI rack scale systems with cloud and enterprise customers.\nAMD and Intel announced the creation of an x86 ecosystem advisory group with Broadcom, Dell, Google, HPE, HP, Lenovo, Meta, Microsoft, Oracle, Red Hat and industry luminaries Linus Torvalds and Tim Sweeney to collaborate on architectural interoperability and simplify software development.",
+  "full_text_characters": 29643,
+  "passage_characters": 1933,
+  "inference_timestamp": "2026-10-24T04:31:57.049819-04:00"
+}

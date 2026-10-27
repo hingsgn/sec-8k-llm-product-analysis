@@ -1,0 +1,27 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "GeForce RTX TM 4060 family of GPUs",
+      "GeForce RTX 4070 GPU",
+      "GeForce RTX TM 4060 family of GPUs",
+      "GeForce RTX TM 4060 family of GPUs"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"GeForce RTX TM 4060 family of GPUs\", \"GeForce RTX 4070 GPU\", \"GeForce RTX TM 4060 family of GPUs\", \"GeForce RTX TM 4060 family of GPUs\"]}",
+  "usage": {
+    "prompt_tokens": 604,
+    "completion_tokens": 64,
+    "total_tokens": 668
+  },
+  "elapsed_seconds": 22.278,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000087/q1fy24pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q1fy24pr.htm Q1FY24 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for First Quarter Fiscal 2024 • Quarterly revenue of $7.19 billion, up 19% from previous quarter • Record Data Center revenue of $4.28 billion • Second quarter fiscal 2024 revenue outlook\nLaunched four inference platforms that combine the company’s full-stack inference software with the latest NVIDIA Ada, NVIDIA Hopper TM and NVIDIA Grace Hopper TM processors.\nAnnounced that Google Cloud is the first cloud provider offering the new NVIDIA L4 Tensor Core GPU to accelerate generative AI applications.\nIntroduced NVIDIA AI Foundations to help businesses create and operate custom large language models and generative AI models trained with their own proprietary data for domain-specific tasks.\nUnveiled the NVIDIA cuLitho software library for computational lithography to accelerate the design and manufacturing of next-gen semiconductors.\nAnnounced a collaboration with Medtronic to build an AI platform for medical devices.\nAnnounced it is integrating NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives.\nAnnounced the GeForce RTX TM 4060 family of GPUs, bringing the advancements of NVIDIA Ada Lovelace architecture and DLSS, starting at $299.\nLaunched the GeForce RTX 4070 GPU based on the Ada architecture, which enables DLSS 3, real-time ray-tracing and the ability to run most modern games at over 100 frames per second at 1440p resolution.\nMade path tracing available for the first time on a major gaming title through collaboration with CD PROJEKT RED on an update to Cyberpunk 2077 .\nAnnounced NVIDIA Omniverse TM Cloud, a fully managed service running in Microsoft Azure, for the development and deployment of industrial metaverse applications.\nAnnounced six new NVIDIA RTX TM GPUs for mobile and desktop workstations based on the Ada architecture.\nAnnounced that its automotive design win pipeline has grown to $14 billion over the next six years, up from $11 billion a year ago.\nAnnounced that the world’s leading electric vehicle maker BYD will extend its use of NVIDIA DRIVE Orin TM across new models.",
+  "full_text_characters": 19407,
+  "passage_characters": 2199,
+  "inference_timestamp": "2026-10-24T04:49:03.556621-04:00"
+}

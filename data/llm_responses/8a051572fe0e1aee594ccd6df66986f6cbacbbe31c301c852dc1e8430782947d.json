@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Cisco",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Cisco\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 257,
+    "completion_tokens": 9,
+    "total_tokens": 266
+  },
+  "elapsed_seconds": 4.807,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523214316/d511414dex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 d511414dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Press Contact: Investor Relations Contact: Robyn Blum Marilyn Mora Cisco Cisco 1 (408) 930-8548 1 (408) 527-7452 rojenkin@cisco.com marilmor@cisco.com CISCO REPORTS FOURTH QUARTER AND FISCAL YEAR 2023 EARNINGS News Summary : • Cisco ended\n",
+  "full_text_characters": 34224,
+  "passage_characters": 296,
+  "inference_timestamp": "2026-10-24T04:33:59.075418-04:00"
+}

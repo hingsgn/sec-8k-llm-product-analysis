@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Hewlett Packard Enterprise",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Hewlett Packard Enterprise\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 240,
+    "completion_tokens": 14,
+    "total_tokens": 254
+  },
+  "elapsed_seconds": 7.862,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000096/ex-991x932025x8k.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ex-991x932025x8k.htm EX-99.1 Document Exhibit 99.1 HPE 1701 E. Mossy Oaks Road Spring, TX 77389-1767 hpe.com News Release Hewlett Packard Enterprise Reports Fiscal 2025 Third Quarter Results Delivers record revenue with sequential profitability growth HOUSTON – September 3, 2025 – HPE\n",
+  "full_text_characters": 59728,
+  "passage_characters": 296,
+  "inference_timestamp": "2026-10-24T04:45:54.043559-04:00"
+}

@@ -1,0 +1,36 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "NVIDIA NIM",
+      "NVIDIA Blackwell platform",
+      "DGX SuperPOD",
+      "NVIDIA Quantum",
+      "NVIDIA Spectrum X800 series switches",
+      "NVIDIA AI Enterprise 5.0",
+      "TSMC and Synopsys cuLitho",
+      "Grace Hopper Superchips",
+      "NVIDIA ACE",
+      "Windows NVIDIA NIM inference microservices",
+      "NVIDIA RTXTM 500 and 1000 professional Ada generation laptop GPUs",
+      "NVIDIA Omniverse Cloud APIs",
+      "The Weather Company Earth-2 cloud APIs"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"NVIDIA NIM\",\"NVIDIA Blackwell platform\",\"DGX SuperPOD\",\"NVIDIA Quantum\",\"NVIDIA Spectrum X800 series switches\",\"NVIDIA AI Enterprise 5.0\",\"TSMC and Synopsys cuLitho\",\"Grace Hopper Superchips\",\"NVIDIA ACE\",\"Windows NVIDIA NIM inference microservices\",\"NVIDIA RTXTM 500 and 1000 professional Ada generation laptop GPUs\",\"NVIDIA Omniverse Cloud APIs\",\"The Weather Company Earth-2 cloud APIs\"]}",
+  "usage": {
+    "prompt_tokens": 769,
+    "completion_tokens": 116,
+    "total_tokens": 885
+  },
+  "elapsed_seconds": 54.072,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000113/q1fy25pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q1fy25pr.htm Q1FY25 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for First Quarter Fiscal 2025 • Record quarterly revenue of $26.0 billion, up 18% from Q4 and up 262% from a year ago • Record quarterly Data Center revenue of $22.6 billion, up 23% from\nAnd NVIDIA NIM is our new software offering that delivers enterprise-grade, optimized generative AI to run on CUDA everywhere — from the cloud to on-prem data centers and RTX AI PCs — through our expansive network of ecosystem partners.” NVIDIA also announced a ten-for-one forward stock split of NVIDIA’s issued common stock to make stock ownership more accessible to employees and investors.\nUnveiled the NVIDIA Blackwell platform to fuel a new era of AI computing at trillion-parameter scale and the Blackwell-powered DGX SuperPODTM for generative AI supercomputing.\nAnnounced NVIDIA Quantum and NVIDIA SpectrumTM X800 series switches for InfiniBand and Ethernet, respectively, optimized for trillion-parameter GPU computing and AI infrastructure.\nLaunched NVIDIA AI Enterprise 5.0 with NVIDIA NIM inference microservices to speed enterprise app development.\nAnnounced TSMC and Synopsys are going into production with NVIDIA cuLitho to accelerate computational lithography, the semiconductor manufacturing industry’s most compute-intensive workload.\nAnnounced that nine new supercomputers worldwide are using Grace Hopper Superchips to ignite new era of AI supercomputing.\nUnveiled that Grace Hopper Superchips power the top three machines on the Green500 list of the world’s most energy-efficient supercomputers.\nIntroduced new AI gaming technologies at GDC for NVIDIA ACE and Neural Graphics.\nUnveiled new AI performance optimizations and integrations for Windows to deliver maximum performance on NVIDIA GeForce RTX AI PCs and workstations.\nAnnounced more blockbuster games that will incorporate RTX technology, including Star Wars Outlaws and Black Myth Wukong.\nIntroduced NVIDIA RTXTM 500 and 1000 professional Ada generation laptop GPUs for AI-enhanced workflows.\nUnveiled NVIDIA RTX A400 and A1000 GPUs for desktop workstations, based on the NVIDIA Ampere architecture, to bring AI to design and productivity workflows.\nIntroduced NVIDIA OmniverseTM Cloud APIs to power industrial digital twin software tools, including an expanded Siemens partnership, and a new framework for the Apple Vision Pro.\nAnnounced the adoption of the new Earth-2 cloud APIs by The Weather Company and the Central Weather Administration of Taiwan for high-resolution global climate simulations.\nAnnounced BYD, XPENG, GAC’s AION Hyper, Nuro and others have chosen the next-generation NVIDIA DRIVE ThorTM platform, which now features Blackwell GPU architecture, to power their next-generation consumer and commercial electric vehicle fleets.\nAnnounced an array of partners are using NVIDIA generative AI technologies to transform in-vehicle experiences.\nIntroduced the Project GR00T foundation model for humanoid robots and major Isaac robotics platform updates.",
+  "full_text_characters": 20941,
+  "passage_characters": 3045,
+  "inference_timestamp": "2026-10-24T04:26:48.978166-04:00"
+}

@@ -1,0 +1,25 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "Lunar Lake",
+      "Arrow Lake"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Intel\",\"products\":[\"Lunar Lake\",\"Arrow Lake\"]}",
+  "usage": {
+    "prompt_tokens": 1029,
+    "completion_tokens": 14,
+    "total_tokens": 1043
+  },
+  "elapsed_seconds": 21.339,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000147/q324_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q324_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Third-Quarter 2024 Financial Results NEWS SUMMARY ▪ Third-quarter revenue of $13.3 billion. ▪ Third-quarter GAAP earnings (loss) per\nIntel/Page 3 Business Unit Summary In October 2022, Intel announced an internal foundry operating model, which took effect in the first quarter of 2024 and created a foundry relationship between its Intel Products business (collectively CCG, DCAI and NEX) and its Intel Foundry business (including Foundry Technology Development, Foundry Manufacturing and Supply Chain and Foundry Services, formerly IFS).\nIn furtherance of Intel's internal foundry operating model, Intel announced in the third quarter of 2024 its intent to establish Intel Foundry as an independent subsidiary.\nThe company also previously announced its intent to operate Altera ® as a standalone business beginning in the first quarter of 2024.\nQ3 2023 Intel Products: Client Computing Group (CCG) $7.3 billion down 7% Data Center and AI (DCAI) $3.3 billion up 9% Network and Edge (NEX) $1.5 billion up 4% Total Intel Products revenue $12.2 billion down 2% Intel Foundry $4.4 billion down 8% All other: Altera $412 million down 44% Mobileye $485 million down 8% Other $142 million down 24% Total all other revenue $1,039 million down 28% Intersegment eliminations $(4.3) billion Total net revenue $13.3 billion down 6% Intel Products Highlights ▪ Intel announced plans with AMD to create the x86 Ecosystem Advisory Group, bringing together leaders from across the industry to help shape the future of x86.\nIn September, Intel launched its Intel ® CoreTM Ultra 200V series processors, code-named Lunar Lake, delivering several more hours of battery life and gains in performance, graphics and AI.\nThis month, Intel launched the new Intel ® Core TM Ultra 200S processors, code-named Arrow Lake, that will scale AI PC capabilities to desktop platforms and usher in the first enthusiast desktop AI PCs. ▪ DCAI: Intel launched Intel ® Xeon ® , doubling the performance of the prior generation with increased core counts, memory bandwidth, and embedded AI acceleration.\nIntel also launched its Intel ® Gaudi ® 3 AI accelerators, delivering twice the networking bandwidth and 1.5x the memory bandwidth of its predecessor for large language model efficiency.\nIBM and Intel announced a global collaboration to deploy Intel Gaudi 3 AI accelerators as a service on IBM Cloud, aiming to help more cost-effectively scale enterprise AI and drive innovation underpinned with security and resiliency.\nNEX: Intel achieved a significant design win earlier this month with KDDI, a major global telecom, announcing its selection of Samsung's vRAN 3.0 solution powered by 4th Gen Intel ® Xeon ® Scalable processors with Intel vRAN Boost.\nIntel 18A is healthy and continues to progress well, and the company’s two lead products, Panther Lake for client and Clearwater Forest for servers, have met early Intel 18A milestones ahead of next year's launches. ▪ Intel and Amazon Web Services (AWS) are finalizing a multi-year, multi-billion-dollar commitment to expand the companies' existing partnership to include a new custom Xeon 6 chip for AWS on Intel 3 and a new AI fabric chip for AWS on Intel 18A. ▪ The Biden-Harris Administration announced that Intel was awarded up to $3 billion in direct funding under the CHIPS and Science Act for the Secure Enclave program.\nThe program is designed to expand the trusted manufacturing of leading-edge semiconductors for the U.S. government and fortify the domestic semiconductor supply chain. ▪ Intel announced its intention to establish Intel Foundry as an independent subsidiary.",
+  "full_text_characters": 41211,
+  "passage_characters": 3767,
+  "inference_timestamp": "2026-10-24T04:41:11.513883-04:00"
+}

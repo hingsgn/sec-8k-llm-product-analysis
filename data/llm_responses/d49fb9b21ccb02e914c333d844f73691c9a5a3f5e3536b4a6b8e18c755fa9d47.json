@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "Instinct MI300X",
+      "Instinct MI300 Series",
+      "Ryzen AI PRO processors",
+      "Ryzen 9000X3D",
+      "Ryzen Z2",
+      "Ryzen 9000HX"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"AMD\", \"products\": [\"Instinct MI300X\", \"Instinct MI300 Series\", \"Ryzen AI PRO processors\", \"Ryzen 9000X3D\", \"Ryzen Z2\", \"Ryzen 9000HX\"]}",
+  "usage": {
+    "prompt_tokens": 497,
+    "completion_tokens": 67,
+    "total_tokens": 564
+  },
+  "elapsed_seconds": 17.596,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000009/q42024991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q42024991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Matt Ramsay AMD Investor Relations 512-602-0113 matthew.ramsay@amd.com AMD Reports Fourth Quarter and Full Year 2024 Financial Results SANTA\nIBM announced plans to deploy AMD Instinct MI300X accelerators to power generative AI and HPC applications on IBM Cloud.\nVultr and AMD announced a strategic collaboration to leverage AMD Instinct MI300X accelerators and AMD ROCmTM open software to power Vultr’s cloud infrastructure for enterprise AI development and deployment.\nAleph Alpha announced that it will leverage AMD Instinct MI300 Series accelerators and ROCm software to enable its tokenizer-free LLM architecture, a new approach to generative AI that aims to simplify the development of sovereign AI solutions for governments and enterprises.\nAMD released ROCm 6.3 with numerous performance enhancements enabling faster inferencing on AMD Instinct accelerators as well as additional compiler tools and libraries.\nDell and AMD announced that AMD Ryzen AI PRO processors will power new Dell Pro notebook and desktop PCs, bringing exceptional battery life, on-device AI, Copilot+ experiences and dependable productivity to enterprise users.\nAt CES 2025, AMD announced new AMD Ryzen 9000X3D, Ryzen Z2 and Ryzen 9000HX processors, extending its leadership in desktop, mobile and handheld gaming.\nVodafone and AMD announced they are collaborating on mobile base station silicon chip designs to enable higher-capacity AI and digital services.",
+  "full_text_characters": 32971,
+  "passage_characters": 1592,
+  "inference_timestamp": "2026-10-24T04:32:14.654675-04:00"
+}

@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "Salesforce",
+    "products": [
+      "Winter 2025 Product Release"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Salesforce\",\"products\":[\"Winter 2025 Product Release\"]}",
+  "usage": {
+    "prompt_tokens": 432,
+    "completion_tokens": 17,
+    "total_tokens": 449
+  },
+  "elapsed_seconds": 12.253,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000033/crm-q3fy25xexhibit991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 crm-q3fy25xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces Third Quarter Fiscal 2025 Results SAN FRANCISCO, Calif. - December 3, 2024 - Salesforce (NYSE: CRM), the #1 AI CRM, today announced results for its third quarter fiscal 2025 ended October 31, 2024. Third Quarter\nEX-99.1 2 crm-q3fy25xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces Third Quarter Fiscal 2025 Results SAN FRANCISCO, Calif. - December 3, 2024 - Salesforce (NYSE: CRM), the #1 AI CRM, today announced results for its third quarter fiscal 2025 ended October 31, 2024.\nProduct Releases and Enhancements Three times a year Salesforce delivers new product releases, services, or enhancements to current products and services.\nThese releases are a result of significant research and development investments made over multiple years, designed to help customers drive cost savings, boost efficiency, and build trust.\nTo view our major product releases and other highlights as part of the Winter 2025 Product Release, visit: www.salesforce.com/products/innovation/winter-25-release.",
+  "full_text_characters": 39938,
+  "passage_characters": 1091,
+  "inference_timestamp": "2026-10-24T04:41:46.729883-04:00"
+}

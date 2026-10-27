@@ -1,0 +1,26 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "Intel CoreTM Ultra 200V series mobile processors",
+      "Intel vPro®",
+      "Intel CoreTM Ultra 200H and HX series mobile processors"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"Intel\", \"products\": [\"Intel CoreTM Ultra 200V series mobile processors\", \"Intel vPro®\", \"Intel CoreTM Ultra 200H and HX series mobile processors\"]}",
+  "usage": {
+    "prompt_tokens": 953,
+    "completion_tokens": 47,
+    "total_tokens": 1000
+  },
+  "elapsed_seconds": 21.969,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000004/q424_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q424_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports Fourth-Quarter and Full-Year 2024 Financial Results News Summary ▪ Fourth-quarter revenue was $14.3 billion, down 7% year-over-year\nDave and I are taking actions to enhance our competitive position and create shareholder value.” “The cost reduction plan we announced last year to improve the trajectory of the company is having an impact,” said David Zinsner, interim co-CEO and chief financial officer of Intel. “We are fostering a culture of efficiency across the business while driving toward greater returns on our invested capital and improved profitability.\nIntel/Page 2 Full-Year 2024 Financial Results GAAP Non-GAAP 2024 2023 vs. 2023 2024 2023 vs. 2023 Revenue ($B) $53.1 $54.2 down 2% Gross margin 32.7% 40.0% down 7.3 ppts 36.0% 43.6% down 7.6 ppts R&D and MG&A ($B) $22.1 $21.7 up 2% $19.4 $19.0 up 2% Operating margin (loss) (22.0)% 0.2% down 22.2 ppts (0.5)% 8.6% down 9.1 ppts Tax rate 71.6% (119.8)% up 191.4 ppts 13.0% 13.0% — Net income (loss) attributable to Intel ($B) $(18.8) $1.7 n/m* $(0.6) $4.4 down 113% Earnings (loss) per share attributable to Intel—diluted $(4.38) $0.40 n/m* $(0.13) $1.05 down 112% For the full year, the company generated $8.3 billion in cash from operations and paid dividends of $1.6 billion. * Not meaningful Business Unit Summary In October 2022, Intel announced an internal foundry operating model, which took effect in the first quarter of 2024 and created a foundry relationship between its Intel Products business (collectively CCG, DCAI and NEX) and its Intel Foundry business (including Foundry Technology Development, Foundry Manufacturing and Supply Chain, and Foundry Services, formerly IFS).\nIn furtherance of Intel's internal foundry operating model, Intel announced in the third quarter of 2024 its intent to establish Intel Foundry as an independent subsidiary.\nThe company also previously announced its intent to operate Altera ® as a standalone business.\nAt CES, Intel introduced the Intel® CoreTM Ultra 200V series mobile processors with Intel vPro®, empowering businesses with AI-driven productivity and enhanced IT management.\nThe company also unveiled the Intel® CoreTM Ultra 200H and HX series mobile processors, delivering industry-leading performance, efficiency and platform capabilities, alongside a landmark reduction in power usage.\nIntel also showcased its MRDIMMs memory technology, the fastest memory system ever created, in Intel® Xeon® 6 data center processors, achieving a significant increase in bandwidth that would normally take multiple generations to reach. ▪ NEX: At CES, Intel launched a new line of Intel® CoreTM Ultra processors for edge computing, prioritizing scalability and performance across various AI applications. ▪ Intel and AMD are seeing strong engagement from the x86 Ecosystem Advisory Group.",
+  "full_text_characters": 41848,
+  "passage_characters": 2961,
+  "inference_timestamp": "2026-10-24T04:42:44.026426-04:00"
+}

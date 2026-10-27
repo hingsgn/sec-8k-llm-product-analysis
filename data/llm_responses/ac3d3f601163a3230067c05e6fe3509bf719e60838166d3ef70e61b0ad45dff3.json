@@ -1,0 +1,28 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "Anthropic",
+      "BlueField-4",
+      "Borderlands 4",
+      "DRIVE AGX HyperionTM 10",
+      "Omniverse TM DSX"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"Anthropic\",\"BlueField-4\",\"Borderlands 4\",\"DRIVE AGX HyperionTM 10\",\"Omniverse TM DSX\"]}",
+  "usage": {
+    "prompt_tokens": 816,
+    "completion_tokens": 39,
+    "total_tokens": 855
+  },
+  "elapsed_seconds": 20.998,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/q3fy26pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q3fy26pr.htm EX-99.1 Document NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 • Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year ago • Record Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago SANTA CLARA, Calif.—Nov. 19,\nAnnounced a strategic partnership with OpenAI to deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure.\nAnnounced that, for the first time, Anthropic will run and scale on NVIDIA infrastructure, initially adopting 1 gigawatt of compute capacity with NVIDIA Grace Blackwell and Vera Rubin systems.\nAnnounced a collaboration with Intel to jointly develop multiple generations of custom data center and PC products with NVIDIA NVLink.\nUnveiled NVIDIA Rubin CPX, a new class of GPU purpose-built for massive-context processing.\nIntroduced NVIDIA NVQLinkTM, an open system architecture for tightly coupling the extreme performance of NVIDIA GPU computing with quantum processors, which will be adopted by more than a dozen supercomputing centers globally.\nIntroduced NVIDIA OmniverseTM DSX, a comprehensive, open blueprint for designing and operating gigawatt-scale AI factories.\nLaunched NVIDIA BlueField-4, the processor for the operating system of AI factories, with industry leaders including CoreWeave, Dell Technologies, Oracle Cloud Infrastructure, Palo Alto Networks, Red Hat and VAST Data building next-generation BlueField®-accelerated data center platforms.\nUnveiled the all-American AI-RAN stack to accelerate the path to 6G with industry-leading partners Booz Allen, Cisco, MITRE, ODC and T-Mobile.\nRevealed that NVIDIA is working with partners including CoreWeave, Microsoft and Nscale to build the U.K.’s next generation of AI infrastructure, and announced an investment of £2 billion in the U.K. market.\nLaunched the world’s first Industrial AI Cloud with Deutsche Telekom to power the AI era of Germany’s industrial transformation.\nAnnounced that NVIDIA is working with the South Korea government and industrial leaders, including Hyundai Motor Group, Samsung Electronics, SK Group and NAVER Cloud, to expand the nation’s AI infrastructure with over a quarter-million NVIDIA GPUs.\nLaunched Borderlands 4 , Battlefield 6 and ARC Raiders with NVIDIA DLSS 4 with Multi Frame Generation and NVIDIA Reflex.\nUnveiled an NVIDIA RTXTM Remix update, adding an advanced path-traced particle system that enables modders to enhance traditional effects.\nReleased an NVIDIA Blueprint for 3D object generation, RTX-optimized NVIDIA TensorRTTM for Windows ML and performance boosts for leading AI tools on RTX AI PCs.\nIntroduced the NVIDIA DRIVE AGX HyperionTM 10 autonomous vehicle development platform, a reference compute and sensor architecture designed to enable automakers and developers to build safe, scalable level 4 fleets.\nAnnounced that leading industrial solutions providers, including PTC and Siemens, introduced new services that bring NVIDIA OmniverseTM-powered digital twin workflows to their extensive installed base of customers.\nUnveiled NVIDIA IGX ThorTM, a powerful, industrial-grade platform built to bring real-time physical AI directly to the edge.",
+  "full_text_characters": 23722,
+  "passage_characters": 3209,
+  "inference_timestamp": "2026-10-24T04:29:27.394748-04:00"
+}

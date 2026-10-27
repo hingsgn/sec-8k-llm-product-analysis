@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Salesforce",
+    "products": []
+  },
+  "raw_response": "{ \"organization\": \"Salesforce\", \"products\": []}",
+  "usage": {
+    "prompt_tokens": 646,
+    "completion_tokens": 13,
+    "total_tokens": 659
+  },
+  "elapsed_seconds": 15.567,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852424000002/crm-q4fy24xexhibit991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 crm-q4fy24xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces Strong Fourth Quarter Fiscal 2024 Results SAN FRANCISCO, Calif. - February 28, 2024 - Salesforce (NYSE: CRM), the #1 AI CRM, today announced results for its fiscal fourth quarter and full fiscal year 2024 ended\nEX-99.1 2 crm-q4fy24xexhibit991.htm EX-99.1 Document Exhibit 99.1 Salesforce Announces Strong Fourth Quarter Fiscal 2024 Results SAN FRANCISCO, Calif. - February 28, 2024 - Salesforce (NYSE: CRM), the #1 AI CRM, today announced results for its fiscal fourth quarter and full fiscal year 2024 ended January 31, 2024.\nWe’re also thrilled to initiate our first-ever Salesforce dividend and increase our share buyback plan by $10 billion,” said Marc Benioff, Chair & CEO, Salesforce. “With our trusted, unified Einstein 1 Platform, we’re incredibly well positioned to build on our success and capitalize on the massive surge in tech spending expected over the coming years, delivering an unprecedented level of intelligence to our customers as AI transforms every company and industry.” “We had a strong close to our fiscal year and demonstrated significant progress on the profitable growth strategy we announced last year, delivering full year GAAP operating margin of 14.4% and Non-GAAP operating margin of 30.5%,” said Amy Weaver, President and CFO of Salesforce. “We have had an extraordinary year of transformation and, looking ahead, we remain committed to driving shareholder value.” Salesforce delivered the following results for its fiscal fourth quarter and full fiscal year: Revenue : Total fourth quarter revenue was $9.29 billion, an increase of 11% Y/Y and 10% CC.\nProduct Releases and Enhancements Three times a year Salesforce delivers new product releases, services, or enhancements to current products and services.\nThese releases are a result of significant research and development investments made over multiple years, designed to help customers drive cost savings, boost efficiency, and build trust.\nTo view our major product releases and other highlights as part of the Spring 2024 Product Release, visit: www.salesforce.com/products/spring-24-release.",
+  "full_text_characters": 44705,
+  "passage_characters": 2170,
+  "inference_timestamp": "2026-10-24T04:37:05.220588-04:00"
+}

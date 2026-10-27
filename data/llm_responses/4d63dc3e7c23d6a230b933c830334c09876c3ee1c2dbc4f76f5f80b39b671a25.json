@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "Oracle Corporation",
+    "products": [
+      "NetSuite Cloud ERP (SaaS)"
+    ]
+  },
+  "raw_response": "{\"organization\":\"Oracle Corporation\",\"products\":[\"NetSuite Cloud ERP (SaaS)\"]}",
+  "usage": {
+    "prompt_tokens": 410,
+    "completion_tokens": 17,
+    "total_tokens": 427
+  },
+  "elapsed_seconds": 8.284,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104753/orcl-ex99_1.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 orcl-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 For Immediate Release Contact: Ken Bond Deborah Hellinger Oracle Investor Relations Oracle Corporate Communications 1.650.607.0349 1.212.508.7935 ken.bond@oracle.com deborah.hellinger@oracle.com Oracle Announces Fiscal 2025 First Quarter\nEX-99.1 2 orcl-ex99_1.htm EX-99.1 EX-99.1 Exhibit 99.1 For Immediate Release Contact: Ken Bond Deborah Hellinger Oracle Investor Relations Oracle Corporate Communications 1.650.607.0349 1.212.508.7935 ken.bond@oracle.com deborah.hellinger@oracle.com Oracle Announces Fiscal 2025 First Quarter Financial Results\nQ1 NetSuite Cloud ERP (SaaS) Revenue $0.9 billion, up 20% in both USD and constant currency AUSTIN, Texas, September 9, 2024 -- Oracle Corporation (NYSE: ORCL) today announced fiscal 2025 Q1 results.",
+  "full_text_characters": 24801,
+  "passage_characters": 803,
+  "inference_timestamp": "2026-10-24T04:40:32.677935-04:00"
+}

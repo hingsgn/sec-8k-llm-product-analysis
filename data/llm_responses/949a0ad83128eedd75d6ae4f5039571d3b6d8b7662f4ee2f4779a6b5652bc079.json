@@ -1,0 +1,26 @@
+{
+  "parsed": {
+    "organization": "AMD",
+    "products": [
+      "VersalTM Series Gen 2 devices",
+      "Versal AI Edge Series Gen 2 SoCs",
+      "Instinct MI300X"
+    ]
+  },
+  "raw_response": "{\"organization\":\"AMD\",\"products\":[\"VersalTM Series Gen 2 devices\",\"Versal AI Edge Series Gen 2 SoCs\",\"Instinct MI300X\"]}",
+  "usage": {
+    "prompt_tokens": 412,
+    "completion_tokens": 35,
+    "total_tokens": 447
+  },
+  "elapsed_seconds": 9.693,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000054/q12024991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q12024991.htm EX-99.1 Document NEWS RELEASE Media Contact: Drew Prairie AMD Communications 512-602-4425 drew.prairie@amd.com Investor Contact: Mitch Haws AMD Investor Relations 408-749-3124 mitch.haws@amd.com AMD Reports First Quarter 2024 Financial Results SANTA CLARA, Calif. ― Apr. 30,\nLenovo announced the highly performant ThinkSystem SR685a V3 8GPU server with AMD Instinct MI300X for both enterprise on-premise AI and public AI cloud service providers.\nHP and Lenovo announced new enterprise PCs powered by Ryzen PRO 8000 Series processors.\nAMD launched new VersalTM Series Gen 2 devices, including the Versal AI Edge Series Gen 2 SoCs that combine multiple compute engines on a single chip for highly efficient end-to-end acceleration of AI-driven embedded systems.\nLenovo announced two new platforms powered by 4 th Gen AMD EPYC processors, the ThinkAgile MX455 V3 Edge Premier Solution, an AI-optimized fully integrated solution with the Microsoft Azure Stack HCI, and the ThinkSystem SD535 V3, which is tailor made for mixed enterprise workloads.",
+  "full_text_characters": 27751,
+  "passage_characters": 1067,
+  "inference_timestamp": "2026-10-24T04:31:19.852101-04:00"
+}

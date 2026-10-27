@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Hewlett Packard Enterprise",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Hewlett Packard Enterprise\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 14,
+    "total_tokens": 244
+  },
+  "elapsed_seconds": 5.731,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000090/ex-991x642024x8k.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ex-991x642024x8k.htm EX-99.1 Document Exhibit 99.1 Hewlett Packard Enterprise 1701 E. Mossy Oaks Road Spring, TX 77389-1767 hpe.com News Release Hewlett Packard Enterprise reports fiscal 2024 second quarter results AI systems revenue doubled sequentially, beating Q2 revenue guidance\n",
+  "full_text_characters": 52806,
+  "passage_characters": 294,
+  "inference_timestamp": "2026-10-24T04:38:52.509053-04:00"
+}

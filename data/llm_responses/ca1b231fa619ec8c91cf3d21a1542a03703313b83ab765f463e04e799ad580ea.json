@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "Cisco",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"Cisco\",\"products\":[]}",
+  "usage": {
+    "prompt_tokens": 758,
+    "completion_tokens": 9,
+    "total_tokens": 767
+  },
+  "elapsed_seconds": 14.018,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312525179820/d901470dex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 d901470dex991.htm EX-99.1 EX-99.1 Exhibit 99.1 Press Contact: Investor Relations Contact: Robyn Blum Sami Badri Cisco Cisco 1 (408) 930-8548 1 (469) 420-4834 rojenkin@cisco.com sambadri@cisco.com CISCO REPORTS FOURTH QUARTER AND FISCAL YEAR 2025 EARNINGS News Summary : • Strong topline\nRECONCILIATIONS OF GAAP TO NON-GAAP MEASURES EFFECTIVE TAX RATE (In percentages) Three Months Ended Fiscal Year Ended July 26, 2025 July 27, 2024 July 26, 2025 July 27, 2024 GAAP effective tax rate 15.8 % 9.8 % 8.7 % 15.6 % Total adjustments to GAAP provision for income taxes 2.3 % 6.8 % 9.7 % 2.9 % Non-GAAP effective tax rate 18.1 % 16.6 % 18.4 % 18.5 % GAAP TO NON-GAAP GUIDANCE Q1 FY 2026 Gross Margin Operating Margin Earnings per Share (1) GAAP 65% - 66% 21.5% - 22.5% $0.63 - $0.68 Estimated adjustments for: Share-based compensation expense 1.0% 6.5% $0.18 - $0.19 Amortization of acquisition-related intangible assets and acquisition/divestiture-related costs 1.5% 4.0% $0.11 - $0.12 Significant asset impairments and restructurings (2) — 1.0% $0.02 - $0.03 Non-GAAP 67.5% - 68.5% 33% - 34% $0.97 - $0.99 FY 2026 Earnings per Share (1) GAAP $2.79 - $2.91 Estimated adjustments for: Share-based compensation expense $0.69 -$0.71 Amortization of acquisition-related intangible assets and acquisition/divestiture-related costs $0.43 - $0.45 Significant asset impairments and restructurings (2) $0.03 - $0.05 Non-GAAP $4.00 - $4.06 (1) Estimated adjustments to GAAP earnings per share are shown after income tax effects. (2) Reflects charges related to a restructuring plan announced on August 14, 2024.",
+  "full_text_characters": 34986,
+  "passage_characters": 1606,
+  "inference_timestamp": "2026-10-24T04:45:26.161929-04:00"
+}

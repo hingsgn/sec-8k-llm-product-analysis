@@ -1,0 +1,27 @@
+{
+  "parsed": {
+    "organization": "Intel",
+    "products": [
+      "Gaudi 3 AI accelerator",
+      "Sierra Forest E-core Intel® Xeon®",
+      "Granite Rapids",
+      "Open Platform for Enterprise AI"
+    ]
+  },
+  "raw_response": "{ \"organization\": \"Intel\", \"products\": [\"Gaudi 3 AI accelerator\", \"Sierra Forest E-core Intel® Xeon®\", \"Granite Rapids\", \"Open Platform for Enterprise AI\"]}",
+  "usage": {
+    "prompt_tokens": 1228,
+    "completion_tokens": 42,
+    "total_tokens": 1270
+  },
+  "elapsed_seconds": 35.387,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q124_earningsrelease.htm EX-99.1 Document Exhibit 99.1 Intel Corporation 2200 Mission College Blvd. Santa Clara, CA 95054-1549 News Release Intel Reports First-Quarter 2024 Financial Results NEWS SUMMARY ▪ First-quarter revenue of $12.7 billion, up 9% year over year (YoY). ▪ First-quarter\nQ1 2023 Revenue ($B) $12.7 $11.7 up 9% Gross Margin 41.0% 34.2% up 6.8 ppts 45.1% 38.4% up 6.7 ppts R&D and MG&A ($B) $5.9 $5.4 up 10% $5.0 $4.8 up 5% Operating Margin (8.4)% (12.5)% up 4.1 ppts 5.7% (2.5)% up 8.2 ppts Tax Rate 39.2% (139.0)% n/m* 13.0% 13.0% — Net Income (loss) Attributable to Intel ($B) $(0.4) $(2.8) up 86% $0.8 $(0.2) n/m* Earnings (loss) Per Share Attributable to Intel $(0.09) $(0.66) up 86% $0.18 $(0.04) n/m* In the first quarter, the company used $1.2 billion in cash from operations and paid dividends of $0.5 billion. *Not meaningful Intel/Page 2 Business Unit Summary Intel previously announced the implementation of an internal foundry operating model, which took effect in the first quarter of 2024 and created a foundry relationship between its Intel Products business (collectively CCG, DCAI, and NEX) and its Intel Foundry business (including Foundry Technology Development, Foundry Manufacturing and Supply Chain, and Foundry Services (formerly IFS)).\nThe company also previously announced its intent to operate Altera ® , an Intel Company (previously Intel's Programmable Solutions Group), as a standalone business beginning in the first quarter of 2024.\nIntel expects to exceed its prior forecast of 40 million AI PCs by the end of 2024. ▪ DCAI: At Intel Vision, the company introduced the Intel ® Gaudi ® 3 AI accelerator, projected to deliver on-average 50% faster inference and 40% greater inference power efficiency than Nvidia H100 1 on leading generative AI (GenAI) models.\nIntel also announced new Intel Gaudi accelerator customers and partners, including NAVER, Dell Technologies, Bosch, Supermicro and many others.\nAdditionally, the next-generation E-core Intel® Xeon®, code-named Sierra Forest, achieved product release this week, and Intel expects Granite Rapids to be released in the third quarter. ▪ NEX: At Mobile World Congress in Barcelona, Intel introduced the new Intel Edge Platform – a modular, open software platform enabling enterprises to develop, deploy, and manage edge and AI applications at scale.\nIntel also announced the Open Platform for Enterprise AI, which aims to accelerate secure, cost-effective GenAI deployments for businesses by driving interoperability across a diverse and heterogeneous ecosystem, starting with retrieval-augmented generation (RAG). 1 NV H100 comparison based on NVIDIA-published data as of March 28, 2024.\nIntel/Page 3 Intel Foundry Highlights ▪ At its inaugural Direct Connect event in February, Intel launched Intel Foundry, the world’s first systems foundry for the AI era, supported by nearly 300 ecosystem partners in attendance.\nAt Direct Connect, Intel Foundry announced an increased expected lifetime deal value for external customers of more than $15 billion. ▪ Intel continues to drive customer adoption of Intel 18A, with a major U.S. aerospace and defense customer committing to Intel 18A, bringing Intel Foundry's external customer commitments on Intel 18A to six.\nThis quarter, Microsoft also announced its plans to design a chip on Intel 18A. ▪ Intel unveiled its process technology roadmap beyond its five-nodes-in-four-years process goal, adding Intel 14A to its leading-edge node lineup following Intel 18A and announcing several specialized node evolutions for Intel 3, Intel 18A and Intel 14A to enable customers to develop and deliver products tailored to their specific needs. ▪ Intel Foundry has a strong pipeline of nearly 50 customer test chips, and has engagements with almost every foundry customer in the industry on advanced packaging, including five design awards.\nQ2 2024 Dividend The company announced that its board of directors has declared a quarterly dividend of $0.125 per share on the company’s common stock, which will be payable June 1, 2024, to shareholders of record as of May 7, 2024.",
+  "full_text_characters": 34466,
+  "passage_characters": 4123,
+  "inference_timestamp": "2026-10-24T04:38:22.836097-04:00"
+}

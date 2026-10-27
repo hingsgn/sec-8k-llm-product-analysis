@@ -1,0 +1,22 @@
+{
+  "parsed": {
+    "organization": "HP Inc.",
+    "products": []
+  },
+  "raw_response": "{\"organization\":\"HP Inc.\", \"products\":[]}",
+  "usage": {
+    "prompt_tokens": 482,
+    "completion_tokens": 11,
+    "total_tokens": 493
+  },
+  "elapsed_seconds": 8.548,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000060/hp073125exhibit991q325.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 hp073125exhibit991q325.htm EX-99.1 Document 1501 Page Mill Road Palo Alto, CA 94304 hp.com Editorial contacts HP Inc. Media Relations MediaRelations@hp.com HP Inc. Investor Relations InvestorRelations@hp.com EXHIBIT 99.1 News Release HP Inc. Reports Fiscal 2025 Third Quarter Results PALO\nNet revenue and EPS results HP Inc. and its subsidiaries (“HP”) announced fiscal 2025 third quarter net revenue of $13.9 billion, up 3.1% (up 3.3% in constant currency) from the prior-year period. “In Q3 we delivered a fifth consecutive quarter of revenue growth, driven by strength in Personal Systems and strong momentum in our key growth areas,” said Enrique Lores, President and CEO of HP Inc. “These results demonstrate our agility and focused execution in the quarter, reinforce the strength of our strategy, and our commitment to be a leader in the future of work.” “Looking forward, we remain confident in the strength of the PC market opportunity, and expect continued momentum from Windows 11 refresh and AI PC adoption,” said Karen Parkhill, CFO, HP Inc. “We believe that the actions we are taking are the right ones to enable us to respond swiftly to near term market dynamics, while continuing to invest for long-term profitable growth.” Third quarter GAAP diluted net EPS was $0.80, up from $0.65 in the prior-year period and above the previously provided outlook of $0.57 to $0.69.",
+  "full_text_characters": 46022,
+  "passage_characters": 1395,
+  "inference_timestamp": "2026-10-24T04:45:34.715918-04:00"
+}

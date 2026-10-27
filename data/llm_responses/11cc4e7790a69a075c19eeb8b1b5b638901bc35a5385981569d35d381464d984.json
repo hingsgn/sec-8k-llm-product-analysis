@@ -1,0 +1,24 @@
+{
+  "parsed": {
+    "organization": "IBM",
+    "products": [
+      "watsonx AI platform"
+    ]
+  },
+  "raw_response": "{\"organization\":\"IBM\",\"products\":[\"watsonx AI platform\"]}",
+  "usage": {
+    "prompt_tokens": 535,
+    "completion_tokens": 13,
+    "total_tokens": 548
+  },
+  "elapsed_seconds": 12.589,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000005114323000010/ibm-20230719xex991.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 ibm-20230719xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES SECOND-QUARTER RESULTS Solid Software and Consulting Revenue Growth; Strong Gross Profit Margin Expansion ARMONK, N.Y., July 19, 2023 . . . IBM (NYSE: IBM) today announced second-quarter 2023 earnings results.\nEX-99.1 2 ibm-20230719xex991.htm EX-99.1 Document Exhibit 99.1 IBM RELEASES SECOND-QUARTER RESULTS Solid Software and Consulting Revenue Growth; Strong Gross Profit Margin Expansion ARMONK, N.Y., July 19, 2023 . . .\nIBM (NYSE: IBM) today announced second-quarter 2023 earnings results. “Organizations are using our hybrid cloud and AI technology, and our consulting capabilities, to transform their operations,\" said Arvind Krishna, IBM chairman and chief executive officer. \"We continue to respond to the needs of our clients who seek trusted, enterprise AI solutions, and we are particularly excited about the response to the recently launched watsonx AI platform.\nOperating (Non-GAAP): Pre-Tax Income (9 pts); Pre-Tax Income Margin (1.4 pts); Net Income (9 pts); EPS (9 pts). ** 0.4% at constant currency “In the quarter, revenue performance was led by our growth vectors of software and consulting, and we continued to expand our gross profit margin, driven by our improving portfolio mix and productivity initiatives,\" said James Kavanaugh, IBM senior vice president and chief financial officer. \"This year we have leveraged our strong cash position to invest for growth, announcing seven acquisitions to bolster our hybrid cloud and AI strategy, while continuing to return value to shareholders through dividends.” Segment Results for Second Quarter",
+  "full_text_characters": 23045,
+  "passage_characters": 1641,
+  "inference_timestamp": "2026-10-24T04:33:22.132146-04:00"
+}

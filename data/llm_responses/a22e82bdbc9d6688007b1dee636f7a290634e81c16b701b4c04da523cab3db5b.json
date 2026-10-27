@@ -1,0 +1,31 @@
+{
+  "parsed": {
+    "organization": "NVIDIA",
+    "products": [
+      "GeForce RTXTM 50 Series graphics cards",
+      "GeForce RTX 5090 and 5080 graphics cards",
+      "NVIDIA NIM microservices",
+      "Llama Nemotron model families",
+      "RTX AI PCs",
+      "Project DIGITS",
+      "Media2",
+      "CosmosTM"
+    ]
+  },
+  "raw_response": "{\"organization\":\"NVIDIA\",\"products\":[\"GeForce RTXTM 50 Series graphics cards\", \"GeForce RTX 5090 and 5080 graphics cards\", \"NVIDIA NIM microservices\", \"Llama Nemotron model families\", \"RTX AI PCs\", \"Project DIGITS\", \"Media2\", \"CosmosTM\"]}",
+  "usage": {
+    "prompt_tokens": 757,
+    "completion_tokens": 75,
+    "total_tokens": 832
+  },
+  "elapsed_seconds": 22.451,
+  "prompt_version": "product-ner-v4",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000021/q4fy25pr.htm",
+  "model_repository": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "model_revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+  "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+  "passage": "EX-99.1 2 q4fy25pr.htm Q4FY25 PRESS RELEASE Document FOR IMMEDIATE RELEASE: NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2025 • Record quarterly revenue of $39.3 billion, up 12% from Q3 and up 78% from a year ago • Record quarterly Data Center revenue of $35.6 billion, up 16%\nAnnounced that NVIDIA will serve as a key technology partner for the $500 billion Stargate Project.\nAnnounced a collaboration with Verizon to integrate NVIDIA AI Enterprise, NIM and accelerated computing with Verizon’s private 5G network to power a range of edge enterprise AI applications and services.\nUnveiled partnerships with industry leaders including IQVIA, Illumina, Mayo Clinic and Arc Institute to advance genomics, drug discovery and healthcare.\nLaunched NVIDIA AI Blueprints and Llama Nemotron model families for building AI agents and released NVIDIA NIM microservices to safeguard applications for agentic AI.\nAnnounced the opening of NVIDIA’s first R&D center in Vietnam.\nAnnounced new GeForce RTXTM 50 Series graphics cards and laptops powered by the NVIDIA Blackwell architecture, delivering breakthroughs in AI-driven rendering to gamers, creators and developers.\nLaunched GeForce RTX 5090 and 5080 graphics cards, delivering up to a 2x performance improvement over the prior generation.\nIntroduced NVIDIA DLSS 4 with Multi Frame Generation and image quality enhancements, with 75 games and apps supporting it at launch, and unveiled NVIDIA Reflex 2 technology, which can reduce PC latency by up to 75%.\nUnveiled NVIDIA NIM microservices, AI Blueprints and the Llama Nemotron family of open models for RTX AI PCs to help developers and enthusiasts build AI agents and creative workflows.\nUnveiled NVIDIA Project DIGITS, a personal AI supercomputer that provides AI researchers, data scientists and students worldwide with access to the power of the NVIDIA GraceTM Blackwell platform.\nAnnounced generative AI models and blueprints that expand NVIDIA OmniverseTM integration further into physical AI applications, including robotics, autonomous vehicles and vision AI.\nIntroduced NVIDIA Media2, an AI-powered initiative transforming content creation, streaming and live media experiences, built on NIM and AI Blueprints.\nAnnounced that Toyota, the world’s largest automaker, will build its next-generation vehicles on NVIDIA DRIVE AGX OrinTM running the safety-certified NVIDIA DriveOS operating system.\nAnnounced that the NVIDIA DriveOS safe autonomous driving operating system received ASIL-D functional safety certification and launched the NVIDIA DRIVETM AI Systems Inspection Lab.\nLaunched NVIDIA CosmosTM, a platform comprising state-of-the-art generative world foundation models, to accelerate physical AI development, with adoption by leading robotics and automotive companies 1X, Agile Robots, Waabi, Uber and others.\nUnveiled the NVIDIA Jetson Orin NanoTM Super, which delivers up to a 1.7x gain in generative AI performance.",
+  "full_text_characters": 22986,
+  "passage_characters": 2948,
+  "inference_timestamp": "2026-10-24T04:27:57.899088-04:00"
+}
