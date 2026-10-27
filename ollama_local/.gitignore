@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+output/
+assignment2_output/
+CAP5619_Assignment2_Ollama/
+*.log
+.venv/
