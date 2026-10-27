@@ -26,8 +26,8 @@ the filing's covered period are eligible; the filing timestamp is not a launch d
 
 **Deliverables produced:** `products.csv` (exactly five columns), a pipe-separated
 table, `Assignment2_Methodology_Report.pdf`, Python source and this notebook.
-The private submission package also includes the prepared CV with the repository
-URL at the top. Personal CV files are not published to GitHub.
+The submission package contains the assignment files only.
+Add the repository URL at the top of your CV separately, as required by the assignment.
 """
 nb.cells[1].source = """## 1. Install only missing dependencies
 Checkpoint replay is fast and does not load a model. The recorded inference used
@@ -115,8 +115,7 @@ print("Report created: two pages, with actual counts and the GitHub URL.")
 '''))
 nb.cells.append(nbf.v4.new_markdown_cell("""## 7. Download the complete submission
 The ZIP includes the notebook, Python source, CSV, PDF report and saved source and
-LLM audit records. If the prepared CV is present in this project folder, it is
-included in this local ZIP as well; it is never uploaded to GitHub by this notebook.
+LLM audit records. CV files are excluded from this submission ZIP.
 Code and outputs are already published at the repository linked above. Canvas
 submission itself is performed by the student.
 """))
@@ -135,8 +134,8 @@ instructions = """ASSIGNMENT 2 - SUBMISSION CONTENTS
 4. Assignment2_Methodology_Report.pdf: two-page methodology report.
 5. data/ and output/*.json: source documents, actual LLM responses and audit records.
 GitHub: https://github.com/hingsgn/sec-8k-llm-product-analysis
-The repository URL must appear at the top of your CV. The separately prepared
-Hieu_Nguyen_CV.pdf already contains it. Keep personal CV files off the public repo.
+The repository URL must appear at the top of your CV as a separate requirement.
+CV files are excluded from the assignment ZIP and the public repository.
 Run all notebook cells in order. Default mode replays saved real model responses;
 RERUN_LLM=True makes fresh Python calls to the free local model.
 If the CSV has fewer than 100 rows after new inference, expand/review the data;
@@ -154,9 +153,6 @@ include += [ROOT / name for name in ["requirements-replay.txt", "requirements-ll
 for folder in ["data/documents", "data/llm_responses", "output"]:
     include += sorted(path for path in (ROOT / folder).rglob("*") if path.is_file())
 include += [ROOT / "data/filing_manifest.json", ROOT / "data/review_decisions.json"]
-cv = ROOT / "Hieu_Nguyen_CV.pdf"
-if cv.exists():
-    include.append(cv)
 with zipfile.ZipFile(package_path, "w", zipfile.ZIP_DEFLATED) as package:
     for path in dict.fromkeys(include):
         if path.exists():

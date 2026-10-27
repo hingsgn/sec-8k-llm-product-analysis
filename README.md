@@ -25,7 +25,7 @@ The exported product sample includes named releases reported for each filing's
 covered period, including earnings-release summaries of recent introductions.
 Filing acceptance times are not original product launch dates. The PDF makes this
 scope explicit. Report generation is in `tools/build_pdf_report.py`.
-Personal CV files are included only in the privately delivered package, never here.
+Submission ZIPs contain assignment files only; personal CV files are excluded.
 
 ## Recorded results
 
