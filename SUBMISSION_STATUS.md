@@ -9,7 +9,9 @@ five-column CSV, and a two-page methodology report in Word and PDF formats.
 - All product descriptions are shorter than 180 characters; the maximum is 129.
 - Every row retains source evidence, an SEC URL, and its LLM response checkpoint.
 - Checkpoint replay reproduced the CSV byte for byte.
-- All 11 notebook code cells and five regression checks passed.
+- The complete notebook's 13 code cells passed sequential Python execution; five regression checks passed.
+- The final report was regenerated and visually verified as two pages.
+- The default mode replays saved real inference records; fresh inference remains optional.
 - Three source exhibits matched current SEC downloads.
 
 Repository: https://github.com/hingsgn/sec-8k-llm-product-analysis

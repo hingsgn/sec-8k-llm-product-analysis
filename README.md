@@ -11,6 +11,22 @@ PRODUCT entities in SEC 8-K filings and their attached press releases. The outpu
 contains the five required columns. Separate source evidence and inference
 checkpoints make each retained row traceable.
 
+## Complete notebook and one-click export
+
+Open `Assignment2_Complete.ipynb` and choose **Run all**. Its default mode replays
+104 saved real local-LLM responses, regenerates the reviewed 102-row CSV, builds
+a two-page PDF report from the actual run summary, and downloads a submission ZIP.
+There is no Ollama localhost dependency and no paid API key. The complete notebook
+also contains the Python code for fresh local Qwen inference with `RERUN_LLM=True`.
+
+[Open the complete notebook in Colab](https://colab.research.google.com/github/hingsgn/sec-8k-llm-product-analysis/blob/main/Assignment2_Complete.ipynb)
+
+The exported product sample includes named releases reported for each filing's
+covered period, including earnings-release summaries of recent introductions.
+Filing acceptance times are not original product launch dates. The PDF makes this
+scope explicit. Report generation is in `tools/build_pdf_report.py`.
+Personal CV files are included only in the privately delivered package, never here.
+
 ## Recorded results
 
 - 104 filings from 10 companies; 245 primary reports and attached documents downloaded.
